@@ -15,13 +15,17 @@ with open("testData.csv") as f:
         data = data.replace(u'\ufeff', '')
         data = data.replace('sq mi', '')
         data = data.replace('km2', '')
+        data = data.replace('/', ',')
+        data = data.replace(';', '')
+        #data = data.replace(';
         data = re.sub(r'\[.\]', '', data)
-        data = data.split('/', 1)[0] 
+        data = data.split('(', 1)[0] 
         cnt += 1
         if(cnt == 11*n):
             outString += "\n"
             n += 1
 
+outString = outString.replace(',,', ',')
 f = open("testData.csv", 'w')
 f.write(str(outString))
 f.close()
