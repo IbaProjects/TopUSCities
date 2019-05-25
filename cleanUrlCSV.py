@@ -1,5 +1,5 @@
 #!./env/bin/python3.5
-header = "wikipedia url,\n"
+header = "wikipedia url\n"
 testString = ""
 outString = header 
 with open("testData.csv") as f:
@@ -10,7 +10,6 @@ with open("testData.csv") as f:
         if result == True:
             outString += "https://en.wikipedia.org"
             outString += testString
-            outString += ", "
             outString += "\n"
             data = f.readline()
             testString = ""

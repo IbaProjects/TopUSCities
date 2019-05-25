@@ -1,314 +1,314 @@
-1, New York City, New York, 8398748, 8175133, +2.74%, 301.5, 780.9, 28317, 10933, 40°39′49″N 73°56′19″W, 40.6635°N 73.9387°W, 40.6635 -73.9387, https://en.wikipedia.org/wiki/New_York_City,
-2, Los Angeles, California, 3990456, 3792621, +5.22%, 468.7, 1213.9, 8484, 3276, 34°01′10″N 118°24′39″W, 34.0194°N 118.4108°W, 34.0194 -118.4108, https://en.wikipedia.org/wiki/Los_Angeles,
-3, Chicago, Illinois, 2705994, 2695598, +0.39%, 227.3, 588.7, 11900, 4600, 41°50′15″N 87°40′54″W, 41.8376°N 87.6818°W, 41.8376 -87.6818, https://en.wikipedia.org/wiki/Chicago,
-4, Houston, Texas, 2325502, 2100263, +10.72%, 637.5, 1651.1, 3613, 1395, 29°47′12″N 95°23′27″W, 29.7866°N 95.3909°W, 29.7866 -95.3909, https://en.wikipedia.org/wiki/Houston,
-5, Phoenix, Arizona, 1660272, 1445632, +14.85%, 517.6, 1340.6, 3120, 1200, 33°34′20″N 112°05′24″W, 33.5722°N 112.0901°W, 33.5722 -112.0901, https://en.wikipedia.org/wiki/Phoenix,_Arizona,
-6, Philadelphia, Pennsylvania, 1584138, 1526006, +3.81%, 134.2, 347.6, 11683, 4511, 40°00′34″N 75°08′00″W, 40.0094°N 75.1333°W, 40.0094 -75.1333, https://en.wikipedia.org/wiki/Philadelphia,
-7, San Antonio, Texas, 1532233, 1327407, +15.43%, 461.0, 1194.0, 3238, 1250, 29°28′21″N 98°31′30″W, 29.4724°N 98.5251°W, 29.4724 -98.5251, https://en.wikipedia.org/wiki/San_Antonio,
-8, San Diego, California, 1425976, 1307402, +9.07%, 325.2, 842.3, 4325, 1670, 32°48′55″N 117°08′06″W, 32.8153°N 117.1350°W, 32.8153 -117.1350, https://en.wikipedia.org/wiki/San_Diego,
-9, Dallas, Texas, 1345047, 1197816, +12.29%, 340.9, 882.9, 3866, 1493, 32°47′36″N 96°45′59″W, 32.7933°N 96.7665°W, 32.7933 -96.7665, https://en.wikipedia.org/wiki/Dallas,
-10, San Jose, California, 1030119, 945942, +8.90%, 177.5, 459.7, 5777, 2231, 37°17′48″N 121°49′08″W, 37.2967°N 121.8189°W, 37.2967 -121.8189, https://en.wikipedia.org/wiki/San_Jose,_California,
-11, Austin, Texas, 964254, 790390, +22.00%, 312.7, 809.9, 3031, 1170, 30°18′14″N 97°45′16″W, 30.3039°N 97.7544°W, 30.3039 -97.7544, https://en.wikipedia.org/wiki/Austin,_Texas,
-12, Jacksonville, Florida, 903889, 821784, +9.99%, 747.4, 1935.8, 1178, 455, 30°20′13″N 81°39′42″W, 30.3369°N 81.6616°W, 30.3369 -81.6616, https://en.wikipedia.org/wiki/Jacksonville,_Florida,
-13, Fort Worth, Texas, 895008, 741206, +20.75%, 342.9, 888.1, 2491, 962, 32°46′53″N 97°20′48″W, 32.7815°N 97.3467°W, 32.7815 -97.3467, https://en.wikipedia.org/wiki/Fort_Worth,_Texas,
-14, Columbus, Ohio, 892533, 787033, +13.40%, 218.5, 565.9, 3936, 1520, 39°59′07″N 82°59′05″W, 39.9852°N 82.9848°W, 39.9852 -82.9848, https://en.wikipedia.org/wiki/Columbus,_Ohio,
-15, San Francisco, California, 883305, 805235, +9.70%, 46.9, 121.5, 18569, 7170, 37°43′38″N 123°01′56″W, 37.7272°N 123.0322°W, 37.7272 -123.0322, https://en.wikipedia.org/wiki/San_Francisco,
-16, Charlotte, North Carolina, 872498, 731424, +19.29%, 305.4, 791.0, 2757, 1064, 35°12′28″N 80°49′52″W, 35.2078°N 80.8310°W, 35.2078 -80.8310, https://en.wikipedia.org/wiki/Charlotte,_North_Carolina,
-17, Indianapolis, Indiana, 867125, 820445, +5.69%, 361.5, 936.3, 2366, 914, 39°46′36″N 86°08′45″W, 39.7767°N 86.1459°W, 39.7767 -86.1459, https://en.wikipedia.org/wiki/Indianapolis,
-18, Seattle, Washington, 744955, 608660, +22.39%, 83.8, 217.0, 8405, 3245, 47°37′14″N 122°21′03″W, 47.6205°N 122.3509°W, 47.6205 -122.3509, https://en.wikipedia.org/wiki/Seattle,
-19, Denver, Colorado, 716492, 600158, +19.38%, 153.3, 397.0, 4521, 1746, 39°45′43″N 104°52′52″W, 39.7619°N 104.8811°W, 39.7619 -104.8811, https://en.wikipedia.org/wiki/Denver,
-20, Washington D.C., District of Columbia, 702455, 601723, +16.74%, 61.1, 158.2, 11148, 4304, 38°54′15″N 77°01′02″W, 38.9041°N 77.0172°W, 38.9041 -77.0172, https://en.wikipedia.org/wiki/Washington,_D.C.,
-21, Boston, Massachusetts, 694583, 617594, +12.47%, 48.3, 125.1, 13938, 5381, 42°19′55″N 71°01′13″W, 42.3320°N 71.0202°W, 42.3320 -71.0202, https://en.wikipedia.org/wiki/Boston,
-22, El Paso, Texas, 682669, 649121, +5.17%, 256.8, 665.1, 2660, 1030, 31°50′54″N 106°25′37″W, 31.8484°N 106.4270°W, 31.8484 -106.4270, https://en.wikipedia.org/wiki/El_Paso,_Texas,
-23, Detroit, Michigan, 672662, 713777, −5.76%, 138.8, 359.5, 4847, 1871, 42°22′59″N 83°06′08″W, 42.3830°N 83.1022°W, 42.3830 -83.1022, https://en.wikipedia.org/wiki/Detroit,
-24, Nashville, Tennessee, 669053, 601222, +11.28%, 475.9, 1232.6, 1388, 536, 36°10′18″N 86°47′06″W, 36.1718°N 86.7850°W, 36.1718 -86.7850, https://en.wikipedia.org/wiki/Nashville,_Tennessee,
-25, Portland, Oregon, 653115, 583776, +11.88%, 133.5, 345.8, 4793, 1851, 45°32′13″N 122°39′00″W, 45.5370°N 122.6500°W, 45.5370 -122.6500, https://en.wikipedia.org/wiki/Portland,_Oregon,
-26, Memphis, Tennessee, 650618, 646889, +0.58%, 317.4, 822.1, 2056, 794, 35°06′10″N 89°58′39″W, 35.1028°N 89.9774°W, 35.1028 -89.9774, https://en.wikipedia.org/wiki/Memphis,_Tennessee,
-27, Oklahoma City, Oklahoma, 649021, 579999, +11.90%, 606.3, 1570.3, 1053, 407, 35°28′02″N 97°30′49″W, 35.4671°N 97.5137°W, 35.4671 -97.5137, https://en.wikipedia.org/wiki/Oklahoma_City,
-28, Las Vegas, Nevada, 644644, 583756, +10.43%, 134.4, 348.1, 4709, 1818, 36°13′45″N 115°15′36″W, 36.2292°N 115.2601°W, 36.2292 -115.2601, https://en.wikipedia.org/wiki/Las_Vegas,
-29, Louisville, Kentucky, 620118, 597337, +3.81%, 263.5, 682.5, 2339, 903, 38°09′55″N 85°38′51″W, 38.1654°N 85.6474°W, 38.1654 -85.6474, https://en.wikipedia.org/wiki/Louisville,_Kentucky,
-30, Baltimore, Maryland, 602495, 620961, −2.97%, 80.9, 209.5, 7598, 2934, 39°18′00″N 76°36′38″W, 39.3000°N 76.6105°W, 39.3000 -76.6105, https://en.wikipedia.org/wiki/Baltimore,
-31, Milwaukee, Wisconsin, 592025, 594833, −0.47%, 96.2, 249.2, 6186, 2388, 43°03′48″N 87°58′00″W, 43.0633°N 87.9667°W, 43.0633 -87.9667, https://en.wikipedia.org/wiki/Milwaukee,
-32, Albuquerque, New Mexico, 560218, 545852, +2.63%, 188.2, 487.4, 2972, 1147, 35°06′20″N 106°38′51″W, 35.1056°N 106.6474°W, 35.1056 -106.6474, https://en.wikipedia.org/wiki/Albuquerque,_New_Mexico,
-33, Tucson, Arizona, 545975, 520116, +4.97%, 230.8, 597.8, 2299, 888, 32°09′11″N 110°52′14″W, 32.1531°N 110.8706°W, 32.1531 -110.8706, https://en.wikipedia.org/wiki/Tucson,_Arizona,
-34, Fresno, California, 530093, 494665, +7.16%, 114.4, 296.3, 4563, 1762, 36°47′01″N 119°47′36″W, 36.7836°N 119.7934°W, 36.7836 -119.7934, https://en.wikipedia.org/wiki/Fresno,_California,
-35, Mesa, Arizona, 508958, 439041, +15.92%, 137.9, 357.2, 3514, 1357, 33°24′07″N 111°43′03″W, 33.4019°N 111.7174°W, 33.4019 -111.7174, https://en.wikipedia.org/wiki/Mesa,_Arizona,
-36, Sacramento, California, 508529, 466488, +9.01%, 97.9, 253.6, 5059, 1953, 38°34′00″N 121°28′07″W, 38.5666°N 121.4686°W, 38.5666 -121.4686, https://en.wikipedia.org/wiki/Sacramento,_California,
-37, Atlanta, Georgia, 498044, 420003, +18.58%, 133.5, 345.8, 3539, 1366, 33°45′46″N 84°25′22″W, 33.7629°N 84.4227°W, 33.7629 -84.4227, https://en.wikipedia.org/wiki/Atlanta,
-38, Kansas City, Missouri, 491918, 459787, +6.99%, 315.0, 815.8, 1528, 590, 39°07′30″N 94°33′04″W, 39.1251°N 94.5510°W, 39.1251 -94.5510, https://en.wikipedia.org/wiki/Kansas_City,_Missouri,
-39, Colorado Springs, Colorado, 472688, 416427, +13.51%, 195.6, 506.6, 2378, 918, 38°52′02″N 104°45′39″W, 38.8673°N 104.7607°W, 38.8673 -104.7607, https://en.wikipedia.org/wiki/Colorado_Springs,_Colorado,
-40, Miami, Florida, 470914, 399457, +17.89%, 36.0, 93.2, 12599, 4865, 25°46′31″N 80°12′31″W, 25.7752°N 80.2086°W, 25.7752 -80.2086, https://en.wikipedia.org/wiki/Miami,
-41, Raleigh, North Carolina, 469298, 403892, +16.19%, 145.1, 375.8, 3163, 1221, 35°49′50″N 78°38′30″W, 35.8306°N 78.6418°W, 35.8306 -78.6418, https://en.wikipedia.org/wiki/Raleigh,_North_Carolina,
-42, Omaha, Nebraska, 468262, 408958, +14.50%, 133.2, 345.0, 3356, 1296, 41°15′52″N 96°02′42″W, 41.2644°N 96.0451°W, 41.2644 -96.0451, https://en.wikipedia.org/wiki/Omaha,_Nebraska,
-43, Long Beach, California, 467354, 462257, +1.10%, 50.3, 130.3, 9347, 3609, 33°48′33″N 118°09′19″W, 33.8092°N 118.1553°W, 33.8092 -118.1553, https://en.wikipedia.org/wiki/Long_Beach,_California,
-44, Virginia Beach, Virginia, 450189, 437994, +2.78%, 244.7, 633.8, 1850, 710, 36°46′48″N 76°01′31″W, 36.7800°N 76.0252°W, 36.7800 -76.0252, https://en.wikipedia.org/wiki/Virginia_Beach,_Virginia,
-45, Oakland, California, 429082, 390724, +9.82%, 55.9, 144.8, 7514, 2901, 37°46′11″N 122°13′33″W, 37.7698°N 122.2257°W, 37.7698 -122.2257, https://en.wikipedia.org/wiki/Oakland,_California,
-46, Minneapolis, Minnesota, 425403, 382578, +11.19%, 54.0, 139.9, 7660, 2960, 44°57′48″N 93°16′06″W, 44.9633°N 93.2683°W, 44.9633 -93.2683, https://en.wikipedia.org/wiki/Minneapolis,
-47, Tulsa, Oklahoma, 400669, 391906, +2.24%, 196.8, 509.7, 2048, 791, 36°07′40″N 95°54′08″W, 36.1279°N 95.9023°W, 36.1279 -95.9023, https://en.wikipedia.org/wiki/Tulsa,_Oklahoma,
-48, Arlington, Texas, 398112, 365438, +8.94%, 95.8, 248.1, 4100, 1600, 32°42′03″N 97°07′29″W, 32.7007°N 97.1247°W, 32.7007 -97.1247, https://en.wikipedia.org/wiki/Arlington,_Texas,
-49, Tampa, Florida, 392890, 335709, +17.03%, 113.4, 293.7, 3326, 1284, 27°58′12″N 82°28′47″W, 27.9701°N 82.4797°W, 27.9701 -82.4797, https://en.wikipedia.org/wiki/Tampa,_Florida,
-50, New Orleans, Louisiana, 391006, 343829, +13.72%, 169.4, 438.7, 2311, 892, 30°03′12″N 89°56′04″W, 30.0534°N 89.9345°W, 30.0534 -89.9345, https://en.wikipedia.org/wiki/New_Orleans,
-51, Wichita, Kansas, 389255, 382368, +1.80%, 160.4, 415.4, 2431, 939, 37°41′27″N 97°20′45″W, 37.6907°N 97.3459°W, 37.6907 -97.3459, https://en.wikipedia.org/wiki/Wichita,_Kansas,
-52, Cleveland, Ohio, 383793, 396815, −3.28%, 77.7, 201.2, 4965, 1917, 41°28′43″N 81°40′46″W, 41.4785°N 81.6794°W, 41.4785 -81.6794, https://en.wikipedia.org/wiki/Cleveland,
-53, Bakersfield, California, 383579, 347483, +10.39%, 148.8, 385.4, 2529, 976, 35°19′16″N 119°01′06″W, 35.3212°N 119.0183°W, 35.3212 -119.0183, https://en.wikipedia.org/wiki/Bakersfield,_California,
-54, Aurora, Colorado, 374114, 325078, +15.08%, 153.5, 397.6, 2356, 910, 39°41′17″N 104°41′23″W, 39.6880°N 104.6897°W, 39.6880 -104.6897, https://en.wikipedia.org/wiki/Aurora,_Colorado,
-55, Anaheim, California, 352005, 336265, +4.68%, 50.0, 129.5, 7021, 2711, 33°51′20″N 117°45′36″W, 33.8555°N 117.7601°W, 33.8555 -117.7601, https://en.wikipedia.org/wiki/Anaheim,_California,
-56, Honolulu, Hawaii, 347397, 337256, +3.01%, 60.5, 156.7, 5815, 2245, 21°19′27″N 157°50′51″W, 21.3243°N 157.8476°W, 21.3243 -157.8476, https://en.wikipedia.org/wiki/Honolulu,
-57, Santa Ana, California, 332725, 324528, +2.53%, 27.1, 70.2, 12333, 4762, 33°44′11″N 117°52′59″W, 33.7363°N 117.8830°W, 33.7363 -117.8830, https://en.wikipedia.org/wiki/Santa_Ana,_California,
-58, Riverside, California, 330063, 303871, +8.62%, 81.2, 210.3, 3999, 1544, 33°56′17″N 117°23′36″W, 33.9381°N 117.3932°W, 33.9381 -117.3932, https://en.wikipedia.org/wiki/Riverside,_California,
-59, Corpus Christi, Texas, 326554, 305215, +6.99%, 174.6, 452.2, 1866, 720, 27°45′15″N 97°10′24″W, 27.7543°N 97.1734°W, 27.7543 -97.1734, https://en.wikipedia.org/wiki/Corpus_Christi,_Texas,
-60, Lexington, Kentucky, 323780, 295803, +9.46%, 283.6, 734.5, 1123, 434, 38°02′27″N 84°27′30″W, 38.0407°N 84.4583°W, 38.0407 -84.4583, https://en.wikipedia.org/wiki/Lexington,_Kentucky,
-61, Stockton, California, 311178, 291707, +6.67%, 61.7, 159.8, 4977, 1922, 37°58′35″N 121°18′48″W, 37.9763°N 121.3133°W, 37.9763 -121.3133, https://en.wikipedia.org/wiki/Stockton,_California,
-62, Henderson, Nevada, 310390, 257729, +20.43%, 104.7, 271.2, 2798, 1080, 36°00′35″N 115°02′09″W, 36.0097°N 115.0357°W, 36.0097 -115.0357, https://en.wikipedia.org/wiki/Henderson,_Nevada,
-63, Saint Paul, Minnesota, 307695, 285068, +7.94%, 52.0, 134.7, 5815, 2245, 44°56′56″N 93°06′15″W, 44.9489°N 93.1041°W, 44.9489 -93.1041, https://en.wikipedia.org/wiki/Saint_Paul,_Minnesota,
-64, St. Louis, Missouri, 302838, 319294, −5.15%, 62.0, 160.6, 5023, 1939, 38°38′09″N 90°14′41″W, 38.6357°N 90.2446°W, 38.6357 -90.2446, https://en.wikipedia.org/wiki/St._Louis,
-65, Cincinnati, Ohio, 302605, 296943, +1.91%, 77.4, 200.5, 3860, 1490, 39°08′25″N 84°30′21″W, 39.1402°N 84.5058°W, 39.1402 -84.5058, https://en.wikipedia.org/wiki/Cincinnati,
-66, Pittsburgh, Pennsylvania, 301048, 305704, −1.52%, 55.4, 143.5, 5481, 2116, 40°26′23″N 79°58′36″W, 40.4398°N 79.9766°W, 40.4398 -79.9766, https://en.wikipedia.org/wiki/Pittsburgh,
-67, Greensboro, North Carolina, 294722, 269666, +9.29%, 128.3, 332.3, 2237, 864, 36°05′42″N 79°49′37″W, 36.0951°N 79.8270°W, 36.0951 -79.8270, https://en.wikipedia.org/wiki/Greensboro,_North_Carolina,
-68, Anchorage, Alaska, 291538, 291826, −0.10%, 1706.6, 4420.1, 175, 68, 61°10′27″N 149°17′03″W, 61.1743°N 149.2843°W, 61.1743 -149.2843, https://en.wikipedia.org/wiki/Anchorage,_Alaska,
-69, Plano, Texas, 288061, 259841, +10.86%, 71.7, 185.7, 3990, 1540, 33°03′03″N 96°44′52″W, 33.0508°N 96.7479°W, 33.0508 -96.7479, https://en.wikipedia.org/wiki/Plano,_Texas,
-70, Lincoln, Nebraska, 287401, 258379, +11.23%, 92.1, 238.5, 3044, 1175, 40°48′38″N 96°40′49″W, 40.8105°N 96.6803°W, 40.8105 -96.6803, https://en.wikipedia.org/wiki/Lincoln,_Nebraska,
-71, Orlando, Florida, 285713, 238300, +19.90%, 105.2, 272.5, 2635, 1017, 28°25′00″N 81°16′25″W, 28.4166°N 81.2736°W, 28.4166 -81.2736, https://en.wikipedia.org/wiki/Orlando,_Florida,
-72, Irvine, California, 282572, 212375, +33.05%, 65.6, 169.9, 4057, 1566, 33°40′42″N 117°46′17″W, 33.6784°N 117.7713°W, 33.6784 -117.7713, https://en.wikipedia.org/wiki/Irvine,_California,
-73, Newark, New Jersey, 282090, 277140, +1.79%, 24.1, 62.4, 11691, 4514, 40°43′27″N 74°10′21″W, 40.7242°N 74.1726°W, 40.7242 -74.1726, https://en.wikipedia.org/wiki/Newark,_New_Jersey,
-74, Toledo, Ohio, 274975, 287208, −4.26%, 80.7, 209.0, 3451, 1332, 41°39′51″N 83°34′55″W, 41.6641°N 83.5819°W, 41.6641 -83.5819, https://en.wikipedia.org/wiki/Toledo,_Ohio,
-75, Durham, North Carolina, 274291, 228330, +20.13%, 109.8, 284.4, 2395, 925, 35°58′52″N 78°54′10″W, 35.9811°N 78.9029°W, 35.9811 -78.9029, https://en.wikipedia.org/wiki/Durham,_North_Carolina,
-76, Chula Vista, California, 271651, 243916, +11.37%, 49.6, 128.5, 5387, 2080, 32°37′40″N 117°00′55″W, 32.6277°N 117.0152°W, 32.6277 -117.0152, https://en.wikipedia.org/wiki/Chula_Vista,_California,
-77, Fort Wayne, Indiana, 267633, 253691, +5.50%, 110.6, 286.5, 2391, 923, 41°05′18″N 85°08′38″W, 41.0882°N 85.1439°W, 41.0882 -85.1439, https://en.wikipedia.org/wiki/Fort_Wayne,_Indiana,
-78, Jersey City, New Jersey, 265549, 247597, +7.25%, 14.8, 38.3, 17848, 6891, 40°42′41″N 74°03′53″W, 40.7114°N 74.0648°W, 40.7114 -74.0648, https://en.wikipedia.org/wiki/Jersey_City,_New_Jersey,
-79, St. Petersburg, Florida, 265098, 244769, +8.31%, 61.8, 160.1, 4223, 1631, 27°45′43″N 82°38′39″W, 27.7620°N 82.6441°W, 27.7620 -82.6441, https://en.wikipedia.org/wiki/St._Petersburg,_Florida,
-80, Laredo, Texas, 261639, 236091, +10.82%, 101.1, 261.8, 2544, 982, 27°33′37″N 99°29′21″W, 27.5604°N 99.4892°W, 27.5604 -99.4892, https://en.wikipedia.org/wiki/Laredo,_Texas,
-81, Madison, Wisconsin, 258054, 233209, +10.65%, 77.0, 199.4, 3280, 1270, 43°05′16″N 89°25′48″W, 43.0878°N 89.4299°W, 43.0878 -89.4299, https://en.wikipedia.org/wiki/Madison,_Wisconsin,
-82, Chandler, Arizona, 257165, 236123, +8.91%, 64.9, 168.1, 3813, 1472, 33°16′58″N 111°51′18″W, 33.2829°N 111.8549°W, 33.2829 -111.8549, https://en.wikipedia.org/wiki/Chandler,_Arizona,
-83, Buffalo, New York, 256304, 261310, −1.92%, 40.4, 104.6, 6359, 2455, 42°53′33″N 78°51′35″W, 42.8925°N 78.8597°W, 42.8925 -78.8597, https://en.wikipedia.org/wiki/Buffalo,_New_York,
-84, Lubbock, Texas, 255885, 229573, +11.46%, 124.6, 322.7, 2027, 783, 33°33′56″N 101°53′12″W, 33.5656°N 101.8867°W, 33.5656 -101.8867, https://en.wikipedia.org/wiki/Lubbock,_Texas,
-85, Scottsdale, Arizona, 255310, 217385, +17.45%, 183.9, 476.3, 1341, 518, 33°41′03″N 111°51′40″W, 33.6843°N 111.8611°W, 33.6843 -111.8611, https://en.wikipedia.org/wiki/Scottsdale,_Arizona,
-86, Reno, Nevada, 250998, 225221, +11.45%, 107.3, 277.9, 2286, 883, 39°32′57″N 119°51′00″W, 39.5491°N 119.8499°W, 39.5491 -119.8499, https://en.wikipedia.org/wiki/Reno,_Nevada,
-87, Glendale, Arizona, 250702, 226721, +10.58%, 59.1, 153.1, 4161, 1607, 33°31′59″N 112°11′24″W, 33.5331°N 112.1899°W, 33.5331 -112.1899, https://en.wikipedia.org/wiki/Glendale,_Arizona,
-88, Gilbert, Arizona, 248279, 208453, +19.11%, 68.0, 176.1, 3487, 1346, 33°18′37″N 111°44′35″W, 33.3103°N 111.7431°W, 33.3103 -111.7431, https://en.wikipedia.org/wiki/Gilbert,_Arizona,
-89, Winston–Salem, North Carolina, 246328, 229617, +7.28%, 132.5, 343.2, 1828, 706, 36°06′10″N 80°15′40″W, 36.1027°N 80.2610°W, 36.1027 -80.2610, https://en.wikipedia.org/wiki/Winston%E2%80%93Salem,_North_Carolina,
-90, North Las Vegas, Nevada, 245949, 216961, +13.36%, 98.0, 253.8, 2436, 941, 36°17′09″N 115°05′38″W, 36.2857°N 115.0939°W, 36.2857 -115.0939, https://en.wikipedia.org/wiki/North_Las_Vegas,_Nevada,
-91, Norfolk, Virginia, 244076, 242803, +0.52%, 53.3, 138.0, 4599, 1776, 36°55′23″N 76°14′41″W, 36.9230°N 76.2446°W, 36.9230 -76.2446, https://en.wikipedia.org/wiki/Norfolk,_Virginia,
-92, Chesapeake, Virginia, 242634, 222209, +9.19%, 338.5, 876.7, 703, 271, 36°40′46″N 76°18′06″W, 36.6794°N 76.3018°W, 36.6794 -76.3018, https://en.wikipedia.org/wiki/Chesapeake,_Virginia,
-93, Garland, Texas, 242507, 226876, +6.89%, 57.0, 147.6, 4122, 1592, 32°54′35″N 96°37′49″W, 32.9098°N 96.6303°W, 32.9098 -96.6303, https://en.wikipedia.org/wiki/Garland,_Texas,
-94, Irving, Texas, 242242, 216290, +12.00%, 67.0, 173.5, 3557, 1373, 32°51′28″N 96°58′12″W, 32.8577°N 96.9700°W, 32.8577 -96.9700, https://en.wikipedia.org/wiki/Irving,_Texas,
-95, Hialeah, Florida, 238942, 224669, +6.35%, 21.5, 55.7, 10995, 4245, 25°52′12″N 80°18′10″W, 25.8699°N 80.3029°W, 25.8699 -80.3029, https://en.wikipedia.org/wiki/Hialeah,_Florida,
-96, Fremont, California, 237807, 214089, +11.08%, 77.5, 200.7, 3008, 1161, 37°29′40″N 121°56′28″W, 37.4945°N 121.9412°W, 37.4945 -121.9412, https://en.wikipedia.org/wiki/Fremont,_California,
-97, Boise, Idaho, 228790, 205671, +11.24%, 82.1, 212.6, 2718, 1049, 43°36′01″N 116°13′54″W, 43.6002°N 116.2317°W, 43.6002 -116.2317, https://en.wikipedia.org/wiki/Boise,_Idaho,
-98, Richmond, Virginia, 228783, 204214, +12.03%, 59.8, 154.9, 3732, 1441, 37°31′53″N 77°28′34″W, 37.5314°N 77.4760°W, 37.5314 -77.4760, https://en.wikipedia.org/wiki/Richmond,_Virginia,
-99, Baton Rouge, Louisiana, 221599, 229493, −3.44%, 85.9, 222.5, 2651, 1024, 30°26′32″N 91°07′51″W, 30.4422°N 91.1309°W, 30.4422 -91.1309, https://en.wikipedia.org/wiki/Baton_Rouge,_Louisiana,
-100, Spokane, Washington, 219190, 208916, +4.92%, 68.7, 177.9, 3144, 1214, 47°40′01″N 117°26′00″W, 47.6669°N 117.4333°W, 47.6669 -117.4333, https://en.wikipedia.org/wiki/Spokane,_Washington,
-101, Des Moines, Iowa, 216853, 203433, +6.60%, 88.9, 230.2, 2424, 936, 41°34′21″N 93°36′37″W, 41.5726°N 93.6102°W, 41.5726 -93.6102, https://en.wikipedia.org/wiki/Des_Moines,_Iowa,
-102, Tacoma, Washington, 216279, 198397, +9.01%, 49.7, 128.7, 4251, 1641, 47°15′08″N 122°27′35″W, 47.2522°N 122.4598°W, 47.2522 -122.4598, https://en.wikipedia.org/wiki/Tacoma,_Washington,
-103, San Bernardino, California, 215941, 209924, +2.87%, 61.5, 159.3, 3516, 1358, 34°08′30″N 117°17′37″W, 34.1416°N 117.2936°W, 34.1416 -117.2936, https://en.wikipedia.org/wiki/San_Bernardino,_California,
-104, Modesto, California, 215030, 201165, +6.89%, 43.0, 111.4, 4934, 1905, 37°38′15″N 121°00′11″W, 37.6375°N 121.0030°W, 37.6375 -121.0030, https://en.wikipedia.org/wiki/Modesto,_California,
-105, Fontana, California, 213739, 196069, +9.01%, 43.0, 111.4, 4876, 1883, 34°06′32″N 117°27′46″W, 34.1090°N 117.4629°W, 34.1090 -117.4629, https://en.wikipedia.org/wiki/Fontana,_California,
-106, Santa Clarita, California, 210089, 176320, +19.15%, 52.8, 136.8, 3446, 1331, 34°24′11″N 118°30′15″W, 34.4030°N 118.5042°W, 34.4030 -118.5042, https://en.wikipedia.org/wiki/Santa_Clarita,_California,
-107, Birmingham, Alabama, 209880, 212237, −1.11%, 146.1, 378.4, 1452, 561, 33°31′39″N 86°47′56″W, 33.5274°N 86.7990°W, 33.5274 -86.7990, https://en.wikipedia.org/wiki/Birmingham,_Alabama,
-108, Oxnard, California, 209877, 197899, +6.05%, 26.9, 69.7, 7729, 2984, 34°12′08″N 119°12′17″W, 34.2023°N 119.2046°W, 34.2023 -119.2046, https://en.wikipedia.org/wiki/Oxnard,_California,
-109, Fayetteville, North Carolina, 209468, 200564, +4.44%, 147.7, 382.5, 1386, 535, 35°04′58″N 78°58′25″W, 35.0828°N 78.9735°W, 35.0828 -78.9735, https://en.wikipedia.org/wiki/Fayetteville,_North_Carolina,
-110, Moreno Valley, California, 209050, 193365, +8.11%, 51.3, 132.9, 4006, 1547, 33°55′24″N 117°12′21″W, 33.9233°N 117.2057°W, 33.9233 -117.2057, https://en.wikipedia.org/wiki/Moreno_Valley,_California,
-111, Rochester, New York, 206284, 210565, −2.03%, 35.8, 92.7, 5835, 2253, 43°10′12″N 77°37′01″W, 43.1699°N 77.6169°W, 43.1699 -77.6169, https://en.wikipedia.org/wiki/Rochester,_New_York,
-112, Glendale, California, 201361, 191719, +5.03%, 30.4, 78.7, 6606, 2551, 34°10′53″N 118°14′45″W, 34.1814°N 118.2458°W, 34.1814 -118.2458, https://en.wikipedia.org/wiki/Glendale,_California,
-113, Huntington Beach, California, 200641, 189992, +5.60%, 26.9, 69.7, 7459, 2880, 33°41′26″N 118°00′33″W, 33.6906°N 118.0093°W, 33.6906 -118.0093, https://en.wikipedia.org/wiki/Huntington_Beach,_California,
-114, Salt Lake City, Utah, 200591, 186440, +7.59%, 111.2, 288.0, 1742, 673, 40°46′37″N 111°55′52″W, 40.7769°N 111.9310°W, 40.7769 -111.9310, https://en.wikipedia.org/wiki/Salt_Lake_City,
-115, Grand Rapids, Michigan, 200217, 188040, +6.48%, 44.4, 115.0, 4424, 1708, 42°57′40″N 85°39′20″W, 42.9612°N 85.6556°W, 42.9612 -85.6556, https://en.wikipedia.org/wiki/Grand_Rapids,_Michigan,
-116, Amarillo, Texas, 199924, 190695, +4.84%, 101.4, 262.6, 1968, 760, 35°12′00″N 101°49′49″W, 35.1999°N 101.8302°W, 35.1999 -101.8302, https://en.wikipedia.org/wiki/Amarillo,_Texas,
-117, Yonkers, New York, 199663, 195976, +1.88%, 18.0, 46.6, 11156, 4307, 40°56′45″N 73°52′03″W, 40.9459°N 73.8674°W, 40.9459 -73.8674, https://en.wikipedia.org/wiki/Yonkers,_New_York,
-118, Aurora, Illinois, 199602, 197899, +0.86%, 44.9, 116.3, 4479, 1729, 41°45′49″N 88°17′24″W, 41.7635°N 88.2901°W, 41.7635 -88.2901, https://en.wikipedia.org/wiki/Aurora,_Illinois,
-119, Montgomery, Alabama, 198218, 205764, −3.67%, 159.8, 413.9, 1252, 483, 32°20′50″N 86°15′58″W, 32.3472°N 86.2661°W, 32.3472 -86.2661, https://en.wikipedia.org/wiki/Montgomery,_Alabama,
-120, Akron, Ohio, 198006, 199110, −0.55%, 62.0, 160.6, 3188, 1231, 41°04′50″N 81°31′17″W, 41.0805°N 81.5214°W, 41.0805 -81.5214, https://en.wikipedia.org/wiki/Akron,_Ohio,
-121, Little Rock, Arkansas, 197881, 193524, +2.25%, 118.7, 307.4, 1673, 646, 34°43′31″N 92°21′31″W, 34.7254°N 92.3586°W, 34.7254 -92.3586, https://en.wikipedia.org/wiki/Little_Rock,_Arkansas,
-122, Huntsville, Alabama, 197318, 180105, +9.56%, 213.4, 552.7, 905, 349, 34°41′56″N 86°40′23″W, 34.6990°N 86.6730°W, 34.6990 -86.6730, https://en.wikipedia.org/wiki/Huntsville,_Alabama,
-123, Augusta, Georgia, 196939, 195844, +0.56%, 302.5, 783.5, 652, 252, 33°21′56″N 82°04′24″W, 33.3655°N 82.0734°W, 33.3655 -82.0734, https://en.wikipedia.org/wiki/Augusta,_Georgia,
-124, Port St. Lucie, Florida, 195248, 164603, +18.62%, 118.9, 307.9, 1557, 601, 27°16′50″N 80°23′18″W, 27.2806°N 80.3883°W, 27.2806 -80.3883, https://en.wikipedia.org/wiki/Port_St._Lucie,_Florida,
-125, Grand Prairie, Texas, 194614, 175396, +10.96%, 72.3, 187.3, 2637, 1018, 32°41′13″N 97°01′16″W, 32.6869°N 97.0211°W, 32.6869 -97.0211, https://en.wikipedia.org/wiki/Grand_Prairie,_Texas,
-126, Columbus, Georgia, 194160, 189885, +2.25%, 216.4, 560.5, 913, 353, 32°30′37″N 84°52′30″W, 32.5102°N 84.8749°W, 32.5102 -84.8749, https://en.wikipedia.org/wiki/Columbus,_Georgia,
-127, Tallahassee, Florida, 193551, 181376, +6.71%, 100.4, 260.0, 1901, 734, 30°27′18″N 84°15′12″W, 30.4551°N 84.2534°W, 30.4551 -84.2534, https://en.wikipedia.org/wiki/Tallahassee,_Florida,
-128, Overland Park, Kansas, 192536, 173372, +11.05%, 75.1, 194.5, 2516, 971, 38°53′20″N 94°41′26″W, 38.8890°N 94.6906°W, 38.8890 -94.6906, https://en.wikipedia.org/wiki/Overland_Park,_Kansas,
-129, Tempe, Arizona, 192364, 161719, +18.95%, 40.0, 103.6, 4562, 1761, 33°23′18″N 111°55′54″W, 33.3884°N 111.9318°W, 33.3884 -111.9318, https://en.wikipedia.org/wiki/Tempe,_Arizona,
-130, McKinney, Texas, 191645, 131117, +46.16%, 63.0, 163.2, 2735, 1056, 33°11′55″N 96°40′05″W, 33.1985°N 96.6680°W, 33.1985 -96.6680, https://en.wikipedia.org/wiki/McKinney,_Texas,
-131, Mobile, Alabama, 189572, 195111, −2.84%, 139.4, 361.0, 1384, 534, 30°40′06″N 88°06′01″W, 30.6684°N 88.1002°W, 30.6684 -88.1002, https://en.wikipedia.org/wiki/Mobile,_Alabama,
-132, Cape Coral, Florida, 189343, 154305, +22.71%, 105.6, 273.5, 1703, 658, 26°38′36″N 81°59′51″W, 26.6432°N 81.9974°W, 26.6432 -81.9974, https://en.wikipedia.org/wiki/Cape_Coral,_Florida,
-133, Shreveport, Louisiana, 188987, 199311, −5.18%, 107.1, 277.4, 1820, 700, 32°28′01″N 93°47′32″W, 32.4669°N 93.7922°W, 32.4669 -93.7922, https://en.wikipedia.org/wiki/Shreveport,_Louisiana,
-134, Frisco, Texas, 188170, 116989, +60.84%, 67.7, 175.3, 2417, 933, 33°09′19″N 96°49′21″W, 33.1554°N 96.8226°W, 33.1554 -96.8226, https://en.wikipedia.org/wiki/Frisco,_Texas,
-135, Knoxville, Tennessee, 187500, 178874, +4.82%, 98.5, 255.1, 1891, 730, 35°58′15″N 83°56′57″W, 35.9707°N 83.9493°W, 35.9707 -83.9493, https://en.wikipedia.org/wiki/Knoxville,_Tennessee,
-136, Worcester, Massachusetts, 185877, 181045, +2.67%, 37.4, 96.9, 4933, 1905, 42°16′10″N 71°48′28″W, 42.2695°N 71.8078°W, 42.2695 -71.8078, https://en.wikipedia.org/wiki/Worcester,_Massachusetts,
-137, Brownsville, Texas, 183392, 175023, +4.78%, 132.5, 343.2, 1387, 536, 25°59′57″N 97°27′18″W, 25.9991°N 97.4550°W, 25.9991 -97.4550, https://en.wikipedia.org/wiki/Brownsville,_Texas,
-138, Vancouver, Washington, 183012, 161791, +13.12%, 46.9, 121.5, 3728, 1439, 45°38′06″N 122°35′45″W, 45.6349°N 122.5957°W, 45.6349 -122.5957, https://en.wikipedia.org/wiki/Vancouver,_Washington,
-139, Fort Lauderdale, Florida, 182595, 165521, +10.32%, 34.6, 89.6, 5166, 1995, 26°08′28″N 80°08′48″W, 26.1412°N 80.1467°W, 26.1412 -80.1467, https://en.wikipedia.org/wiki/Fort_Lauderdale,_Florida,
-140, Sioux Falls, South Dakota, 181883, 153888, +18.19%, 75.4, 195.3, 2312, 893, 43°32′18″N 96°43′55″W, 43.5383°N 96.7320°W, 43.5383 -96.7320, https://en.wikipedia.org/wiki/Sioux_Falls,_South_Dakota,
-141, Ontario, California, 181107, 163924, +10.48%, 49.9, 129.2, 3471, 1340, 34°02′22″N 117°36′15″W, 34.0394°N 117.6042°W, 34.0394 -117.6042, https://en.wikipedia.org/wiki/Ontario,_California,
-142, Chattanooga, Tennessee, 180557, 167674, +7.68%, 143.1, 370.6, 1241, 479, 35°03′58″N 85°14′54″W, 35.0660°N 85.2484°W, 35.0660 -85.2484, https://en.wikipedia.org/wiki/Chattanooga,_Tennessee,
-143, Providence, Rhode Island, 179335, 178042, +0.73%, 18.4, 47.7, 9740, 3760, 41°49′23″N 71°25′08″W, 41.8231°N 71.4188°W, 41.8231 -71.4188, https://en.wikipedia.org/wiki/Providence,_Rhode_Island,
-144, Newport News, Virginia, 178626, 180719, −1.16%, 69.1, 179.0, 2631, 1016, 37°04′34″N 76°31′19″W, 37.0762°N 76.5220°W, 37.0762 -76.5220, https://en.wikipedia.org/wiki/Newport_News,_Virginia,
-145, Rancho Cucamonga, California, 177751, 165269, +7.55%, 40.0, 103.6, 4413, 1704, 34°07′24″N 117°33′51″W, 34.1233°N 117.5642°W, 34.1233 -117.5642, https://en.wikipedia.org/wiki/Rancho_Cucamonga,_California,
-146, Santa Rosa, California, 177586, 167815, +5.82%, 41.3, 107.0, 4241, 1637, 38°26′48″N 122°42′22″W, 38.4468°N 122.7061°W, 38.4468 -122.7061, https://en.wikipedia.org/wiki/Santa_Rosa,_California,
-147, Oceanside, California, 176080, 167086, +5.38%, 41.3, 107.0, 4249, 1641, 33°13′28″N 117°18′22″W, 33.2245°N 117.3062°W, 33.2245 -117.3062, https://en.wikipedia.org/wiki/Oceanside,_California,
-148, Salem, Oregon, 173442, 154637, +12.16%, 48.6, 125.9, 3445, 1330, 44°55′25″N 123°01′24″W, 44.9237°N 123.0232°W, 44.9237 -123.0232, https://en.wikipedia.org/wiki/Salem,_Oregon,
-149, Elk Grove, California, 172886, 153015, +12.99%, 42.2, 109.3, 4022, 1553, 38°24′53″N 121°23′06″W, 38.4146°N 121.3850°W, 38.4146 -121.3850, https://en.wikipedia.org/wiki/Elk_Grove,_California,
-150, Garden Grove, California, 172646, 170883, +1.03%, 18.0, 46.6, 9714, 3751, 33°46′44″N 117°57′38″W, 33.7788°N 117.9605°W, 33.7788 -117.9605, https://en.wikipedia.org/wiki/Garden_Grove,_California,
-151, Pembroke Pines, Florida, 172374, 154019, +11.92%, 33.0, 85.5, 5109, 1973, 26°01′16″N 80°20′25″W, 26.0210°N 80.3404°W, 26.0210 -80.3404, https://en.wikipedia.org/wiki/Pembroke_Pines,_Florida,
-152, Peoria, Arizona, 172259, 154065, +11.81%, 175.7, 455.1, 934, 361, 33°47′10″N 112°18′29″W, 33.7862°N 112.3080°W, 33.7862 -112.3080, https://en.wikipedia.org/wiki/Peoria,_Arizona,
-153, Eugene, Oregon, 171245, 156185, +9.64%, 44.1, 114.2, 3777, 1458, 44°03′24″N 123°06′58″W, 44.0567°N 123.1162°W, 44.0567 -123.1162, https://en.wikipedia.org/wiki/Eugene,_Oregon,
-154, Corona, California, 168819, 152374, +10.79%, 39.5, 102.3, 4222, 1630, 33°51′43″N 117°33′56″W, 33.8620°N 117.5655°W, 33.8620 -117.5655, https://en.wikipedia.org/wiki/Corona,_California,
-155, Cary, North Carolina, 168160, 135234, +24.35%, 56.5, 146.3, 2873, 1109, 35°46′51″N 78°48′48″W, 35.7809°N 78.8133°W, 35.7809 -78.8133, https://en.wikipedia.org/wiki/Cary,_North_Carolina,
-156, Springfield, Missouri, 168122, 159498, +5.41%, 82.3, 213.2, 2033, 785, 37°11′39″N 93°17′29″W, 37.1942°N 93.2913°W, 37.1942 -93.2913, https://en.wikipedia.org/wiki/Springfield,_Missouri,
-157, Fort Collins, Colorado, 167830, 143986, +16.56%, 55.8, 144.5, 2943, 1136, 40°32′54″N 105°03′53″W, 40.5482°N 105.0648°W, 40.5482 -105.0648, https://en.wikipedia.org/wiki/Fort_Collins,_Colorado,
-158, Jackson, Mississippi, 164422, 173514, −5.24%, 111.0, 287.5, 1524, 588, 32°18′57″N 90°12′46″W, 32.3158°N 90.2128°W, 32.3158 -90.2128, https://en.wikipedia.org/wiki/Jackson,_Mississippi,
-159, Alexandria, Virginia, 160530, 139966, +14.69%, 15.0, 38.8, 10387, 4010, 38°49′12″N 77°05′03″W, 38.8201°N 77.0841°W, 38.8201 -77.0841, https://en.wikipedia.org/wiki/Alexandria,_Virginia,
-160, Hayward, California, 159620, 144186, +10.70%, 45.5, 117.8, 3493, 1349, 37°37′43″N 122°06′09″W, 37.6287°N 122.1024°W, 37.6287 -122.1024, https://en.wikipedia.org/wiki/Hayward,_California,
-161, Lancaster, California, 159053, 156633, +1.55%, 94.3, 244.2, 1698, 656, 34°41′37″N 118°10′31″W, 34.6936°N 118.1753°W, 34.6936 -118.1753, https://en.wikipedia.org/wiki/Lancaster,_California,
-162, Lakewood, Colorado, 156798, 142980, +9.66%, 42.9, 111.1, 3599, 1390, 39°41′56″N 105°07′03″W, 39.6989°N 105.1176°W, 39.6989 -105.1176, https://en.wikipedia.org/wiki/Lakewood,_Colorado,
-163, Clarksville, Tennessee, 156794, 132929, +17.95%, 98.3, 254.6, 1529, 590, 36°33′59″N 87°20′43″W, 36.5664°N 87.3452°W, 36.5664 -87.3452, https://en.wikipedia.org/wiki/Clarksville,_Tennessee,
-164, Palmdale, California, 156667, 152750, +2.56%, 106.0, 274.5, 1484, 573, 34°35′28″N 118°06′19″W, 34.5910°N 118.1054°W, 34.5910 -118.1054, https://en.wikipedia.org/wiki/Palmdale,_California,
-165, Salinas, California, 156259, 150441, +3.87%, 23.6, 61.1, 6662, 2572, 36°41′25″N 121°38′01″W, 36.6902°N 121.6337°W, 36.6902 -121.6337, https://en.wikipedia.org/wiki/Salinas,_California,
-166, Springfield, Massachusetts, 155032, 153060, +1.29%, 31.9, 82.6, 4830, 1860, 42°06′56″N 72°32′24″W, 42.1155°N 72.5400°W, 42.1155 -72.5400, https://en.wikipedia.org/wiki/Springfield,_Massachusetts,
-167, Hollywood, Florida, 154823, 140768, +9.98%, 27.3, 70.7, 5568, 2150, 26°01′52″N 80°09′53″W, 26.0310°N 80.1646°W, 26.0310 -80.1646, https://en.wikipedia.org/wiki/Hollywood,_Florida,
-168, Pasadena, Texas, 153219, 149043, +2.80%, 43.5, 112.7, 3525, 1361, 29°39′31″N 95°09′02″W, 29.6586°N 95.1506°W, 29.6586 -95.1506, https://en.wikipedia.org/wiki/Pasadena,_Texas,
-169, Sunnyvale, California, 153185, 140081, +9.35%, 22.0, 57.0, 6944, 2681, 37°23′09″N 122°01′35″W, 37.3858°N 122.0263°W, 37.3858 -122.0263, https://en.wikipedia.org/wiki/Sunnyvale,_California,
-170, Macon, Georgia, 153095, 91351, +67.59%, 249.3, 645.7, 612, 236, 32°48′32″N 83°41′39″W, 32.8088°N 83.6942°W, 32.8088 -83.6942, https://en.wikipedia.org/wiki/Macon,_Georgia,
-171, Kansas City, Kansas, 152958, 145786, +4.92%, 124.8, 323.2, 1216, 470, 39°07′21″N 94°44′30″W, 39.1225°N 94.7418°W, 39.1225 -94.7418, https://en.wikipedia.org/wiki/Kansas_City,_Kansas,
-172, Pomona, California, 152361, 149058, +2.22%, 23.0, 59.6, 6630, 2560, 34°03′31″N 117°45′40″W, 34.0585°N 117.7611°W, 34.0585 -117.7611, https://en.wikipedia.org/wiki/Pomona,_California,
-173, Escondido, California, 152213, 143911, +5.77%, 37.1, 96.1, 4087, 1578, 33°07′59″N 117°04′26″W, 33.1331°N 117.0740°W, 33.1331 -117.0740, https://en.wikipedia.org/wiki/Escondido,_California,
-174, Killeen, Texas, 149103, 127921, +16.56%, 53.5, 138.6, 2680, 1030, 31°04′40″N 97°43′55″W, 31.0777°N 97.7320°W, 31.0777 -97.7320, https://en.wikipedia.org/wiki/Killeen,_Texas,
-175, Naperville, Illinois, 148304, 141853, +4.55%, 38.7, 100.2, 3802, 1468, 41°44′57″N 88°09′43″W, 41.7492°N 88.1620°W, 41.7492 -88.1620, https://en.wikipedia.org/wiki/Naperville,_Illinois,
-176, Joliet, Illinois, 148099, 147433, +0.45%, 64.4, 166.8, 2302, 889, 41°31′04″N 88°08′56″W, 41.5177°N 88.1488°W, 41.5177 -88.1488, https://en.wikipedia.org/wiki/Joliet,_Illinois,
-177, Bellevue, Washington, 147599, 122363, +20.62%, 33.5, 86.8, 4221, 1630, 47°35′52″N 122°09′23″W, 47.5979°N 122.1565°W, 47.5979 -122.1565, https://en.wikipedia.org/wiki/Bellevue,_Washington,
-178, Rockford, Illinois, 146526, 152871, −4.15%, 63.5, 164.5, 2325, 898, 42°15′32″N 89°03′53″W, 42.2588°N 89.0646°W, 42.2588 -89.0646, https://en.wikipedia.org/wiki/Rockford,_Illinois,
-179, Savannah, Georgia, 145862, 136286, +7.03%, 103.6, 268.3, 1417, 547, 32°00′09″N 81°09′13″W, 32.0025°N 81.1536°W, 32.0025 -81.1536, https://en.wikipedia.org/wiki/Savannah,_Georgia,
-180, Paterson, New Jersey, 145627, 146199, −0.39%, 8.4, 21.8, 17500, 6800, 40°54′53″N 74°09′46″W, 40.9148°N 74.1628°W, 40.9148 -74.1628, https://en.wikipedia.org/wiki/Paterson,_New_Jersey,
-181, Torrance, California, 145182, 145438, −0.18%, 20.5, 53.1, 7180, 2770, 33°50′06″N 118°20′29″W, 33.8350°N 118.3414°W, 33.8350 -118.3414, https://en.wikipedia.org/wiki/Torrance,_California,
-182, Bridgeport, Connecticut, 144900, 144229, +0.47%, 16.1, 41.7, 9064, 3500, 41°11′15″N 73°11′45″W, 41.1874°N 73.1958°W, 41.1874 -73.1958, https://en.wikipedia.org/wiki/Bridgeport,_Connecticut,
-183, McAllen, Texas, 143433, 129877, +10.44%, 58.4, 151.3, 2435, 940, 26°13′56″N 98°14′47″W, 26.2322°N 98.2464°W, 26.2322 -98.2464, https://en.wikipedia.org/wiki/McAllen,_Texas,
-184, Mesquite, Texas, 142816, 139824, +2.14%, 47.2, 122.2, 3045, 1176, 32°45′46″N 96°35′20″W, 32.7629°N 96.5888°W, 32.7629 -96.5888, https://en.wikipedia.org/wiki/Mesquite,_Texas,
-185, Syracuse, New York, 142749, 145170, −1.67%, 25.0, 64.7, 5735, 2214, 43°02′28″N 76°08′37″W, 43.0410°N 76.1436°W, 43.0410 -76.1436, https://en.wikipedia.org/wiki/Syracuse,_New_York,
-186, Midland, Texas, 142344, 111147, +28.07%, 74.4, 192.7, 1809, 698, 32°01′29″N 102°06′49″W, 32.0246°N 102.1135°W, 32.0246 -102.1135, https://en.wikipedia.org/wiki/Midland,_Texas,
-187, Pasadena, California, 141371, 137122, +3.10%, 23.0, 59.6, 6176, 2385, 34°09′38″N 118°08′23″W, 34.1606°N 118.1396°W, 34.1606 -118.1396, https://en.wikipedia.org/wiki/Pasadena,_California,
-188, Murfreesboro, Tennessee, 141344, 108755, +29.97%, 55.9, 144.8, 2360, 910, 35°51′08″N 86°24′58″W, 35.8522°N 86.4160°W, 35.8522 -86.4160, https://en.wikipedia.org/wiki/Murfreesboro,_Tennessee,
-189, Miramar, Florida, 140823, 122041, +15.39%, 29.4, 76.1, 4709, 1818, 25°58′37″N 80°20′09″W, 25.9770°N 80.3358°W, 25.9770 -80.3358, https://en.wikipedia.org/wiki/Miramar,_Florida,
-190, Dayton, Ohio, 140640, 141527, −0.63%, 55.7, 144.3, 2522, 974, 39°46′39″N 84°11′59″W, 39.7774°N 84.1996°W, 39.7774 -84.1996, https://en.wikipedia.org/wiki/Dayton,_Ohio,
-191, Fullerton, California, 139640, 135161, +3.31%, 22.4, 58.0, 6282, 2425, 33°53′09″N 117°55′41″W, 33.8857°N 117.9280°W, 33.8857 -117.9280, https://en.wikipedia.org/wiki/Fullerton,_California,
-192, Olathe, Kansas, 139605, 125872, +10.91%, 60.9, 157.7, 2225, 859, 38°53′03″N 94°49′10″W, 38.8843°N 94.8195°W, 38.8843 -94.8195, https://en.wikipedia.org/wiki/Olathe,_Kansas,
-193, Orange, California, 139484, 136416, +2.25%, 25.4, 65.8, 5532, 2136, 33°47′13″N 117°51′41″W, 33.7870°N 117.8613°W, 33.7870 -117.8613, https://en.wikipedia.org/wiki/Orange,_California,
-194, Thornton, Colorado, 139436, 118772, +17.40%, 35.7, 92.5, 3829, 1478, 39°55′10″N 104°56′34″W, 39.9194°N 104.9428°W, 39.9194 -104.9428, https://en.wikipedia.org/wiki/Thornton,_Colorado,
-195, Roseville, California, 139117, 118788, +17.11%, 43.0, 111.4, 3085, 1191, 38°46′08″N 121°19′08″W, 38.7690°N 121.3189°W, 38.7690 -121.3189, https://en.wikipedia.org/wiki/Roseville,_California,
-196, Denton, Texas, 138541, 113383, +22.19%, 93.4, 241.9, 1433, 553, 33°13′00″N 97°08′29″W, 33.2166°N 97.1414°W, 33.2166 -97.1414, https://en.wikipedia.org/wiki/Denton,_Texas,
-197, Waco, Texas, 138183, 124805, +10.72%, 89.0, 230.5, 1510, 580, 31°33′36″N 97°11′10″W, 31.5601°N 97.1860°W, 31.5601 -97.1860, https://en.wikipedia.org/wiki/Waco,_Texas,
-198, Surprise, Arizona, 138161, 117517, +17.57%, 107.9, 279.5, 1230, 470, 33°40′14″N 112°27′10″W, 33.6706°N 112.4527°W, 33.6706 -112.4527, https://en.wikipedia.org/wiki/Surprise,_Arizona,
-199, Carrollton, Texas, 136879, 119097, +14.93%, 36.3, 94.0, 3674, 1419, 32°59′18″N 96°53′59″W, 32.9884°N 96.8998°W, 32.9884 -96.8998, https://en.wikipedia.org/wiki/Carrollton,_Texas,
-200, West Valley City, Utah, 136401, 129480, +5.35%, 35.5, 91.9, 3847, 1485, 40°41′19″N 112°00′42″W, 40.6885°N 112.0118°W, 40.6885 -112.0118, https://en.wikipedia.org/wiki/West_Valley_City,_Utah,
-201, Charleston, South Carolina, 136208, 120083, +13.43%, 109.0, 282.3, 1233, 476, 32°49′04″N 79°57′32″W, 32.8179°N 79.9590°W, 32.8179 -79.9590, https://en.wikipedia.org/wiki/Charleston,_South_Carolina,
-202, Warren, Michigan, 134587, 134056, +0.40%, 34.4, 89.1, 3928, 1517, 42°29′34″N 83°01′30″W, 42.4929°N 83.0250°W, 42.4929 -83.0250, https://en.wikipedia.org/wiki/Warren,_Michigan,
-203, Hampton, Virginia, 134313, 137436, −2.27%, 51.5, 133.4, 2629, 1015, 37°02′53″N 76°17′50″W, 37.0480°N 76.2971°W, 37.0480 -76.2971, https://en.wikipedia.org/wiki/Hampton,_Virginia,
-204, Gainesville, Florida, 133857, 124354, +7.64%, 62.3, 161.4, 2112, 815, 29°40′44″N 82°20′46″W, 29.6788°N 82.3461°W, 29.6788 -82.3461, https://en.wikipedia.org/wiki/Gainesville,_Florida,
-205, Visalia, California, 133800, 124442, +7.52%, 37.5, 97.1, 3495, 1349, 36°19′38″N 119°19′44″W, 36.3273°N 119.3289°W, 36.3273 -119.3289, https://en.wikipedia.org/wiki/Visalia,_California,
-206, Coral Springs, Florida, 133507, 121096, +10.25%, 23.8, 61.6, 5465, 2110, 26°16′15″N 80°15′33″W, 26.2707°N 80.2593°W, 26.2707 -80.2593, https://en.wikipedia.org/wiki/Coral_Springs,_Florida,
-207, Columbia, South Carolina, 133451, 129272, +3.23%, 133.5, 345.8, 1006, 388, 34°01′45″N 80°53′53″W, 34.0291°N 80.8980°W, 34.0291 -80.8980, https://en.wikipedia.org/wiki/Columbia,_South_Carolina,
-208, Cedar Rapids, Iowa, 133174, 126326, +5.42%, 70.8, 183.4, 1852, 715, 41°58′01″N 91°40′40″W, 41.9670°N 91.6778°W, 41.9670 -91.6778, https://en.wikipedia.org/wiki/Cedar_Rapids,_Iowa,
-209, Sterling Heights, Michigan, 132964, 129699, +2.52%, 36.5, 94.5, 3628, 1401, 42°34′52″N 83°01′49″W, 42.5812°N 83.0303°W, 42.5812 -83.0303, https://en.wikipedia.org/wiki/Sterling_Heights,_Michigan,
-210, New Haven, Connecticut, 130418, 129779, +0.49%, 18.7, 48.4, 6948, 2683, 41°18′39″N 72°55′30″W, 41.3108°N 72.9250°W, 41.3108 -72.9250, https://en.wikipedia.org/wiki/New_Haven,_Connecticut,
-211, Stamford, Connecticut, 129775, 122643, +5.82%, 37.6, 97.4, 3434, 1326, 41°04′48″N 73°32′46″W, 41.0799°N 73.5460°W, 41.0799 -73.5460, https://en.wikipedia.org/wiki/Stamford,_Connecticut,
-212, Concord, California, 129688, 122067, +6.24%, 30.5, 79.0, 4221, 1630, 37°58′20″N 122°00′06″W, 37.9722°N 122.0016°W, 37.9722 -122.0016, https://en.wikipedia.org/wiki/Concord,_California,
-213, Kent, Washington, 129618, 92411, +40.26%, 33.7, 87.3, 3784, 1461, 47°23′17″N 122°12′46″W, 47.3880°N 122.2127°W, 47.3880 -122.2127, https://en.wikipedia.org/wiki/Kent,_Washington,
-214, Santa Clara, California, 129488, 116468, +11.18%, 18.4, 47.7, 6845, 2643, 37°21′53″N 121°58′04″W, 37.3646°N 121.9679°W, 37.3646 -121.9679, https://en.wikipedia.org/wiki/Santa_Clara,_California,
-215, Elizabeth, New Jersey, 128885, 124969, +3.13%, 12.3, 31.9, 10459, 4038, 40°39′59″N 74°11′37″W, 40.6664°N 74.1935°W, 40.6664 -74.1935, https://en.wikipedia.org/wiki/Elizabeth,_New_Jersey,
-216, Round Rock, Texas, 128739, 99887, +28.88%, 35.6, 92.2, 3396, 1311, 30°31′31″N 97°39′58″W, 30.5252°N 97.6660°W, 30.5252 -97.6660, https://en.wikipedia.org/wiki/Round_Rock,_Texas,
-217, Thousand Oaks, California, 127690, 126683, +0.79%, 55.2, 143.0, 2335, 902, 34°11′36″N 118°52′27″W, 34.1933°N 118.8742°W, 34.1933 -118.8742, https://en.wikipedia.org/wiki/Thousand_Oaks,_California,
-218, Lafayette, Louisiana, 126143, 120623, +4.58%, 53.8, 139.3, 2372, 916, 30°12′27″N 92°01′43″W, 30.2074°N 92.0285°W, 30.2074 -92.0285, https://en.wikipedia.org/wiki/Lafayette,_Louisiana,
-219, Athens, Georgia, 125964, 115452, +9.11%, 116.4, 301.5, 1060, 410, 33°56′59″N 83°22′12″W, 33.9496°N 83.3701°W, 33.9496 -83.3701, https://en.wikipedia.org/wiki/Athens,_Georgia,
-220, Topeka, Kansas, 125904, 127473, −1.23%, 61.5, 159.3, 2062, 796, 39°02′05″N 95°41′46″W, 39.0347°N 95.6962°W, 39.0347 -95.6962, https://en.wikipedia.org/wiki/Topeka,_Kansas,
-221, Simi Valley, California, 125851, 124237, +1.30%, 41.5, 107.5, 3044, 1175, 34°16′01″N 118°44′55″W, 34.2669°N 118.7485°W, 34.2669 -118.7485, https://en.wikipedia.org/wiki/Simi_Valley,_California,
-222, Fargo, North Dakota, 124844, 105549, +18.28%, 49.3, 127.7, 2450, 950, 46°51′55″N 96°49′44″W, 46.8652°N 96.8290°W, 46.8652 -96.8290, https://en.wikipedia.org/wiki/Fargo,_North_Dakota,
-223, Norman, Oklahoma, 123471, 110925, +11.31%, 178.8, 463.1, 683, 264, 35°14′26″N 97°20′43″W, 35.2406°N 97.3453°W, 35.2406 -97.3453, https://en.wikipedia.org/wiki/North_Dakota,
-224, Columbia, Missouri, 123180, 108500, +13.53%, 65.0, 168.3, 1856, 717, 38°57′06″N 92°19′43″W, 38.951561°N 92.328638°W, 38.951561 -92.328638, https://en.wikipedia.org/wiki/Columbia,_Missouri,
-225, Abilene, Texas, 122999, 117063, +5.07%, 106.7, 276.4, 1146, 442, 32°27′16″N 99°44′17″W, 32.4545°N 99.7381°W, 32.4545 -99.7381, https://en.wikipedia.org/wiki/Abilene,_Texas,
-226, Wilmington, North Carolina, 122607, 106476, +15.15%, 51.6, 133.6, 2278, 880, 34°12′33″N 77°53′09″W, 34.2092°N 77.8858°W, 34.2092 -77.8858, https://en.wikipedia.org/wiki/Wilmington,_North_Carolina,
-227, Hartford, Connecticut, 122587, 124775, −1.75%, 17.4, 45.1, 7083, 2735, 41°45′57″N 72°40′54″W, 41.7659°N 72.6816°W, 41.7659 -72.6816, https://en.wikipedia.org/wiki/Hartford,_Connecticut,
-228, Victorville, California, 122312, 115903, +5.53%, 73.3, 189.8, 1668, 644, 34°31′40″N 117°21′13″W, 34.5277°N 117.3536°W, 34.5277 -117.3536, https://en.wikipedia.org/wiki/Victorville,_California,
-229, Pearland, Texas, 122149, 91252, +33.86%, 46.3, 119.9, 2453, 947, 29°33′21″N 95°19′23″W, 29.5558°N 95.3231°W, 29.5558 -95.3231, https://en.wikipedia.org/wiki/Pearland,_Texas,
-230, Vallejo, California, 121913, 115942, +5.15%, 30.7, 79.5, 3951, 1525, 38°06′28″N 122°15′50″W, 38.1079°N 122.2640°W, 38.1079 -122.2640, https://en.wikipedia.org/wiki/Vallejo,_California,
-231, Ann Arbor, Michigan, 121890, 113934, +6.98%, 28.1, 72.8, 4298, 1659, 42°16′34″N 83°43′51″W, 42.2761°N 83.7309°W, 42.2761 -83.7309, https://en.wikipedia.org/wiki/Ann_Arbor,_Michigan,
-232, Berkeley, California, 121643, 112580, +8.05%, 10.5, 27.2, 11547, 4458, 37°52′01″N 122°17′57″W, 37.8670°N 122.2991°W, 37.8670 -122.2991, https://en.wikipedia.org/wiki/Berkeley,_California,
-233, Allentown, Pennsylvania, 121433, 118032, +2.88%, 17.5, 45.3, 6882, 2657, 40°35′37″N 75°28′42″W, 40.5936°N 75.4784°W, 40.5936 -75.4784, https://en.wikipedia.org/wiki/Allentown,_Pennsylvania,
-234, Richardson, Texas, 120981, 99223, +21.93%, 28.6, 74.1, 3963, 1530, 32°58′20″N 96°42′29″W, 32.9723°N 96.7081°W, 32.9723 -96.7081, https://en.wikipedia.org/wiki/Richardson,_Texas,
-235, Odessa, Texas, 120568, 99940, +20.64%, 45.2, 117.1, 2608, 1007, 31°53′02″N 102°20′28″W, 31.8838°N 102.3411°W, 31.8838 -102.3411, https://en.wikipedia.org/wiki/Odessa,_Texas,
-236, Arvada, Colorado, 120492, 106433, +13.21%, 38.6, 100.0, 3043, 1175, 39°50′01″N 105°09′01″W, 39.8337°N 105.1503°W, 39.8337 -105.1503, https://en.wikipedia.org/wiki/Arvada,_Colorado,
-237, Cambridge, Massachusetts, 118977, 105162, +13.14%, 6.4, 16.6, 17289, 6675, 42°22′34″N 71°07′07″W, 42.3760°N 71.1187°W, 42.3760 -71.1187, https://en.wikipedia.org/wiki/Cambridge,_Massachusetts,
-238, Sugar Land, Texas, 118600, 91252, +29.97%, 34.0, 88.1, 3488, 1347, 29°35′58″N 95°36′51″W, 29.5994°N 95.6142°W, 29.5994 -95.6142, https://en.wikipedia.org/wiki/Sugar_Land,_Texas,
-239, Beaumont, Texas, 118428, 118296, +0.11%, 82.1, 212.6, 1441, 556, 30°05′06″N 94°08′43″W, 30.0849°N 94.1453°W, 30.0849 -94.1453, https://en.wikipedia.org/wiki/Beaumont,_Texas,
-240, Lansing, Michigan, 118427, 114297, +3.61%, 39.1, 101.3, 2967, 1146, 42°42′51″N 84°33′33″W, 42.7143°N 84.5593°W, 42.7143 -84.5593, https://en.wikipedia.org/wiki/Lansing,_Michigan,
-241, Evansville, Indiana, 117963, 117429, +0.45%, 47.3, 122.5, 2526, 975, 37°59′16″N 87°32′05″W, 37.9877°N 87.5347°W, 37.9877 -87.5347, https://en.wikipedia.org/wiki/Evansville,_Indiana,
-242, Rochester, Minnesota, 116961, 106769, +9.55%, 54.6, 141.4, 2088, 806, 44°00′55″N 92°28′38″W, 44.0154°N 92.4772°W, 44.0154 -92.4772, https://en.wikipedia.org/wiki/Rochester,_Minnesota,
-243, Independence, Missouri, 116925, 116830, +0.08%, 77.8, 201.5, 1504, 581, 39°05′08″N 94°21′08″W, 39.0855°N 94.3521°W, 39.0855 -94.3521, https://en.wikipedia.org/wiki/Independence,_Missouri,
-244, Fairfield, California, 116884, 105321, +10.98%, 40.9, 105.9, 2806, 1083, 38°15′33″N 122°01′56″W, 38.2593°N 122.0321°W, 38.2593 -122.0321, https://en.wikipedia.org/wiki/Fairfield,_California,
-245, Provo, Utah, 116702, 112488, +3.75%, 41.7, 108.0, 2803, 1082, 40°14′43″N 111°38′41″W, 40.2453°N 111.6448°W, 40.2453 -111.6448, https://en.wikipedia.org/wiki/Provo,_Utah,
-246, Clearwater, Florida, 116478, 107685, +8.17%, 25.9, 67.1, 4415, 1705, 27°58′44″N 82°46′00″W, 27.9789°N 82.7666°W, 27.9789 -82.7666, https://en.wikipedia.org/wiki/Clearwater,_Florida,
-247, College Station, Texas, 116218, 93857, +23.82%, 51.0, 132.1, 2199, 849, 30°35′07″N 96°17′47″W, 30.5852°N 96.2964°W, 30.5852 -96.2964, https://en.wikipedia.org/wiki/College_Station,_Texas,
-248, West Jordan, Utah, 116046, 103712, +11.89%, 32.3, 83.7, 3520, 1360, 40°36′09″N 112°00′03″W, 40.6024°N 112.0008°W, 40.6024 -112.0008, https://en.wikipedia.org/wiki/West_Jordan,_Utah,
-249, Carlsbad, California, 115877, 105328, +10.02%, 37.7, 97.6, 3023, 1167, 33°07′26″N 117°16′58″W, 33.1239°N 117.2828°W, 33.1239 -117.2828, https://en.wikipedia.org/wiki/Carlsbad,_California,
-250, El Monte, California, 115586, 113475, +1.86%, 9.6, 24.9, 12063, 4658, 34°04′29″N 118°01′45″W, 34.0746°N 118.0291°W, 34.0746 -118.0291, https://en.wikipedia.org/wiki/El_Monte,_California,
-251, Murrieta, California, 114985, 103466, +11.13%, 33.6, 87.0, 3324, 1283, 33°34′20″N 117°11′25″W, 33.5721°N 117.1904°W, 33.5721 -117.1904, https://en.wikipedia.org/wiki/Murrieta,_California,
-252, Temecula, California, 114742, 100097, +14.63%, 37.3, 96.6, 3031, 1170, 33°29′35″N 117°07′54″W, 33.4931°N 117.1317°W, 33.4931 -117.1317, https://en.wikipedia.org/wiki/Temecula,_California,
-253, Springfield, Illinois, 114694, 116250, −1.34%, 60.1, 155.7, 1925, 743, 39°47′28″N 89°38′41″W, 39.7911°N 89.6446°W, 39.7911 -89.6446, https://en.wikipedia.org/wiki/Springfield,_Illinois,
-254, Palm Bay, Florida, 114194, 103190, +10.66%, 65.7, 170.2, 1676, 647, 27°59′08″N 80°39′45″W, 27.9856°N 80.6626°W, 27.9856 -80.6626, https://en.wikipedia.org/wiki/Palm_Bay,_Florida,
-255, Costa Mesa, California, 113615, 109960, +3.32%, 15.7, 40.7, 7186, 2775, 33°39′57″N 117°54′44″W, 33.6659°N 117.9123°W, 33.6659 -117.9123, https://en.wikipedia.org/wiki/Costa_Mesa,_California,
-256, Westminster, Colorado, 113479, 106114, +6.94%, 31.7, 82.1, 3592, 1387, 39°52′56″N 105°03′52″W, 39.8822°N 105.0644°W, 39.8822 -105.0644, https://en.wikipedia.org/wiki/Westminster,_Colorado,
-257, North Charleston, South Carolina, 113237, 97471, +16.18%, 73.7, 190.9, 1483, 573, 32°55′04″N 80°03′54″W, 32.9178°N 80.0650°W, 32.9178 -80.0650, https://en.wikipedia.org/wiki/North_Charleston,_South_Carolina,
-258, Miami Gardens, Florida, 113069, 107167, +5.51%, 18.2, 47.1, 6212, 2398, 25°56′56″N 80°14′37″W, 25.9489°N 80.2436°W, 25.9489 -80.2436, https://en.wikipedia.org/wiki/Miami_Gardens,_Florida,
-259, Manchester, New Hampshire, 112525, 109565, +2.70%, 33.1, 85.7, 3339, 1289, 42°59′06″N 71°26′39″W, 42.9849°N 71.4441°W, 42.9849 -71.4441, https://en.wikipedia.org/wiki/Manchester,_New_Hampshire,
-260, High Point, North Carolina, 112316, 104371, +7.61%, 55.2, 143.0, 2015, 778, 35°59′24″N 79°59′26″W, 35.9900°N 79.9905°W, 35.9900 -79.9905, https://en.wikipedia.org/wiki/High_Point,_North_Carolina,
-261, Downey, California, 112269, 111772, +0.44%, 12.4, 32.1, 9134, 3527, 33°56′18″N 118°07′51″W, 33.9382°N 118.1309°W, 33.9382 -118.1309, https://en.wikipedia.org/wiki/Downey,_California,
-262, Clovis, California, 112022, 95631, +17.14%, 24.2, 62.7, 4404, 1700, 36°49′42″N 119°41′06″W, 36.8282°N 119.6849°W, 36.8282 -119.6849, https://en.wikipedia.org/wiki/Clovis,_California,
-263, Pompano Beach, Florida, 111954, 99845, +12.13%, 24.0, 62.2, 4558, 1760, 26°14′30″N 80°08′02″W, 26.2416°N 80.1339°W, 26.2416 -80.1339, https://en.wikipedia.org/wiki/Pompano_Beach,_Florida,
-264, Pueblo, Colorado, 111750, 106595, +4.84%, 53.6, 138.8, 2058, 795, 38°16′12″N 104°36′44″W, 38.2699°N 104.6123°W, 38.2699 -104.6123, https://en.wikipedia.org/wiki/Pueblo,_Colorado,
-265, Elgin, Illinois, 111683, 108188, +3.23%, 37.4, 96.9, 2998, 1158, 42°02′23″N 88°19′18″W, 42.0396°N 88.3217°W, 42.0396 -88.3217, https://en.wikipedia.org/wiki/Elgin,_Illinois,
-266, Lowell, Massachusetts, 111670, 106519, +4.84%, 13.6, 35.2, 8129, 3139, 42°38′20″N 71°19′16″W, 42.6390°N 71.3211°W, 42.6390 -71.3211, https://en.wikipedia.org/wiki/Lowell,_Massachusetts,
-267, Antioch, California, 111535, 102372, +8.95%, 29.4, 76.1, 3772, 1456, 37°58′45″N 121°47′46″W, 37.9791°N 121.7962°W, 37.9791 -121.7962, https://en.wikipedia.org/wiki/Antioch,_California,
-268, West Palm Beach, Florida, 111398, 99919, +11.49%, 55.1, 142.7, 1963, 758, 26°44′47″N 80°07′30″W, 26.7464°N 80.1251°W, 26.7464 -80.1251, https://en.wikipedia.org/wiki/West_Palm_Beach,_Florida,
-269, Peoria, Illinois, 111388, 115007, −3.15%, 48.2, 124.8, 2371, 915, 40°45′05″N 89°37′03″W, 40.7515°N 89.6174°W, 40.7515 -89.6174, https://en.wikipedia.org/wiki/Peoria,_Illinois,
-270, Everett, Washington, 111262, 103019, +8.00%, 33.3, 86.2, 3275, 1264, 47°57′24″N 122°11′29″W, 47.9566°N 122.1914°W, 47.9566 -122.1914, https://en.wikipedia.org/wiki/Everett,_Washington,
-271, Ventura[aa], California, 111128, 106433, +4.41%, 21.8, 56.5, 5027, 1941, 34°16′04″N 119°15′15″W, 34.2678°N 119.2542°W, 34.2678 -119.2542, https://en.wikipedia.org/wiki/Ventura,_California,
-272, Centennial, Colorado, 110831, 100377, +10.41%, 29.5, 76.4, 3727, 1439, 39°35′26″N 104°52′09″W, 39.5906°N 104.8691°W, 39.5906 -104.8691, https://en.wikipedia.org/wiki/Centennial,_Colorado,
-273, Lakeland, Florida, 110516, 97422, +13.44%, 65.9, 170.7, 1615, 624, 28°03′20″N 81°57′18″W, 28.0555°N 81.9549°W, 28.0555 -81.9549, https://en.wikipedia.org/wiki/Lakeland,_Florida,
-274, Gresham, Oregon, 110158, 105594, +4.32%, 23.3, 60.3, 4786, 1848, 45°30′08″N 122°26′30″W, 45.5023°N 122.4416°W, 45.5023 -122.4416, https://en.wikipedia.org/wiki/Gresham,_Oregon,
-275, Richmond, California, 110146, 103701, +6.21%, 30.1, 78.0, 3648, 1409, 37°57′08″N 122°21′38″W, 37.9523°N 122.3606°W, 37.9523 -122.3606, https://en.wikipedia.org/wiki/Richmond,_California,
-276, Billings, Montana, 109550, 104170, +5.16%, 43.7, 113.2, 2525, 975, 45°47′19″N 108°33′00″W, 45.7885°N 108.5499°W, 45.7885 -108.5499, https://en.wikipedia.org/wiki/Billings,_Montana,
-277, Inglewood, California, 109419, 109673, −0.23%, 9.1, 23.6, 12160, 4700, 33°57′22″N 118°20′39″W, 33.9561°N 118.3443°W, 33.9561 -118.3443, https://en.wikipedia.org/wiki/Inglewood,_California,
-278, Broken Arrow, Oklahoma, 109171, 98850, +10.44%, 61.7, 159.8, 1741, 672, 36°02′11″N 95°46′52″W, 36.0365°N 95.7810°W, 36.0365 -95.7810, https://en.wikipedia.org/wiki/Broken_Arrow,_Oklahoma,
-279, Sandy Springs, Georgia, 108797, 93853, +15.92%, 37.7, 97.6, 2804, 1083, 33°55′53″N 84°22′07″W, 33.9315°N 84.3687°W, 33.9315 -84.3687, https://en.wikipedia.org/wiki/Sandy_Springs,_Georgia,
-280, Jurupa Valley, California, 108393, 0, NA[ab], 42.9, 111.1, 2414, 932, 34°00′09″N 117°28′03″W, 34.0026°N 117.4676°W, 34.0026 -117.4676, https://en.wikipedia.org/wiki/Jurupa_Valley,_California,
-281, Hillsboro, Oregon, 108389, 91611, +18.31%, 25.0, 64.7, 4207, 1624, 45°31′41″N 122°56′09″W, 45.5280°N 122.9357°W, 45.5280 -122.9357, https://en.wikipedia.org/wiki/Hillsboro,_Oregon,
-282, Waterbury, Connecticut, 108093, 110366, −2.06%, 28.5, 73.8, 3799, 1467, 41°33′31″N 73°02′12″W, 41.5585°N 73.0367°W, 41.5585 -73.0367, https://en.wikipedia.org/wiki/Waterbury,_Connecticut,
-283, Santa Maria, California, 107408, 99553, +7.89%, 22.8, 59.1, 4662, 1800, 34°56′00″N 120°26′38″W, 34.9332°N 120.4438°W, 34.9332 -120.4438, https://en.wikipedia.org/wiki/Santa_Maria,_California,
-284, Boulder, Colorado, 107353, 97385, +10.24%, 24.8, 64.2, 4358, 1683, 40°01′37″N 105°15′07″W, 40.0270°N 105.2519°W, 40.0270 -105.2519, https://en.wikipedia.org/wiki/Boulder,_Colorado,
-285, Greeley, Colorado, 107348, 92889, +15.57%, 47.8, 123.8, 2176, 840, 40°24′55″N 104°46′11″W, 40.4153°N 104.7697°W, 40.4153 -104.7697, https://en.wikipedia.org/wiki/Greeley,_Colorado,
-286, Daly City, California, 107008, 101123, +5.82%, 7.6, 19.7, 14009, 5409, 37°42′03″N 122°27′54″W, 37.7009°N 122.4650°W, 37.7009 -122.4650, https://en.wikipedia.org/wiki/Daly_City,_California,
-287, Meridian, Idaho, 106804, 75092, +42.23%, 29.8, 77.2, 3584, 1384, 43°36′51″N 116°23′56″W, 43.6142°N 116.3989°W, 43.6142 -116.3989, https://en.wikipedia.org/wiki/Meridian,_Idaho,
-288, Lewisville, Texas, 106586, 95290, +11.85%, 36.7, 95.1, 2852, 1101, 33°02′48″N 96°58′54″W, 33.0466°N 96.9818°W, 33.0466 -96.9818, https://en.wikipedia.org/wiki/Lewisville,_Texas,
-289, Davie[ac], Florida, 106558, 91992, +15.83%, 34.9, 90.4, 2919, 1127, 26°04′45″N 80°17′06″W, 26.0791°N 80.2850°W, 26.0791 -80.2850, https://en.wikipedia.org/wiki/Davie,_Florida,
-290, West Covina, California, 106311, 106098, +0.20%, 16.0, 41.4, 6740, 2600, 34°03′21″N 117°54′36″W, 34.0559°N 117.9099°W, 34.0559 -117.9099, https://en.wikipedia.org/wiki/West_Covina,_California,
-291, League City, Texas, 106244, 83560, +27.15%, 51.2, 132.6, 1992, 769, 29°29′24″N 95°06′33″W, 29.4901°N 95.1091°W, 29.4901 -95.1091, https://en.wikipedia.org/wiki/League_City,_Texas,
-292, Tyler, Texas, 105729, 96900, +9.11%, 56.6, 146.6, 1852, 715, 32°19′02″N 95°18′21″W, 32.3173°N 95.3059°W, 32.3173 -95.3059, https://en.wikipedia.org/wiki/Tyler,_Texas,
-293, Norwalk, California, 105120, 105549, −0.41%, 9.7, 25.1, 10946, 4226, 33°54′27″N 118°05′01″W, 33.9076°N 118.0835°W, 33.9076 -118.0835, https://en.wikipedia.org/wiki/Norwalk,_California,
-294, San Mateo, California, 105025, 97207, +8.04%, 12.1, 31.3, 8592, 3317, 37°33′37″N 122°18′38″W, 37.5603°N 122.3106°W, 37.5603 -122.3106, https://en.wikipedia.org/wiki/San_Mateo,_California,
-295, Green Bay, Wisconsin, 104879, 104057, +0.79%, 45.4, 117.6, 2316, 894, 44°31′15″N 87°59′03″W, 44.5207°N 87.9842°W, 44.5207 -87.9842, https://en.wikipedia.org/wiki/Green_Bay,_Wisconsin,
-296, Wichita Falls, Texas, 104576, 104553, +0.02%, 72.2, 187.0, 1450, 560, 33°54′24″N 98°31′33″W, 33.9067°N 98.5259°W, 33.9067 -98.5259, https://en.wikipedia.org/wiki/Wichita_Falls,_Texas,
-297, Sparks, Nevada, 104246, 90264, +15.49%, 35.9, 93.0, 2810, 1080, 39°33′16″N 119°44′08″W, 39.5544°N 119.7356°W, 39.5544 -119.7356, https://en.wikipedia.org/wiki/Sparks,_Nevada,
-298, Lakewood[ad], New Jersey, 104157, 92843, +12.19%, 24.7, 64.0, 4079, 1575, 40°04′38″N 74°12′01″W, 40.0771°N 74.2004°W, 40.0771 -74.2004, https://en.wikipedia.org/wiki/Lakewood_Township,_New_Jersey,
-299, Burbank, California, 103695, 103340, +0.34%, 17.4, 45.1, 6003, 2318, 34°11′24″N 118°19′35″W, 34.1901°N 118.3264°W, 34.1901 -118.3264, https://en.wikipedia.org/wiki/Burbank,_California,
-300, Rialto, California, 103440, 99171, +4.30%, 22.3, 57.8, 4633, 1789, 34°06′42″N 117°23′18″W, 34.1118°N 117.3883°W, 34.1118 -117.3883, https://en.wikipedia.org/wiki/Rialto,_California,
-301, Allen, Texas, 103383, 84246, +22.72%, 27.1, 70.2, 3715, 1434, 33°05′59″N 96°39′47″W, 33.0997°N 96.6631°W, 33.0997 -96.6631, https://en.wikipedia.org/wiki/Allen,_Texas,
-302, El Cajon, California, 103241, 99478, +3.78%, 14.5, 37.6, 7156, 2763, 32°48′06″N 116°57′37″W, 32.8017°N 116.9604°W, 32.8017 -116.9604, https://en.wikipedia.org/wiki/El_Cajon,_California,
-303, Las Cruces, New Mexico, 102926, 97618, +5.44%, 76.9, 199.2, 1323, 511, 32°19′35″N 106°47′23″W, 32.3264°N 106.7897°W, 32.3264 -106.7897, https://en.wikipedia.org/wiki/Las_Cruces,_New_Mexico,
-304, Renton, Washington, 102153, 90927, +12.35%, 23.4, 60.6, 4314, 1666, 47°28′34″N 122°11′31″W, 47.4761°N 122.1920°W, 47.4761 -122.1920, https://en.wikipedia.org/wiki/Renton,_Washington,
-305, Davenport, Iowa, 102085, 99685, +2.41%, 62.9, 162.9, 1631, 630, 41°33′15″N 90°36′14″W, 41.5541°N 90.6040°W, 41.5541 -90.6040, https://en.wikipedia.org/wiki/Davenport,_Iowa,
-306, South Bend, Indiana, 101860, 101168, +0.68%, 41.4, 107.2, 2457, 949, 41°40′37″N 86°16′08″W, 41.6769°N 86.2690°W, 41.6769 -86.2690, https://en.wikipedia.org/wiki/South_Bend,_Indiana,
-307, Vista, California, 101224, 93834, +7.88%, 18.7, 48.4, 5436, 2099, 33°11′22″N 117°14′19″W, 33.1895°N 117.2386°W, 33.1895 -117.2386, https://en.wikipedia.org/wiki/Vista,_California,
-308, Tuscaloosa, Alabama, 101113, 90468, +11.77%, 71.7, 185.7, 1399, 540, 33°12′23″N 87°32′05″W, 33.2065°N 87.5346°W, 33.2065 -87.5346, https://en.wikipedia.org/wiki/Tuscaloosa,_Alabama,
-309, Clinton[ae], Michigan, 100800, 96796, +4.14%, 28.1, 72.8, 3573, 1380, 42°35′25″N 82°55′01″W, 42.5903°N 82.9170°W, 42.5903 -82.9170, https://en.wikipedia.org/wiki/Clinton_Township,_Macomb_County,_Michigan,
-310, Edison[ad], New Jersey, 100693, 99967, +0.73%, 30.1, 78.0, 3389, 1309, 40°30′14″N 74°20′58″W, 40.5040°N 74.3494°W, 40.5040 -74.3494, https://en.wikipedia.org/wiki/Edison,_New_Jersey,
-311, Woodbridge[ad], New Jersey, 100450, 99585, +0.87%, 23.3, 60.3, 4351, 1680, 40°33′39″N 74°17′34″W, 40.5607°N 74.2927°W, 40.5607 -74.2927, https://en.wikipedia.org/wiki/Woodbridge_Township,_New_Jersey,
-312, San Angelo, Texas, 100215, 93200, +7.53%, 59.9, 155.1, 1681, 649, 31°26′28″N 100°27′02″W, 31.4411°N 100.4505°W, 31.4411 -100.4505, https://en.wikipedia.org/wiki/San_Angelo,_Texas,
-313, Kenosha, Wisconsin, 100164, 99218, +0.95%, 28.0, 72.5, 3577, 1381, 42°34′56″N 87°50′44″W, 42.5822°N 87.8456°W, 42.5822 -87.8456, https://en.wikipedia.org/wiki/Kenosha,_Wisconsin,
-314, Vacaville, California, 100154, 92428, +8.36%, 29.0, 75.1, 3449, 1332, 38°21′14″N 121°58′22″W, 38.3539°N 121.9728°W, 38.3539 -121.9728, https://en.wikipedia.org/wiki/Vacaville,_California,
+1, New York City, New York, 8398748, 8175133, +2.74%, 301.5, 780.9, 28317, 10933, 40°39′49″N 73°56′19″W, 40.6635°N 73.9387°W, 40.6635 -73.9387, https://en.wikipedia.org/wiki/New_York_City
+2, Los Angeles, California, 3990456, 3792621, +5.22%, 468.7, 1213.9, 8484, 3276, 34°01′10″N 118°24′39″W, 34.0194°N 118.4108°W, 34.0194 -118.4108, https://en.wikipedia.org/wiki/Los_Angeles
+3, Chicago, Illinois, 2705994, 2695598, +0.39%, 227.3, 588.7, 11900, 4600, 41°50′15″N 87°40′54″W, 41.8376°N 87.6818°W, 41.8376 -87.6818, https://en.wikipedia.org/wiki/Chicago
+4, Houston, Texas, 2325502, 2100263, +10.72%, 637.5, 1651.1, 3613, 1395, 29°47′12″N 95°23′27″W, 29.7866°N 95.3909°W, 29.7866 -95.3909, https://en.wikipedia.org/wiki/Houston
+5, Phoenix, Arizona, 1660272, 1445632, +14.85%, 517.6, 1340.6, 3120, 1200, 33°34′20″N 112°05′24″W, 33.5722°N 112.0901°W, 33.5722 -112.0901, https://en.wikipedia.org/wiki/Phoenix,_Arizona
+6, Philadelphia, Pennsylvania, 1584138, 1526006, +3.81%, 134.2, 347.6, 11683, 4511, 40°00′34″N 75°08′00″W, 40.0094°N 75.1333°W, 40.0094 -75.1333, https://en.wikipedia.org/wiki/Philadelphia
+7, San Antonio, Texas, 1532233, 1327407, +15.43%, 461.0, 1194.0, 3238, 1250, 29°28′21″N 98°31′30″W, 29.4724°N 98.5251°W, 29.4724 -98.5251, https://en.wikipedia.org/wiki/San_Antonio
+8, San Diego, California, 1425976, 1307402, +9.07%, 325.2, 842.3, 4325, 1670, 32°48′55″N 117°08′06″W, 32.8153°N 117.1350°W, 32.8153 -117.1350, https://en.wikipedia.org/wiki/San_Diego
+9, Dallas, Texas, 1345047, 1197816, +12.29%, 340.9, 882.9, 3866, 1493, 32°47′36″N 96°45′59″W, 32.7933°N 96.7665°W, 32.7933 -96.7665, https://en.wikipedia.org/wiki/Dallas
+10, San Jose, California, 1030119, 945942, +8.90%, 177.5, 459.7, 5777, 2231, 37°17′48″N 121°49′08″W, 37.2967°N 121.8189°W, 37.2967 -121.8189, https://en.wikipedia.org/wiki/San_Jose,_California
+11, Austin, Texas, 964254, 790390, +22.00%, 312.7, 809.9, 3031, 1170, 30°18′14″N 97°45′16″W, 30.3039°N 97.7544°W, 30.3039 -97.7544, https://en.wikipedia.org/wiki/Austin,_Texas
+12, Jacksonville, Florida, 903889, 821784, +9.99%, 747.4, 1935.8, 1178, 455, 30°20′13″N 81°39′42″W, 30.3369°N 81.6616°W, 30.3369 -81.6616, https://en.wikipedia.org/wiki/Jacksonville,_Florida
+13, Fort Worth, Texas, 895008, 741206, +20.75%, 342.9, 888.1, 2491, 962, 32°46′53″N 97°20′48″W, 32.7815°N 97.3467°W, 32.7815 -97.3467, https://en.wikipedia.org/wiki/Fort_Worth,_Texas
+14, Columbus, Ohio, 892533, 787033, +13.40%, 218.5, 565.9, 3936, 1520, 39°59′07″N 82°59′05″W, 39.9852°N 82.9848°W, 39.9852 -82.9848, https://en.wikipedia.org/wiki/Columbus,_Ohio
+15, San Francisco, California, 883305, 805235, +9.70%, 46.9, 121.5, 18569, 7170, 37°43′38″N 123°01′56″W, 37.7272°N 123.0322°W, 37.7272 -123.0322, https://en.wikipedia.org/wiki/San_Francisco
+16, Charlotte, North Carolina, 872498, 731424, +19.29%, 305.4, 791.0, 2757, 1064, 35°12′28″N 80°49′52″W, 35.2078°N 80.8310°W, 35.2078 -80.8310, https://en.wikipedia.org/wiki/Charlotte,_North_Carolina
+17, Indianapolis, Indiana, 867125, 820445, +5.69%, 361.5, 936.3, 2366, 914, 39°46′36″N 86°08′45″W, 39.7767°N 86.1459°W, 39.7767 -86.1459, https://en.wikipedia.org/wiki/Indianapolis
+18, Seattle, Washington, 744955, 608660, +22.39%, 83.8, 217.0, 8405, 3245, 47°37′14″N 122°21′03″W, 47.6205°N 122.3509°W, 47.6205 -122.3509, https://en.wikipedia.org/wiki/Seattle
+19, Denver, Colorado, 716492, 600158, +19.38%, 153.3, 397.0, 4521, 1746, 39°45′43″N 104°52′52″W, 39.7619°N 104.8811°W, 39.7619 -104.8811, https://en.wikipedia.org/wiki/Denver
+20, Washington D.C., District of Columbia, 702455, 601723, +16.74%, 61.1, 158.2, 11148, 4304, 38°54′15″N 77°01′02″W, 38.9041°N 77.0172°W, 38.9041 -77.0172, https://en.wikipedia.org/wiki/Washington,_D.C.
+21, Boston, Massachusetts, 694583, 617594, +12.47%, 48.3, 125.1, 13938, 5381, 42°19′55″N 71°01′13″W, 42.3320°N 71.0202°W, 42.3320 -71.0202, https://en.wikipedia.org/wiki/Boston
+22, El Paso, Texas, 682669, 649121, +5.17%, 256.8, 665.1, 2660, 1030, 31°50′54″N 106°25′37″W, 31.8484°N 106.4270°W, 31.8484 -106.4270, https://en.wikipedia.org/wiki/El_Paso,_Texas
+23, Detroit, Michigan, 672662, 713777, −5.76%, 138.8, 359.5, 4847, 1871, 42°22′59″N 83°06′08″W, 42.3830°N 83.1022°W, 42.3830 -83.1022, https://en.wikipedia.org/wiki/Detroit
+24, Nashville, Tennessee, 669053, 601222, +11.28%, 475.9, 1232.6, 1388, 536, 36°10′18″N 86°47′06″W, 36.1718°N 86.7850°W, 36.1718 -86.7850, https://en.wikipedia.org/wiki/Nashville,_Tennessee
+25, Portland, Oregon, 653115, 583776, +11.88%, 133.5, 345.8, 4793, 1851, 45°32′13″N 122°39′00″W, 45.5370°N 122.6500°W, 45.5370 -122.6500, https://en.wikipedia.org/wiki/Portland,_Oregon
+26, Memphis, Tennessee, 650618, 646889, +0.58%, 317.4, 822.1, 2056, 794, 35°06′10″N 89°58′39″W, 35.1028°N 89.9774°W, 35.1028 -89.9774, https://en.wikipedia.org/wiki/Memphis,_Tennessee
+27, Oklahoma City, Oklahoma, 649021, 579999, +11.90%, 606.3, 1570.3, 1053, 407, 35°28′02″N 97°30′49″W, 35.4671°N 97.5137°W, 35.4671 -97.5137, https://en.wikipedia.org/wiki/Oklahoma_City
+28, Las Vegas, Nevada, 644644, 583756, +10.43%, 134.4, 348.1, 4709, 1818, 36°13′45″N 115°15′36″W, 36.2292°N 115.2601°W, 36.2292 -115.2601, https://en.wikipedia.org/wiki/Las_Vegas
+29, Louisville, Kentucky, 620118, 597337, +3.81%, 263.5, 682.5, 2339, 903, 38°09′55″N 85°38′51″W, 38.1654°N 85.6474°W, 38.1654 -85.6474, https://en.wikipedia.org/wiki/Louisville,_Kentucky
+30, Baltimore, Maryland, 602495, 620961, −2.97%, 80.9, 209.5, 7598, 2934, 39°18′00″N 76°36′38″W, 39.3000°N 76.6105°W, 39.3000 -76.6105, https://en.wikipedia.org/wiki/Baltimore
+31, Milwaukee, Wisconsin, 592025, 594833, −0.47%, 96.2, 249.2, 6186, 2388, 43°03′48″N 87°58′00″W, 43.0633°N 87.9667°W, 43.0633 -87.9667, https://en.wikipedia.org/wiki/Milwaukee
+32, Albuquerque, New Mexico, 560218, 545852, +2.63%, 188.2, 487.4, 2972, 1147, 35°06′20″N 106°38′51″W, 35.1056°N 106.6474°W, 35.1056 -106.6474, https://en.wikipedia.org/wiki/Albuquerque,_New_Mexico
+33, Tucson, Arizona, 545975, 520116, +4.97%, 230.8, 597.8, 2299, 888, 32°09′11″N 110°52′14″W, 32.1531°N 110.8706°W, 32.1531 -110.8706, https://en.wikipedia.org/wiki/Tucson,_Arizona
+34, Fresno, California, 530093, 494665, +7.16%, 114.4, 296.3, 4563, 1762, 36°47′01″N 119°47′36″W, 36.7836°N 119.7934°W, 36.7836 -119.7934, https://en.wikipedia.org/wiki/Fresno,_California
+35, Mesa, Arizona, 508958, 439041, +15.92%, 137.9, 357.2, 3514, 1357, 33°24′07″N 111°43′03″W, 33.4019°N 111.7174°W, 33.4019 -111.7174, https://en.wikipedia.org/wiki/Mesa,_Arizona
+36, Sacramento, California, 508529, 466488, +9.01%, 97.9, 253.6, 5059, 1953, 38°34′00″N 121°28′07″W, 38.5666°N 121.4686°W, 38.5666 -121.4686, https://en.wikipedia.org/wiki/Sacramento,_California
+37, Atlanta, Georgia, 498044, 420003, +18.58%, 133.5, 345.8, 3539, 1366, 33°45′46″N 84°25′22″W, 33.7629°N 84.4227°W, 33.7629 -84.4227, https://en.wikipedia.org/wiki/Atlanta
+38, Kansas City, Missouri, 491918, 459787, +6.99%, 315.0, 815.8, 1528, 590, 39°07′30″N 94°33′04″W, 39.1251°N 94.5510°W, 39.1251 -94.5510, https://en.wikipedia.org/wiki/Kansas_City,_Missouri
+39, Colorado Springs, Colorado, 472688, 416427, +13.51%, 195.6, 506.6, 2378, 918, 38°52′02″N 104°45′39″W, 38.8673°N 104.7607°W, 38.8673 -104.7607, https://en.wikipedia.org/wiki/Colorado_Springs,_Colorado
+40, Miami, Florida, 470914, 399457, +17.89%, 36.0, 93.2, 12599, 4865, 25°46′31″N 80°12′31″W, 25.7752°N 80.2086°W, 25.7752 -80.2086, https://en.wikipedia.org/wiki/Miami
+41, Raleigh, North Carolina, 469298, 403892, +16.19%, 145.1, 375.8, 3163, 1221, 35°49′50″N 78°38′30″W, 35.8306°N 78.6418°W, 35.8306 -78.6418, https://en.wikipedia.org/wiki/Raleigh,_North_Carolina
+42, Omaha, Nebraska, 468262, 408958, +14.50%, 133.2, 345.0, 3356, 1296, 41°15′52″N 96°02′42″W, 41.2644°N 96.0451°W, 41.2644 -96.0451, https://en.wikipedia.org/wiki/Omaha,_Nebraska
+43, Long Beach, California, 467354, 462257, +1.10%, 50.3, 130.3, 9347, 3609, 33°48′33″N 118°09′19″W, 33.8092°N 118.1553°W, 33.8092 -118.1553, https://en.wikipedia.org/wiki/Long_Beach,_California
+44, Virginia Beach, Virginia, 450189, 437994, +2.78%, 244.7, 633.8, 1850, 710, 36°46′48″N 76°01′31″W, 36.7800°N 76.0252°W, 36.7800 -76.0252, https://en.wikipedia.org/wiki/Virginia_Beach,_Virginia
+45, Oakland, California, 429082, 390724, +9.82%, 55.9, 144.8, 7514, 2901, 37°46′11″N 122°13′33″W, 37.7698°N 122.2257°W, 37.7698 -122.2257, https://en.wikipedia.org/wiki/Oakland,_California
+46, Minneapolis, Minnesota, 425403, 382578, +11.19%, 54.0, 139.9, 7660, 2960, 44°57′48″N 93°16′06″W, 44.9633°N 93.2683°W, 44.9633 -93.2683, https://en.wikipedia.org/wiki/Minneapolis
+47, Tulsa, Oklahoma, 400669, 391906, +2.24%, 196.8, 509.7, 2048, 791, 36°07′40″N 95°54′08″W, 36.1279°N 95.9023°W, 36.1279 -95.9023, https://en.wikipedia.org/wiki/Tulsa,_Oklahoma
+48, Arlington, Texas, 398112, 365438, +8.94%, 95.8, 248.1, 4100, 1600, 32°42′03″N 97°07′29″W, 32.7007°N 97.1247°W, 32.7007 -97.1247, https://en.wikipedia.org/wiki/Arlington,_Texas
+49, Tampa, Florida, 392890, 335709, +17.03%, 113.4, 293.7, 3326, 1284, 27°58′12″N 82°28′47″W, 27.9701°N 82.4797°W, 27.9701 -82.4797, https://en.wikipedia.org/wiki/Tampa,_Florida
+50, New Orleans, Louisiana, 391006, 343829, +13.72%, 169.4, 438.7, 2311, 892, 30°03′12″N 89°56′04″W, 30.0534°N 89.9345°W, 30.0534 -89.9345, https://en.wikipedia.org/wiki/New_Orleans
+51, Wichita, Kansas, 389255, 382368, +1.80%, 160.4, 415.4, 2431, 939, 37°41′27″N 97°20′45″W, 37.6907°N 97.3459°W, 37.6907 -97.3459, https://en.wikipedia.org/wiki/Wichita,_Kansas
+52, Cleveland, Ohio, 383793, 396815, −3.28%, 77.7, 201.2, 4965, 1917, 41°28′43″N 81°40′46″W, 41.4785°N 81.6794°W, 41.4785 -81.6794, https://en.wikipedia.org/wiki/Cleveland
+53, Bakersfield, California, 383579, 347483, +10.39%, 148.8, 385.4, 2529, 976, 35°19′16″N 119°01′06″W, 35.3212°N 119.0183°W, 35.3212 -119.0183, https://en.wikipedia.org/wiki/Bakersfield,_California
+54, Aurora, Colorado, 374114, 325078, +15.08%, 153.5, 397.6, 2356, 910, 39°41′17″N 104°41′23″W, 39.6880°N 104.6897°W, 39.6880 -104.6897, https://en.wikipedia.org/wiki/Aurora,_Colorado
+55, Anaheim, California, 352005, 336265, +4.68%, 50.0, 129.5, 7021, 2711, 33°51′20″N 117°45′36″W, 33.8555°N 117.7601°W, 33.8555 -117.7601, https://en.wikipedia.org/wiki/Anaheim,_California
+56, Honolulu, Hawaii, 347397, 337256, +3.01%, 60.5, 156.7, 5815, 2245, 21°19′27″N 157°50′51″W, 21.3243°N 157.8476°W, 21.3243 -157.8476, https://en.wikipedia.org/wiki/Honolulu
+57, Santa Ana, California, 332725, 324528, +2.53%, 27.1, 70.2, 12333, 4762, 33°44′11″N 117°52′59″W, 33.7363°N 117.8830°W, 33.7363 -117.8830, https://en.wikipedia.org/wiki/Santa_Ana,_California
+58, Riverside, California, 330063, 303871, +8.62%, 81.2, 210.3, 3999, 1544, 33°56′17″N 117°23′36″W, 33.9381°N 117.3932°W, 33.9381 -117.3932, https://en.wikipedia.org/wiki/Riverside,_California
+59, Corpus Christi, Texas, 326554, 305215, +6.99%, 174.6, 452.2, 1866, 720, 27°45′15″N 97°10′24″W, 27.7543°N 97.1734°W, 27.7543 -97.1734, https://en.wikipedia.org/wiki/Corpus_Christi,_Texas
+60, Lexington, Kentucky, 323780, 295803, +9.46%, 283.6, 734.5, 1123, 434, 38°02′27″N 84°27′30″W, 38.0407°N 84.4583°W, 38.0407 -84.4583, https://en.wikipedia.org/wiki/Lexington,_Kentucky
+61, Stockton, California, 311178, 291707, +6.67%, 61.7, 159.8, 4977, 1922, 37°58′35″N 121°18′48″W, 37.9763°N 121.3133°W, 37.9763 -121.3133, https://en.wikipedia.org/wiki/Stockton,_California
+62, Henderson, Nevada, 310390, 257729, +20.43%, 104.7, 271.2, 2798, 1080, 36°00′35″N 115°02′09″W, 36.0097°N 115.0357°W, 36.0097 -115.0357, https://en.wikipedia.org/wiki/Henderson,_Nevada
+63, Saint Paul, Minnesota, 307695, 285068, +7.94%, 52.0, 134.7, 5815, 2245, 44°56′56″N 93°06′15″W, 44.9489°N 93.1041°W, 44.9489 -93.1041, https://en.wikipedia.org/wiki/Saint_Paul,_Minnesota
+64, St. Louis, Missouri, 302838, 319294, −5.15%, 62.0, 160.6, 5023, 1939, 38°38′09″N 90°14′41″W, 38.6357°N 90.2446°W, 38.6357 -90.2446, https://en.wikipedia.org/wiki/St._Louis
+65, Cincinnati, Ohio, 302605, 296943, +1.91%, 77.4, 200.5, 3860, 1490, 39°08′25″N 84°30′21″W, 39.1402°N 84.5058°W, 39.1402 -84.5058, https://en.wikipedia.org/wiki/Cincinnati
+66, Pittsburgh, Pennsylvania, 301048, 305704, −1.52%, 55.4, 143.5, 5481, 2116, 40°26′23″N 79°58′36″W, 40.4398°N 79.9766°W, 40.4398 -79.9766, https://en.wikipedia.org/wiki/Pittsburgh
+67, Greensboro, North Carolina, 294722, 269666, +9.29%, 128.3, 332.3, 2237, 864, 36°05′42″N 79°49′37″W, 36.0951°N 79.8270°W, 36.0951 -79.8270, https://en.wikipedia.org/wiki/Greensboro,_North_Carolina
+68, Anchorage, Alaska, 291538, 291826, −0.10%, 1706.6, 4420.1, 175, 68, 61°10′27″N 149°17′03″W, 61.1743°N 149.2843°W, 61.1743 -149.2843, https://en.wikipedia.org/wiki/Anchorage,_Alaska
+69, Plano, Texas, 288061, 259841, +10.86%, 71.7, 185.7, 3990, 1540, 33°03′03″N 96°44′52″W, 33.0508°N 96.7479°W, 33.0508 -96.7479, https://en.wikipedia.org/wiki/Plano,_Texas
+70, Lincoln, Nebraska, 287401, 258379, +11.23%, 92.1, 238.5, 3044, 1175, 40°48′38″N 96°40′49″W, 40.8105°N 96.6803°W, 40.8105 -96.6803, https://en.wikipedia.org/wiki/Lincoln,_Nebraska
+71, Orlando, Florida, 285713, 238300, +19.90%, 105.2, 272.5, 2635, 1017, 28°25′00″N 81°16′25″W, 28.4166°N 81.2736°W, 28.4166 -81.2736, https://en.wikipedia.org/wiki/Orlando,_Florida
+72, Irvine, California, 282572, 212375, +33.05%, 65.6, 169.9, 4057, 1566, 33°40′42″N 117°46′17″W, 33.6784°N 117.7713°W, 33.6784 -117.7713, https://en.wikipedia.org/wiki/Irvine,_California
+73, Newark, New Jersey, 282090, 277140, +1.79%, 24.1, 62.4, 11691, 4514, 40°43′27″N 74°10′21″W, 40.7242°N 74.1726°W, 40.7242 -74.1726, https://en.wikipedia.org/wiki/Newark,_New_Jersey
+74, Toledo, Ohio, 274975, 287208, −4.26%, 80.7, 209.0, 3451, 1332, 41°39′51″N 83°34′55″W, 41.6641°N 83.5819°W, 41.6641 -83.5819, https://en.wikipedia.org/wiki/Toledo,_Ohio
+75, Durham, North Carolina, 274291, 228330, +20.13%, 109.8, 284.4, 2395, 925, 35°58′52″N 78°54′10″W, 35.9811°N 78.9029°W, 35.9811 -78.9029, https://en.wikipedia.org/wiki/Durham,_North_Carolina
+76, Chula Vista, California, 271651, 243916, +11.37%, 49.6, 128.5, 5387, 2080, 32°37′40″N 117°00′55″W, 32.6277°N 117.0152°W, 32.6277 -117.0152, https://en.wikipedia.org/wiki/Chula_Vista,_California
+77, Fort Wayne, Indiana, 267633, 253691, +5.50%, 110.6, 286.5, 2391, 923, 41°05′18″N 85°08′38″W, 41.0882°N 85.1439°W, 41.0882 -85.1439, https://en.wikipedia.org/wiki/Fort_Wayne,_Indiana
+78, Jersey City, New Jersey, 265549, 247597, +7.25%, 14.8, 38.3, 17848, 6891, 40°42′41″N 74°03′53″W, 40.7114°N 74.0648°W, 40.7114 -74.0648, https://en.wikipedia.org/wiki/Jersey_City,_New_Jersey
+79, St. Petersburg, Florida, 265098, 244769, +8.31%, 61.8, 160.1, 4223, 1631, 27°45′43″N 82°38′39″W, 27.7620°N 82.6441°W, 27.7620 -82.6441, https://en.wikipedia.org/wiki/St._Petersburg,_Florida
+80, Laredo, Texas, 261639, 236091, +10.82%, 101.1, 261.8, 2544, 982, 27°33′37″N 99°29′21″W, 27.5604°N 99.4892°W, 27.5604 -99.4892, https://en.wikipedia.org/wiki/Laredo,_Texas
+81, Madison, Wisconsin, 258054, 233209, +10.65%, 77.0, 199.4, 3280, 1270, 43°05′16″N 89°25′48″W, 43.0878°N 89.4299°W, 43.0878 -89.4299, https://en.wikipedia.org/wiki/Madison,_Wisconsin
+82, Chandler, Arizona, 257165, 236123, +8.91%, 64.9, 168.1, 3813, 1472, 33°16′58″N 111°51′18″W, 33.2829°N 111.8549°W, 33.2829 -111.8549, https://en.wikipedia.org/wiki/Chandler,_Arizona
+83, Buffalo, New York, 256304, 261310, −1.92%, 40.4, 104.6, 6359, 2455, 42°53′33″N 78°51′35″W, 42.8925°N 78.8597°W, 42.8925 -78.8597, https://en.wikipedia.org/wiki/Buffalo,_New_York
+84, Lubbock, Texas, 255885, 229573, +11.46%, 124.6, 322.7, 2027, 783, 33°33′56″N 101°53′12″W, 33.5656°N 101.8867°W, 33.5656 -101.8867, https://en.wikipedia.org/wiki/Lubbock,_Texas
+85, Scottsdale, Arizona, 255310, 217385, +17.45%, 183.9, 476.3, 1341, 518, 33°41′03″N 111°51′40″W, 33.6843°N 111.8611°W, 33.6843 -111.8611, https://en.wikipedia.org/wiki/Scottsdale,_Arizona
+86, Reno, Nevada, 250998, 225221, +11.45%, 107.3, 277.9, 2286, 883, 39°32′57″N 119°51′00″W, 39.5491°N 119.8499°W, 39.5491 -119.8499, https://en.wikipedia.org/wiki/Reno,_Nevada
+87, Glendale, Arizona, 250702, 226721, +10.58%, 59.1, 153.1, 4161, 1607, 33°31′59″N 112°11′24″W, 33.5331°N 112.1899°W, 33.5331 -112.1899, https://en.wikipedia.org/wiki/Glendale,_Arizona
+88, Gilbert, Arizona, 248279, 208453, +19.11%, 68.0, 176.1, 3487, 1346, 33°18′37″N 111°44′35″W, 33.3103°N 111.7431°W, 33.3103 -111.7431, https://en.wikipedia.org/wiki/Gilbert,_Arizona
+89, Winston–Salem, North Carolina, 246328, 229617, +7.28%, 132.5, 343.2, 1828, 706, 36°06′10″N 80°15′40″W, 36.1027°N 80.2610°W, 36.1027 -80.2610, https://en.wikipedia.org/wiki/Winston%E2%80%93Salem,_North_Carolina
+90, North Las Vegas, Nevada, 245949, 216961, +13.36%, 98.0, 253.8, 2436, 941, 36°17′09″N 115°05′38″W, 36.2857°N 115.0939°W, 36.2857 -115.0939, https://en.wikipedia.org/wiki/North_Las_Vegas,_Nevada
+91, Norfolk, Virginia, 244076, 242803, +0.52%, 53.3, 138.0, 4599, 1776, 36°55′23″N 76°14′41″W, 36.9230°N 76.2446°W, 36.9230 -76.2446, https://en.wikipedia.org/wiki/Norfolk,_Virginia
+92, Chesapeake, Virginia, 242634, 222209, +9.19%, 338.5, 876.7, 703, 271, 36°40′46″N 76°18′06″W, 36.6794°N 76.3018°W, 36.6794 -76.3018, https://en.wikipedia.org/wiki/Chesapeake,_Virginia
+93, Garland, Texas, 242507, 226876, +6.89%, 57.0, 147.6, 4122, 1592, 32°54′35″N 96°37′49″W, 32.9098°N 96.6303°W, 32.9098 -96.6303, https://en.wikipedia.org/wiki/Garland,_Texas
+94, Irving, Texas, 242242, 216290, +12.00%, 67.0, 173.5, 3557, 1373, 32°51′28″N 96°58′12″W, 32.8577°N 96.9700°W, 32.8577 -96.9700, https://en.wikipedia.org/wiki/Irving,_Texas
+95, Hialeah, Florida, 238942, 224669, +6.35%, 21.5, 55.7, 10995, 4245, 25°52′12″N 80°18′10″W, 25.8699°N 80.3029°W, 25.8699 -80.3029, https://en.wikipedia.org/wiki/Hialeah,_Florida
+96, Fremont, California, 237807, 214089, +11.08%, 77.5, 200.7, 3008, 1161, 37°29′40″N 121°56′28″W, 37.4945°N 121.9412°W, 37.4945 -121.9412, https://en.wikipedia.org/wiki/Fremont,_California
+97, Boise, Idaho, 228790, 205671, +11.24%, 82.1, 212.6, 2718, 1049, 43°36′01″N 116°13′54″W, 43.6002°N 116.2317°W, 43.6002 -116.2317, https://en.wikipedia.org/wiki/Boise,_Idaho
+98, Richmond, Virginia, 228783, 204214, +12.03%, 59.8, 154.9, 3732, 1441, 37°31′53″N 77°28′34″W, 37.5314°N 77.4760°W, 37.5314 -77.4760, https://en.wikipedia.org/wiki/Richmond,_Virginia
+99, Baton Rouge, Louisiana, 221599, 229493, −3.44%, 85.9, 222.5, 2651, 1024, 30°26′32″N 91°07′51″W, 30.4422°N 91.1309°W, 30.4422 -91.1309, https://en.wikipedia.org/wiki/Baton_Rouge,_Louisiana
+100, Spokane, Washington, 219190, 208916, +4.92%, 68.7, 177.9, 3144, 1214, 47°40′01″N 117°26′00″W, 47.6669°N 117.4333°W, 47.6669 -117.4333, https://en.wikipedia.org/wiki/Spokane,_Washington
+101, Des Moines, Iowa, 216853, 203433, +6.60%, 88.9, 230.2, 2424, 936, 41°34′21″N 93°36′37″W, 41.5726°N 93.6102°W, 41.5726 -93.6102, https://en.wikipedia.org/wiki/Des_Moines,_Iowa
+102, Tacoma, Washington, 216279, 198397, +9.01%, 49.7, 128.7, 4251, 1641, 47°15′08″N 122°27′35″W, 47.2522°N 122.4598°W, 47.2522 -122.4598, https://en.wikipedia.org/wiki/Tacoma,_Washington
+103, San Bernardino, California, 215941, 209924, +2.87%, 61.5, 159.3, 3516, 1358, 34°08′30″N 117°17′37″W, 34.1416°N 117.2936°W, 34.1416 -117.2936, https://en.wikipedia.org/wiki/San_Bernardino,_California
+104, Modesto, California, 215030, 201165, +6.89%, 43.0, 111.4, 4934, 1905, 37°38′15″N 121°00′11″W, 37.6375°N 121.0030°W, 37.6375 -121.0030, https://en.wikipedia.org/wiki/Modesto,_California
+105, Fontana, California, 213739, 196069, +9.01%, 43.0, 111.4, 4876, 1883, 34°06′32″N 117°27′46″W, 34.1090°N 117.4629°W, 34.1090 -117.4629, https://en.wikipedia.org/wiki/Fontana,_California
+106, Santa Clarita, California, 210089, 176320, +19.15%, 52.8, 136.8, 3446, 1331, 34°24′11″N 118°30′15″W, 34.4030°N 118.5042°W, 34.4030 -118.5042, https://en.wikipedia.org/wiki/Santa_Clarita,_California
+107, Birmingham, Alabama, 209880, 212237, −1.11%, 146.1, 378.4, 1452, 561, 33°31′39″N 86°47′56″W, 33.5274°N 86.7990°W, 33.5274 -86.7990, https://en.wikipedia.org/wiki/Birmingham,_Alabama
+108, Oxnard, California, 209877, 197899, +6.05%, 26.9, 69.7, 7729, 2984, 34°12′08″N 119°12′17″W, 34.2023°N 119.2046°W, 34.2023 -119.2046, https://en.wikipedia.org/wiki/Oxnard,_California
+109, Fayetteville, North Carolina, 209468, 200564, +4.44%, 147.7, 382.5, 1386, 535, 35°04′58″N 78°58′25″W, 35.0828°N 78.9735°W, 35.0828 -78.9735, https://en.wikipedia.org/wiki/Fayetteville,_North_Carolina
+110, Moreno Valley, California, 209050, 193365, +8.11%, 51.3, 132.9, 4006, 1547, 33°55′24″N 117°12′21″W, 33.9233°N 117.2057°W, 33.9233 -117.2057, https://en.wikipedia.org/wiki/Moreno_Valley,_California
+111, Rochester, New York, 206284, 210565, −2.03%, 35.8, 92.7, 5835, 2253, 43°10′12″N 77°37′01″W, 43.1699°N 77.6169°W, 43.1699 -77.6169, https://en.wikipedia.org/wiki/Rochester,_New_York
+112, Glendale, California, 201361, 191719, +5.03%, 30.4, 78.7, 6606, 2551, 34°10′53″N 118°14′45″W, 34.1814°N 118.2458°W, 34.1814 -118.2458, https://en.wikipedia.org/wiki/Glendale,_California
+113, Huntington Beach, California, 200641, 189992, +5.60%, 26.9, 69.7, 7459, 2880, 33°41′26″N 118°00′33″W, 33.6906°N 118.0093°W, 33.6906 -118.0093, https://en.wikipedia.org/wiki/Huntington_Beach,_California
+114, Salt Lake City, Utah, 200591, 186440, +7.59%, 111.2, 288.0, 1742, 673, 40°46′37″N 111°55′52″W, 40.7769°N 111.9310°W, 40.7769 -111.9310, https://en.wikipedia.org/wiki/Salt_Lake_City
+115, Grand Rapids, Michigan, 200217, 188040, +6.48%, 44.4, 115.0, 4424, 1708, 42°57′40″N 85°39′20″W, 42.9612°N 85.6556°W, 42.9612 -85.6556, https://en.wikipedia.org/wiki/Grand_Rapids,_Michigan
+116, Amarillo, Texas, 199924, 190695, +4.84%, 101.4, 262.6, 1968, 760, 35°12′00″N 101°49′49″W, 35.1999°N 101.8302°W, 35.1999 -101.8302, https://en.wikipedia.org/wiki/Amarillo,_Texas
+117, Yonkers, New York, 199663, 195976, +1.88%, 18.0, 46.6, 11156, 4307, 40°56′45″N 73°52′03″W, 40.9459°N 73.8674°W, 40.9459 -73.8674, https://en.wikipedia.org/wiki/Yonkers,_New_York
+118, Aurora, Illinois, 199602, 197899, +0.86%, 44.9, 116.3, 4479, 1729, 41°45′49″N 88°17′24″W, 41.7635°N 88.2901°W, 41.7635 -88.2901, https://en.wikipedia.org/wiki/Aurora,_Illinois
+119, Montgomery, Alabama, 198218, 205764, −3.67%, 159.8, 413.9, 1252, 483, 32°20′50″N 86°15′58″W, 32.3472°N 86.2661°W, 32.3472 -86.2661, https://en.wikipedia.org/wiki/Montgomery,_Alabama
+120, Akron, Ohio, 198006, 199110, −0.55%, 62.0, 160.6, 3188, 1231, 41°04′50″N 81°31′17″W, 41.0805°N 81.5214°W, 41.0805 -81.5214, https://en.wikipedia.org/wiki/Akron,_Ohio
+121, Little Rock, Arkansas, 197881, 193524, +2.25%, 118.7, 307.4, 1673, 646, 34°43′31″N 92°21′31″W, 34.7254°N 92.3586°W, 34.7254 -92.3586, https://en.wikipedia.org/wiki/Little_Rock,_Arkansas
+122, Huntsville, Alabama, 197318, 180105, +9.56%, 213.4, 552.7, 905, 349, 34°41′56″N 86°40′23″W, 34.6990°N 86.6730°W, 34.6990 -86.6730, https://en.wikipedia.org/wiki/Huntsville,_Alabama
+123, Augusta, Georgia, 196939, 195844, +0.56%, 302.5, 783.5, 652, 252, 33°21′56″N 82°04′24″W, 33.3655°N 82.0734°W, 33.3655 -82.0734, https://en.wikipedia.org/wiki/Augusta,_Georgia
+124, Port St. Lucie, Florida, 195248, 164603, +18.62%, 118.9, 307.9, 1557, 601, 27°16′50″N 80°23′18″W, 27.2806°N 80.3883°W, 27.2806 -80.3883, https://en.wikipedia.org/wiki/Port_St._Lucie,_Florida
+125, Grand Prairie, Texas, 194614, 175396, +10.96%, 72.3, 187.3, 2637, 1018, 32°41′13″N 97°01′16″W, 32.6869°N 97.0211°W, 32.6869 -97.0211, https://en.wikipedia.org/wiki/Grand_Prairie,_Texas
+126, Columbus, Georgia, 194160, 189885, +2.25%, 216.4, 560.5, 913, 353, 32°30′37″N 84°52′30″W, 32.5102°N 84.8749°W, 32.5102 -84.8749, https://en.wikipedia.org/wiki/Columbus,_Georgia
+127, Tallahassee, Florida, 193551, 181376, +6.71%, 100.4, 260.0, 1901, 734, 30°27′18″N 84°15′12″W, 30.4551°N 84.2534°W, 30.4551 -84.2534, https://en.wikipedia.org/wiki/Tallahassee,_Florida
+128, Overland Park, Kansas, 192536, 173372, +11.05%, 75.1, 194.5, 2516, 971, 38°53′20″N 94°41′26″W, 38.8890°N 94.6906°W, 38.8890 -94.6906, https://en.wikipedia.org/wiki/Overland_Park,_Kansas
+129, Tempe, Arizona, 192364, 161719, +18.95%, 40.0, 103.6, 4562, 1761, 33°23′18″N 111°55′54″W, 33.3884°N 111.9318°W, 33.3884 -111.9318, https://en.wikipedia.org/wiki/Tempe,_Arizona
+130, McKinney, Texas, 191645, 131117, +46.16%, 63.0, 163.2, 2735, 1056, 33°11′55″N 96°40′05″W, 33.1985°N 96.6680°W, 33.1985 -96.6680, https://en.wikipedia.org/wiki/McKinney,_Texas
+131, Mobile, Alabama, 189572, 195111, −2.84%, 139.4, 361.0, 1384, 534, 30°40′06″N 88°06′01″W, 30.6684°N 88.1002°W, 30.6684 -88.1002, https://en.wikipedia.org/wiki/Mobile,_Alabama
+132, Cape Coral, Florida, 189343, 154305, +22.71%, 105.6, 273.5, 1703, 658, 26°38′36″N 81°59′51″W, 26.6432°N 81.9974°W, 26.6432 -81.9974, https://en.wikipedia.org/wiki/Cape_Coral,_Florida
+133, Shreveport, Louisiana, 188987, 199311, −5.18%, 107.1, 277.4, 1820, 700, 32°28′01″N 93°47′32″W, 32.4669°N 93.7922°W, 32.4669 -93.7922, https://en.wikipedia.org/wiki/Shreveport,_Louisiana
+134, Frisco, Texas, 188170, 116989, +60.84%, 67.7, 175.3, 2417, 933, 33°09′19″N 96°49′21″W, 33.1554°N 96.8226°W, 33.1554 -96.8226, https://en.wikipedia.org/wiki/Frisco,_Texas
+135, Knoxville, Tennessee, 187500, 178874, +4.82%, 98.5, 255.1, 1891, 730, 35°58′15″N 83°56′57″W, 35.9707°N 83.9493°W, 35.9707 -83.9493, https://en.wikipedia.org/wiki/Knoxville,_Tennessee
+136, Worcester, Massachusetts, 185877, 181045, +2.67%, 37.4, 96.9, 4933, 1905, 42°16′10″N 71°48′28″W, 42.2695°N 71.8078°W, 42.2695 -71.8078, https://en.wikipedia.org/wiki/Worcester,_Massachusetts
+137, Brownsville, Texas, 183392, 175023, +4.78%, 132.5, 343.2, 1387, 536, 25°59′57″N 97°27′18″W, 25.9991°N 97.4550°W, 25.9991 -97.4550, https://en.wikipedia.org/wiki/Brownsville,_Texas
+138, Vancouver, Washington, 183012, 161791, +13.12%, 46.9, 121.5, 3728, 1439, 45°38′06″N 122°35′45″W, 45.6349°N 122.5957°W, 45.6349 -122.5957, https://en.wikipedia.org/wiki/Vancouver,_Washington
+139, Fort Lauderdale, Florida, 182595, 165521, +10.32%, 34.6, 89.6, 5166, 1995, 26°08′28″N 80°08′48″W, 26.1412°N 80.1467°W, 26.1412 -80.1467, https://en.wikipedia.org/wiki/Fort_Lauderdale,_Florida
+140, Sioux Falls, South Dakota, 181883, 153888, +18.19%, 75.4, 195.3, 2312, 893, 43°32′18″N 96°43′55″W, 43.5383°N 96.7320°W, 43.5383 -96.7320, https://en.wikipedia.org/wiki/Sioux_Falls,_South_Dakota
+141, Ontario, California, 181107, 163924, +10.48%, 49.9, 129.2, 3471, 1340, 34°02′22″N 117°36′15″W, 34.0394°N 117.6042°W, 34.0394 -117.6042, https://en.wikipedia.org/wiki/Ontario,_California
+142, Chattanooga, Tennessee, 180557, 167674, +7.68%, 143.1, 370.6, 1241, 479, 35°03′58″N 85°14′54″W, 35.0660°N 85.2484°W, 35.0660 -85.2484, https://en.wikipedia.org/wiki/Chattanooga,_Tennessee
+143, Providence, Rhode Island, 179335, 178042, +0.73%, 18.4, 47.7, 9740, 3760, 41°49′23″N 71°25′08″W, 41.8231°N 71.4188°W, 41.8231 -71.4188, https://en.wikipedia.org/wiki/Providence,_Rhode_Island
+144, Newport News, Virginia, 178626, 180719, −1.16%, 69.1, 179.0, 2631, 1016, 37°04′34″N 76°31′19″W, 37.0762°N 76.5220°W, 37.0762 -76.5220, https://en.wikipedia.org/wiki/Newport_News,_Virginia
+145, Rancho Cucamonga, California, 177751, 165269, +7.55%, 40.0, 103.6, 4413, 1704, 34°07′24″N 117°33′51″W, 34.1233°N 117.5642°W, 34.1233 -117.5642, https://en.wikipedia.org/wiki/Rancho_Cucamonga,_California
+146, Santa Rosa, California, 177586, 167815, +5.82%, 41.3, 107.0, 4241, 1637, 38°26′48″N 122°42′22″W, 38.4468°N 122.7061°W, 38.4468 -122.7061, https://en.wikipedia.org/wiki/Santa_Rosa,_California
+147, Oceanside, California, 176080, 167086, +5.38%, 41.3, 107.0, 4249, 1641, 33°13′28″N 117°18′22″W, 33.2245°N 117.3062°W, 33.2245 -117.3062, https://en.wikipedia.org/wiki/Oceanside,_California
+148, Salem, Oregon, 173442, 154637, +12.16%, 48.6, 125.9, 3445, 1330, 44°55′25″N 123°01′24″W, 44.9237°N 123.0232°W, 44.9237 -123.0232, https://en.wikipedia.org/wiki/Salem,_Oregon
+149, Elk Grove, California, 172886, 153015, +12.99%, 42.2, 109.3, 4022, 1553, 38°24′53″N 121°23′06″W, 38.4146°N 121.3850°W, 38.4146 -121.3850, https://en.wikipedia.org/wiki/Elk_Grove,_California
+150, Garden Grove, California, 172646, 170883, +1.03%, 18.0, 46.6, 9714, 3751, 33°46′44″N 117°57′38″W, 33.7788°N 117.9605°W, 33.7788 -117.9605, https://en.wikipedia.org/wiki/Garden_Grove,_California
+151, Pembroke Pines, Florida, 172374, 154019, +11.92%, 33.0, 85.5, 5109, 1973, 26°01′16″N 80°20′25″W, 26.0210°N 80.3404°W, 26.0210 -80.3404, https://en.wikipedia.org/wiki/Pembroke_Pines,_Florida
+152, Peoria, Arizona, 172259, 154065, +11.81%, 175.7, 455.1, 934, 361, 33°47′10″N 112°18′29″W, 33.7862°N 112.3080°W, 33.7862 -112.3080, https://en.wikipedia.org/wiki/Peoria,_Arizona
+153, Eugene, Oregon, 171245, 156185, +9.64%, 44.1, 114.2, 3777, 1458, 44°03′24″N 123°06′58″W, 44.0567°N 123.1162°W, 44.0567 -123.1162, https://en.wikipedia.org/wiki/Eugene,_Oregon
+154, Corona, California, 168819, 152374, +10.79%, 39.5, 102.3, 4222, 1630, 33°51′43″N 117°33′56″W, 33.8620°N 117.5655°W, 33.8620 -117.5655, https://en.wikipedia.org/wiki/Corona,_California
+155, Cary, North Carolina, 168160, 135234, +24.35%, 56.5, 146.3, 2873, 1109, 35°46′51″N 78°48′48″W, 35.7809°N 78.8133°W, 35.7809 -78.8133, https://en.wikipedia.org/wiki/Cary,_North_Carolina
+156, Springfield, Missouri, 168122, 159498, +5.41%, 82.3, 213.2, 2033, 785, 37°11′39″N 93°17′29″W, 37.1942°N 93.2913°W, 37.1942 -93.2913, https://en.wikipedia.org/wiki/Springfield,_Missouri
+157, Fort Collins, Colorado, 167830, 143986, +16.56%, 55.8, 144.5, 2943, 1136, 40°32′54″N 105°03′53″W, 40.5482°N 105.0648°W, 40.5482 -105.0648, https://en.wikipedia.org/wiki/Fort_Collins,_Colorado
+158, Jackson, Mississippi, 164422, 173514, −5.24%, 111.0, 287.5, 1524, 588, 32°18′57″N 90°12′46″W, 32.3158°N 90.2128°W, 32.3158 -90.2128, https://en.wikipedia.org/wiki/Jackson,_Mississippi
+159, Alexandria, Virginia, 160530, 139966, +14.69%, 15.0, 38.8, 10387, 4010, 38°49′12″N 77°05′03″W, 38.8201°N 77.0841°W, 38.8201 -77.0841, https://en.wikipedia.org/wiki/Alexandria,_Virginia
+160, Hayward, California, 159620, 144186, +10.70%, 45.5, 117.8, 3493, 1349, 37°37′43″N 122°06′09″W, 37.6287°N 122.1024°W, 37.6287 -122.1024, https://en.wikipedia.org/wiki/Hayward,_California
+161, Lancaster, California, 159053, 156633, +1.55%, 94.3, 244.2, 1698, 656, 34°41′37″N 118°10′31″W, 34.6936°N 118.1753°W, 34.6936 -118.1753, https://en.wikipedia.org/wiki/Lancaster,_California
+162, Lakewood, Colorado, 156798, 142980, +9.66%, 42.9, 111.1, 3599, 1390, 39°41′56″N 105°07′03″W, 39.6989°N 105.1176°W, 39.6989 -105.1176, https://en.wikipedia.org/wiki/Lakewood,_Colorado
+163, Clarksville, Tennessee, 156794, 132929, +17.95%, 98.3, 254.6, 1529, 590, 36°33′59″N 87°20′43″W, 36.5664°N 87.3452°W, 36.5664 -87.3452, https://en.wikipedia.org/wiki/Clarksville,_Tennessee
+164, Palmdale, California, 156667, 152750, +2.56%, 106.0, 274.5, 1484, 573, 34°35′28″N 118°06′19″W, 34.5910°N 118.1054°W, 34.5910 -118.1054, https://en.wikipedia.org/wiki/Palmdale,_California
+165, Salinas, California, 156259, 150441, +3.87%, 23.6, 61.1, 6662, 2572, 36°41′25″N 121°38′01″W, 36.6902°N 121.6337°W, 36.6902 -121.6337, https://en.wikipedia.org/wiki/Salinas,_California
+166, Springfield, Massachusetts, 155032, 153060, +1.29%, 31.9, 82.6, 4830, 1860, 42°06′56″N 72°32′24″W, 42.1155°N 72.5400°W, 42.1155 -72.5400, https://en.wikipedia.org/wiki/Springfield,_Massachusetts
+167, Hollywood, Florida, 154823, 140768, +9.98%, 27.3, 70.7, 5568, 2150, 26°01′52″N 80°09′53″W, 26.0310°N 80.1646°W, 26.0310 -80.1646, https://en.wikipedia.org/wiki/Hollywood,_Florida
+168, Pasadena, Texas, 153219, 149043, +2.80%, 43.5, 112.7, 3525, 1361, 29°39′31″N 95°09′02″W, 29.6586°N 95.1506°W, 29.6586 -95.1506, https://en.wikipedia.org/wiki/Pasadena,_Texas
+169, Sunnyvale, California, 153185, 140081, +9.35%, 22.0, 57.0, 6944, 2681, 37°23′09″N 122°01′35″W, 37.3858°N 122.0263°W, 37.3858 -122.0263, https://en.wikipedia.org/wiki/Sunnyvale,_California
+170, Macon, Georgia, 153095, 91351, +67.59%, 249.3, 645.7, 612, 236, 32°48′32″N 83°41′39″W, 32.8088°N 83.6942°W, 32.8088 -83.6942, https://en.wikipedia.org/wiki/Macon,_Georgia
+171, Kansas City, Kansas, 152958, 145786, +4.92%, 124.8, 323.2, 1216, 470, 39°07′21″N 94°44′30″W, 39.1225°N 94.7418°W, 39.1225 -94.7418, https://en.wikipedia.org/wiki/Kansas_City,_Kansas
+172, Pomona, California, 152361, 149058, +2.22%, 23.0, 59.6, 6630, 2560, 34°03′31″N 117°45′40″W, 34.0585°N 117.7611°W, 34.0585 -117.7611, https://en.wikipedia.org/wiki/Pomona,_California
+173, Escondido, California, 152213, 143911, +5.77%, 37.1, 96.1, 4087, 1578, 33°07′59″N 117°04′26″W, 33.1331°N 117.0740°W, 33.1331 -117.0740, https://en.wikipedia.org/wiki/Escondido,_California
+174, Killeen, Texas, 149103, 127921, +16.56%, 53.5, 138.6, 2680, 1030, 31°04′40″N 97°43′55″W, 31.0777°N 97.7320°W, 31.0777 -97.7320, https://en.wikipedia.org/wiki/Killeen,_Texas
+175, Naperville, Illinois, 148304, 141853, +4.55%, 38.7, 100.2, 3802, 1468, 41°44′57″N 88°09′43″W, 41.7492°N 88.1620°W, 41.7492 -88.1620, https://en.wikipedia.org/wiki/Naperville,_Illinois
+176, Joliet, Illinois, 148099, 147433, +0.45%, 64.4, 166.8, 2302, 889, 41°31′04″N 88°08′56″W, 41.5177°N 88.1488°W, 41.5177 -88.1488, https://en.wikipedia.org/wiki/Joliet,_Illinois
+177, Bellevue, Washington, 147599, 122363, +20.62%, 33.5, 86.8, 4221, 1630, 47°35′52″N 122°09′23″W, 47.5979°N 122.1565°W, 47.5979 -122.1565, https://en.wikipedia.org/wiki/Bellevue,_Washington
+178, Rockford, Illinois, 146526, 152871, −4.15%, 63.5, 164.5, 2325, 898, 42°15′32″N 89°03′53″W, 42.2588°N 89.0646°W, 42.2588 -89.0646, https://en.wikipedia.org/wiki/Rockford,_Illinois
+179, Savannah, Georgia, 145862, 136286, +7.03%, 103.6, 268.3, 1417, 547, 32°00′09″N 81°09′13″W, 32.0025°N 81.1536°W, 32.0025 -81.1536, https://en.wikipedia.org/wiki/Savannah,_Georgia
+180, Paterson, New Jersey, 145627, 146199, −0.39%, 8.4, 21.8, 17500, 6800, 40°54′53″N 74°09′46″W, 40.9148°N 74.1628°W, 40.9148 -74.1628, https://en.wikipedia.org/wiki/Paterson,_New_Jersey
+181, Torrance, California, 145182, 145438, −0.18%, 20.5, 53.1, 7180, 2770, 33°50′06″N 118°20′29″W, 33.8350°N 118.3414°W, 33.8350 -118.3414, https://en.wikipedia.org/wiki/Torrance,_California
+182, Bridgeport, Connecticut, 144900, 144229, +0.47%, 16.1, 41.7, 9064, 3500, 41°11′15″N 73°11′45″W, 41.1874°N 73.1958°W, 41.1874 -73.1958, https://en.wikipedia.org/wiki/Bridgeport,_Connecticut
+183, McAllen, Texas, 143433, 129877, +10.44%, 58.4, 151.3, 2435, 940, 26°13′56″N 98°14′47″W, 26.2322°N 98.2464°W, 26.2322 -98.2464, https://en.wikipedia.org/wiki/McAllen,_Texas
+184, Mesquite, Texas, 142816, 139824, +2.14%, 47.2, 122.2, 3045, 1176, 32°45′46″N 96°35′20″W, 32.7629°N 96.5888°W, 32.7629 -96.5888, https://en.wikipedia.org/wiki/Mesquite,_Texas
+185, Syracuse, New York, 142749, 145170, −1.67%, 25.0, 64.7, 5735, 2214, 43°02′28″N 76°08′37″W, 43.0410°N 76.1436°W, 43.0410 -76.1436, https://en.wikipedia.org/wiki/Syracuse,_New_York
+186, Midland, Texas, 142344, 111147, +28.07%, 74.4, 192.7, 1809, 698, 32°01′29″N 102°06′49″W, 32.0246°N 102.1135°W, 32.0246 -102.1135, https://en.wikipedia.org/wiki/Midland,_Texas
+187, Pasadena, California, 141371, 137122, +3.10%, 23.0, 59.6, 6176, 2385, 34°09′38″N 118°08′23″W, 34.1606°N 118.1396°W, 34.1606 -118.1396, https://en.wikipedia.org/wiki/Pasadena,_California
+188, Murfreesboro, Tennessee, 141344, 108755, +29.97%, 55.9, 144.8, 2360, 910, 35°51′08″N 86°24′58″W, 35.8522°N 86.4160°W, 35.8522 -86.4160, https://en.wikipedia.org/wiki/Murfreesboro,_Tennessee
+189, Miramar, Florida, 140823, 122041, +15.39%, 29.4, 76.1, 4709, 1818, 25°58′37″N 80°20′09″W, 25.9770°N 80.3358°W, 25.9770 -80.3358, https://en.wikipedia.org/wiki/Miramar,_Florida
+190, Dayton, Ohio, 140640, 141527, −0.63%, 55.7, 144.3, 2522, 974, 39°46′39″N 84°11′59″W, 39.7774°N 84.1996°W, 39.7774 -84.1996, https://en.wikipedia.org/wiki/Dayton,_Ohio
+191, Fullerton, California, 139640, 135161, +3.31%, 22.4, 58.0, 6282, 2425, 33°53′09″N 117°55′41″W, 33.8857°N 117.9280°W, 33.8857 -117.9280, https://en.wikipedia.org/wiki/Fullerton,_California
+192, Olathe, Kansas, 139605, 125872, +10.91%, 60.9, 157.7, 2225, 859, 38°53′03″N 94°49′10″W, 38.8843°N 94.8195°W, 38.8843 -94.8195, https://en.wikipedia.org/wiki/Olathe,_Kansas
+193, Orange, California, 139484, 136416, +2.25%, 25.4, 65.8, 5532, 2136, 33°47′13″N 117°51′41″W, 33.7870°N 117.8613°W, 33.7870 -117.8613, https://en.wikipedia.org/wiki/Orange,_California
+194, Thornton, Colorado, 139436, 118772, +17.40%, 35.7, 92.5, 3829, 1478, 39°55′10″N 104°56′34″W, 39.9194°N 104.9428°W, 39.9194 -104.9428, https://en.wikipedia.org/wiki/Thornton,_Colorado
+195, Roseville, California, 139117, 118788, +17.11%, 43.0, 111.4, 3085, 1191, 38°46′08″N 121°19′08″W, 38.7690°N 121.3189°W, 38.7690 -121.3189, https://en.wikipedia.org/wiki/Roseville,_California
+196, Denton, Texas, 138541, 113383, +22.19%, 93.4, 241.9, 1433, 553, 33°13′00″N 97°08′29″W, 33.2166°N 97.1414°W, 33.2166 -97.1414, https://en.wikipedia.org/wiki/Denton,_Texas
+197, Waco, Texas, 138183, 124805, +10.72%, 89.0, 230.5, 1510, 580, 31°33′36″N 97°11′10″W, 31.5601°N 97.1860°W, 31.5601 -97.1860, https://en.wikipedia.org/wiki/Waco,_Texas
+198, Surprise, Arizona, 138161, 117517, +17.57%, 107.9, 279.5, 1230, 470, 33°40′14″N 112°27′10″W, 33.6706°N 112.4527°W, 33.6706 -112.4527, https://en.wikipedia.org/wiki/Surprise,_Arizona
+199, Carrollton, Texas, 136879, 119097, +14.93%, 36.3, 94.0, 3674, 1419, 32°59′18″N 96°53′59″W, 32.9884°N 96.8998°W, 32.9884 -96.8998, https://en.wikipedia.org/wiki/Carrollton,_Texas
+200, West Valley City, Utah, 136401, 129480, +5.35%, 35.5, 91.9, 3847, 1485, 40°41′19″N 112°00′42″W, 40.6885°N 112.0118°W, 40.6885 -112.0118, https://en.wikipedia.org/wiki/West_Valley_City,_Utah
+201, Charleston, South Carolina, 136208, 120083, +13.43%, 109.0, 282.3, 1233, 476, 32°49′04″N 79°57′32″W, 32.8179°N 79.9590°W, 32.8179 -79.9590, https://en.wikipedia.org/wiki/Charleston,_South_Carolina
+202, Warren, Michigan, 134587, 134056, +0.40%, 34.4, 89.1, 3928, 1517, 42°29′34″N 83°01′30″W, 42.4929°N 83.0250°W, 42.4929 -83.0250, https://en.wikipedia.org/wiki/Warren,_Michigan
+203, Hampton, Virginia, 134313, 137436, −2.27%, 51.5, 133.4, 2629, 1015, 37°02′53″N 76°17′50″W, 37.0480°N 76.2971°W, 37.0480 -76.2971, https://en.wikipedia.org/wiki/Hampton,_Virginia
+204, Gainesville, Florida, 133857, 124354, +7.64%, 62.3, 161.4, 2112, 815, 29°40′44″N 82°20′46″W, 29.6788°N 82.3461°W, 29.6788 -82.3461, https://en.wikipedia.org/wiki/Gainesville,_Florida
+205, Visalia, California, 133800, 124442, +7.52%, 37.5, 97.1, 3495, 1349, 36°19′38″N 119°19′44″W, 36.3273°N 119.3289°W, 36.3273 -119.3289, https://en.wikipedia.org/wiki/Visalia,_California
+206, Coral Springs, Florida, 133507, 121096, +10.25%, 23.8, 61.6, 5465, 2110, 26°16′15″N 80°15′33″W, 26.2707°N 80.2593°W, 26.2707 -80.2593, https://en.wikipedia.org/wiki/Coral_Springs,_Florida
+207, Columbia, South Carolina, 133451, 129272, +3.23%, 133.5, 345.8, 1006, 388, 34°01′45″N 80°53′53″W, 34.0291°N 80.8980°W, 34.0291 -80.8980, https://en.wikipedia.org/wiki/Columbia,_South_Carolina
+208, Cedar Rapids, Iowa, 133174, 126326, +5.42%, 70.8, 183.4, 1852, 715, 41°58′01″N 91°40′40″W, 41.9670°N 91.6778°W, 41.9670 -91.6778, https://en.wikipedia.org/wiki/Cedar_Rapids,_Iowa
+209, Sterling Heights, Michigan, 132964, 129699, +2.52%, 36.5, 94.5, 3628, 1401, 42°34′52″N 83°01′49″W, 42.5812°N 83.0303°W, 42.5812 -83.0303, https://en.wikipedia.org/wiki/Sterling_Heights,_Michigan
+210, New Haven, Connecticut, 130418, 129779, +0.49%, 18.7, 48.4, 6948, 2683, 41°18′39″N 72°55′30″W, 41.3108°N 72.9250°W, 41.3108 -72.9250, https://en.wikipedia.org/wiki/New_Haven,_Connecticut
+211, Stamford, Connecticut, 129775, 122643, +5.82%, 37.6, 97.4, 3434, 1326, 41°04′48″N 73°32′46″W, 41.0799°N 73.5460°W, 41.0799 -73.5460, https://en.wikipedia.org/wiki/Stamford,_Connecticut
+212, Concord, California, 129688, 122067, +6.24%, 30.5, 79.0, 4221, 1630, 37°58′20″N 122°00′06″W, 37.9722°N 122.0016°W, 37.9722 -122.0016, https://en.wikipedia.org/wiki/Concord,_California
+213, Kent, Washington, 129618, 92411, +40.26%, 33.7, 87.3, 3784, 1461, 47°23′17″N 122°12′46″W, 47.3880°N 122.2127°W, 47.3880 -122.2127, https://en.wikipedia.org/wiki/Kent,_Washington
+214, Santa Clara, California, 129488, 116468, +11.18%, 18.4, 47.7, 6845, 2643, 37°21′53″N 121°58′04″W, 37.3646°N 121.9679°W, 37.3646 -121.9679, https://en.wikipedia.org/wiki/Santa_Clara,_California
+215, Elizabeth, New Jersey, 128885, 124969, +3.13%, 12.3, 31.9, 10459, 4038, 40°39′59″N 74°11′37″W, 40.6664°N 74.1935°W, 40.6664 -74.1935, https://en.wikipedia.org/wiki/Elizabeth,_New_Jersey
+216, Round Rock, Texas, 128739, 99887, +28.88%, 35.6, 92.2, 3396, 1311, 30°31′31″N 97°39′58″W, 30.5252°N 97.6660°W, 30.5252 -97.6660, https://en.wikipedia.org/wiki/Round_Rock,_Texas
+217, Thousand Oaks, California, 127690, 126683, +0.79%, 55.2, 143.0, 2335, 902, 34°11′36″N 118°52′27″W, 34.1933°N 118.8742°W, 34.1933 -118.8742, https://en.wikipedia.org/wiki/Thousand_Oaks,_California
+218, Lafayette, Louisiana, 126143, 120623, +4.58%, 53.8, 139.3, 2372, 916, 30°12′27″N 92°01′43″W, 30.2074°N 92.0285°W, 30.2074 -92.0285, https://en.wikipedia.org/wiki/Lafayette,_Louisiana
+219, Athens, Georgia, 125964, 115452, +9.11%, 116.4, 301.5, 1060, 410, 33°56′59″N 83°22′12″W, 33.9496°N 83.3701°W, 33.9496 -83.3701, https://en.wikipedia.org/wiki/Athens,_Georgia
+220, Topeka, Kansas, 125904, 127473, −1.23%, 61.5, 159.3, 2062, 796, 39°02′05″N 95°41′46″W, 39.0347°N 95.6962°W, 39.0347 -95.6962, https://en.wikipedia.org/wiki/Topeka,_Kansas
+221, Simi Valley, California, 125851, 124237, +1.30%, 41.5, 107.5, 3044, 1175, 34°16′01″N 118°44′55″W, 34.2669°N 118.7485°W, 34.2669 -118.7485, https://en.wikipedia.org/wiki/Simi_Valley,_California
+222, Fargo, North Dakota, 124844, 105549, +18.28%, 49.3, 127.7, 2450, 950, 46°51′55″N 96°49′44″W, 46.8652°N 96.8290°W, 46.8652 -96.8290, https://en.wikipedia.org/wiki/Fargo,_North_Dakota
+223, Norman, Oklahoma, 123471, 110925, +11.31%, 178.8, 463.1, 683, 264, 35°14′26″N 97°20′43″W, 35.2406°N 97.3453°W, 35.2406 -97.3453, https://en.wikipedia.org/wiki/North_Dakota
+224, Columbia, Missouri, 123180, 108500, +13.53%, 65.0, 168.3, 1856, 717, 38°57′06″N 92°19′43″W, 38.951561°N 92.328638°W, 38.951561 -92.328638, https://en.wikipedia.org/wiki/Columbia,_Missouri
+225, Abilene, Texas, 122999, 117063, +5.07%, 106.7, 276.4, 1146, 442, 32°27′16″N 99°44′17″W, 32.4545°N 99.7381°W, 32.4545 -99.7381, https://en.wikipedia.org/wiki/Abilene,_Texas
+226, Wilmington, North Carolina, 122607, 106476, +15.15%, 51.6, 133.6, 2278, 880, 34°12′33″N 77°53′09″W, 34.2092°N 77.8858°W, 34.2092 -77.8858, https://en.wikipedia.org/wiki/Wilmington,_North_Carolina
+227, Hartford, Connecticut, 122587, 124775, −1.75%, 17.4, 45.1, 7083, 2735, 41°45′57″N 72°40′54″W, 41.7659°N 72.6816°W, 41.7659 -72.6816, https://en.wikipedia.org/wiki/Hartford,_Connecticut
+228, Victorville, California, 122312, 115903, +5.53%, 73.3, 189.8, 1668, 644, 34°31′40″N 117°21′13″W, 34.5277°N 117.3536°W, 34.5277 -117.3536, https://en.wikipedia.org/wiki/Victorville,_California
+229, Pearland, Texas, 122149, 91252, +33.86%, 46.3, 119.9, 2453, 947, 29°33′21″N 95°19′23″W, 29.5558°N 95.3231°W, 29.5558 -95.3231, https://en.wikipedia.org/wiki/Pearland,_Texas
+230, Vallejo, California, 121913, 115942, +5.15%, 30.7, 79.5, 3951, 1525, 38°06′28″N 122°15′50″W, 38.1079°N 122.2640°W, 38.1079 -122.2640, https://en.wikipedia.org/wiki/Vallejo,_California
+231, Ann Arbor, Michigan, 121890, 113934, +6.98%, 28.1, 72.8, 4298, 1659, 42°16′34″N 83°43′51″W, 42.2761°N 83.7309°W, 42.2761 -83.7309, https://en.wikipedia.org/wiki/Ann_Arbor,_Michigan
+232, Berkeley, California, 121643, 112580, +8.05%, 10.5, 27.2, 11547, 4458, 37°52′01″N 122°17′57″W, 37.8670°N 122.2991°W, 37.8670 -122.2991, https://en.wikipedia.org/wiki/Berkeley,_California
+233, Allentown, Pennsylvania, 121433, 118032, +2.88%, 17.5, 45.3, 6882, 2657, 40°35′37″N 75°28′42″W, 40.5936°N 75.4784°W, 40.5936 -75.4784, https://en.wikipedia.org/wiki/Allentown,_Pennsylvania
+234, Richardson, Texas, 120981, 99223, +21.93%, 28.6, 74.1, 3963, 1530, 32°58′20″N 96°42′29″W, 32.9723°N 96.7081°W, 32.9723 -96.7081, https://en.wikipedia.org/wiki/Richardson,_Texas
+235, Odessa, Texas, 120568, 99940, +20.64%, 45.2, 117.1, 2608, 1007, 31°53′02″N 102°20′28″W, 31.8838°N 102.3411°W, 31.8838 -102.3411, https://en.wikipedia.org/wiki/Odessa,_Texas
+236, Arvada, Colorado, 120492, 106433, +13.21%, 38.6, 100.0, 3043, 1175, 39°50′01″N 105°09′01″W, 39.8337°N 105.1503°W, 39.8337 -105.1503, https://en.wikipedia.org/wiki/Arvada,_Colorado
+237, Cambridge, Massachusetts, 118977, 105162, +13.14%, 6.4, 16.6, 17289, 6675, 42°22′34″N 71°07′07″W, 42.3760°N 71.1187°W, 42.3760 -71.1187, https://en.wikipedia.org/wiki/Cambridge,_Massachusetts
+238, Sugar Land, Texas, 118600, 91252, +29.97%, 34.0, 88.1, 3488, 1347, 29°35′58″N 95°36′51″W, 29.5994°N 95.6142°W, 29.5994 -95.6142, https://en.wikipedia.org/wiki/Sugar_Land,_Texas
+239, Beaumont, Texas, 118428, 118296, +0.11%, 82.1, 212.6, 1441, 556, 30°05′06″N 94°08′43″W, 30.0849°N 94.1453°W, 30.0849 -94.1453, https://en.wikipedia.org/wiki/Beaumont,_Texas
+240, Lansing, Michigan, 118427, 114297, +3.61%, 39.1, 101.3, 2967, 1146, 42°42′51″N 84°33′33″W, 42.7143°N 84.5593°W, 42.7143 -84.5593, https://en.wikipedia.org/wiki/Lansing,_Michigan
+241, Evansville, Indiana, 117963, 117429, +0.45%, 47.3, 122.5, 2526, 975, 37°59′16″N 87°32′05″W, 37.9877°N 87.5347°W, 37.9877 -87.5347, https://en.wikipedia.org/wiki/Evansville,_Indiana
+242, Rochester, Minnesota, 116961, 106769, +9.55%, 54.6, 141.4, 2088, 806, 44°00′55″N 92°28′38″W, 44.0154°N 92.4772°W, 44.0154 -92.4772, https://en.wikipedia.org/wiki/Rochester,_Minnesota
+243, Independence, Missouri, 116925, 116830, +0.08%, 77.8, 201.5, 1504, 581, 39°05′08″N 94°21′08″W, 39.0855°N 94.3521°W, 39.0855 -94.3521, https://en.wikipedia.org/wiki/Independence,_Missouri
+244, Fairfield, California, 116884, 105321, +10.98%, 40.9, 105.9, 2806, 1083, 38°15′33″N 122°01′56″W, 38.2593°N 122.0321°W, 38.2593 -122.0321, https://en.wikipedia.org/wiki/Fairfield,_California
+245, Provo, Utah, 116702, 112488, +3.75%, 41.7, 108.0, 2803, 1082, 40°14′43″N 111°38′41″W, 40.2453°N 111.6448°W, 40.2453 -111.6448, https://en.wikipedia.org/wiki/Provo,_Utah
+246, Clearwater, Florida, 116478, 107685, +8.17%, 25.9, 67.1, 4415, 1705, 27°58′44″N 82°46′00″W, 27.9789°N 82.7666°W, 27.9789 -82.7666, https://en.wikipedia.org/wiki/Clearwater,_Florida
+247, College Station, Texas, 116218, 93857, +23.82%, 51.0, 132.1, 2199, 849, 30°35′07″N 96°17′47″W, 30.5852°N 96.2964°W, 30.5852 -96.2964, https://en.wikipedia.org/wiki/College_Station,_Texas
+248, West Jordan, Utah, 116046, 103712, +11.89%, 32.3, 83.7, 3520, 1360, 40°36′09″N 112°00′03″W, 40.6024°N 112.0008°W, 40.6024 -112.0008, https://en.wikipedia.org/wiki/West_Jordan,_Utah
+249, Carlsbad, California, 115877, 105328, +10.02%, 37.7, 97.6, 3023, 1167, 33°07′26″N 117°16′58″W, 33.1239°N 117.2828°W, 33.1239 -117.2828, https://en.wikipedia.org/wiki/Carlsbad,_California
+250, El Monte, California, 115586, 113475, +1.86%, 9.6, 24.9, 12063, 4658, 34°04′29″N 118°01′45″W, 34.0746°N 118.0291°W, 34.0746 -118.0291, https://en.wikipedia.org/wiki/El_Monte,_California
+251, Murrieta, California, 114985, 103466, +11.13%, 33.6, 87.0, 3324, 1283, 33°34′20″N 117°11′25″W, 33.5721°N 117.1904°W, 33.5721 -117.1904, https://en.wikipedia.org/wiki/Murrieta,_California
+252, Temecula, California, 114742, 100097, +14.63%, 37.3, 96.6, 3031, 1170, 33°29′35″N 117°07′54″W, 33.4931°N 117.1317°W, 33.4931 -117.1317, https://en.wikipedia.org/wiki/Temecula,_California
+253, Springfield, Illinois, 114694, 116250, −1.34%, 60.1, 155.7, 1925, 743, 39°47′28″N 89°38′41″W, 39.7911°N 89.6446°W, 39.7911 -89.6446, https://en.wikipedia.org/wiki/Springfield,_Illinois
+254, Palm Bay, Florida, 114194, 103190, +10.66%, 65.7, 170.2, 1676, 647, 27°59′08″N 80°39′45″W, 27.9856°N 80.6626°W, 27.9856 -80.6626, https://en.wikipedia.org/wiki/Palm_Bay,_Florida
+255, Costa Mesa, California, 113615, 109960, +3.32%, 15.7, 40.7, 7186, 2775, 33°39′57″N 117°54′44″W, 33.6659°N 117.9123°W, 33.6659 -117.9123, https://en.wikipedia.org/wiki/Costa_Mesa,_California
+256, Westminster, Colorado, 113479, 106114, +6.94%, 31.7, 82.1, 3592, 1387, 39°52′56″N 105°03′52″W, 39.8822°N 105.0644°W, 39.8822 -105.0644, https://en.wikipedia.org/wiki/Westminster,_Colorado
+257, North Charleston, South Carolina, 113237, 97471, +16.18%, 73.7, 190.9, 1483, 573, 32°55′04″N 80°03′54″W, 32.9178°N 80.0650°W, 32.9178 -80.0650, https://en.wikipedia.org/wiki/North_Charleston,_South_Carolina
+258, Miami Gardens, Florida, 113069, 107167, +5.51%, 18.2, 47.1, 6212, 2398, 25°56′56″N 80°14′37″W, 25.9489°N 80.2436°W, 25.9489 -80.2436, https://en.wikipedia.org/wiki/Miami_Gardens,_Florida
+259, Manchester, New Hampshire, 112525, 109565, +2.70%, 33.1, 85.7, 3339, 1289, 42°59′06″N 71°26′39″W, 42.9849°N 71.4441°W, 42.9849 -71.4441, https://en.wikipedia.org/wiki/Manchester,_New_Hampshire
+260, High Point, North Carolina, 112316, 104371, +7.61%, 55.2, 143.0, 2015, 778, 35°59′24″N 79°59′26″W, 35.9900°N 79.9905°W, 35.9900 -79.9905, https://en.wikipedia.org/wiki/High_Point,_North_Carolina
+261, Downey, California, 112269, 111772, +0.44%, 12.4, 32.1, 9134, 3527, 33°56′18″N 118°07′51″W, 33.9382°N 118.1309°W, 33.9382 -118.1309, https://en.wikipedia.org/wiki/Downey,_California
+262, Clovis, California, 112022, 95631, +17.14%, 24.2, 62.7, 4404, 1700, 36°49′42″N 119°41′06″W, 36.8282°N 119.6849°W, 36.8282 -119.6849, https://en.wikipedia.org/wiki/Clovis,_California
+263, Pompano Beach, Florida, 111954, 99845, +12.13%, 24.0, 62.2, 4558, 1760, 26°14′30″N 80°08′02″W, 26.2416°N 80.1339°W, 26.2416 -80.1339, https://en.wikipedia.org/wiki/Pompano_Beach,_Florida
+264, Pueblo, Colorado, 111750, 106595, +4.84%, 53.6, 138.8, 2058, 795, 38°16′12″N 104°36′44″W, 38.2699°N 104.6123°W, 38.2699 -104.6123, https://en.wikipedia.org/wiki/Pueblo,_Colorado
+265, Elgin, Illinois, 111683, 108188, +3.23%, 37.4, 96.9, 2998, 1158, 42°02′23″N 88°19′18″W, 42.0396°N 88.3217°W, 42.0396 -88.3217, https://en.wikipedia.org/wiki/Elgin,_Illinois
+266, Lowell, Massachusetts, 111670, 106519, +4.84%, 13.6, 35.2, 8129, 3139, 42°38′20″N 71°19′16″W, 42.6390°N 71.3211°W, 42.6390 -71.3211, https://en.wikipedia.org/wiki/Lowell,_Massachusetts
+267, Antioch, California, 111535, 102372, +8.95%, 29.4, 76.1, 3772, 1456, 37°58′45″N 121°47′46″W, 37.9791°N 121.7962°W, 37.9791 -121.7962, https://en.wikipedia.org/wiki/Antioch,_California
+268, West Palm Beach, Florida, 111398, 99919, +11.49%, 55.1, 142.7, 1963, 758, 26°44′47″N 80°07′30″W, 26.7464°N 80.1251°W, 26.7464 -80.1251, https://en.wikipedia.org/wiki/West_Palm_Beach,_Florida
+269, Peoria, Illinois, 111388, 115007, −3.15%, 48.2, 124.8, 2371, 915, 40°45′05″N 89°37′03″W, 40.7515°N 89.6174°W, 40.7515 -89.6174, https://en.wikipedia.org/wiki/Peoria,_Illinois
+270, Everett, Washington, 111262, 103019, +8.00%, 33.3, 86.2, 3275, 1264, 47°57′24″N 122°11′29″W, 47.9566°N 122.1914°W, 47.9566 -122.1914, https://en.wikipedia.org/wiki/Everett,_Washington
+271, Ventura[aa], California, 111128, 106433, +4.41%, 21.8, 56.5, 5027, 1941, 34°16′04″N 119°15′15″W, 34.2678°N 119.2542°W, 34.2678 -119.2542, https://en.wikipedia.org/wiki/Ventura,_California
+272, Centennial, Colorado, 110831, 100377, +10.41%, 29.5, 76.4, 3727, 1439, 39°35′26″N 104°52′09″W, 39.5906°N 104.8691°W, 39.5906 -104.8691, https://en.wikipedia.org/wiki/Centennial,_Colorado
+273, Lakeland, Florida, 110516, 97422, +13.44%, 65.9, 170.7, 1615, 624, 28°03′20″N 81°57′18″W, 28.0555°N 81.9549°W, 28.0555 -81.9549, https://en.wikipedia.org/wiki/Lakeland,_Florida
+274, Gresham, Oregon, 110158, 105594, +4.32%, 23.3, 60.3, 4786, 1848, 45°30′08″N 122°26′30″W, 45.5023°N 122.4416°W, 45.5023 -122.4416, https://en.wikipedia.org/wiki/Gresham,_Oregon
+275, Richmond, California, 110146, 103701, +6.21%, 30.1, 78.0, 3648, 1409, 37°57′08″N 122°21′38″W, 37.9523°N 122.3606°W, 37.9523 -122.3606, https://en.wikipedia.org/wiki/Richmond,_California
+276, Billings, Montana, 109550, 104170, +5.16%, 43.7, 113.2, 2525, 975, 45°47′19″N 108°33′00″W, 45.7885°N 108.5499°W, 45.7885 -108.5499, https://en.wikipedia.org/wiki/Billings,_Montana
+277, Inglewood, California, 109419, 109673, −0.23%, 9.1, 23.6, 12160, 4700, 33°57′22″N 118°20′39″W, 33.9561°N 118.3443°W, 33.9561 -118.3443, https://en.wikipedia.org/wiki/Inglewood,_California
+278, Broken Arrow, Oklahoma, 109171, 98850, +10.44%, 61.7, 159.8, 1741, 672, 36°02′11″N 95°46′52″W, 36.0365°N 95.7810°W, 36.0365 -95.7810, https://en.wikipedia.org/wiki/Broken_Arrow,_Oklahoma
+279, Sandy Springs, Georgia, 108797, 93853, +15.92%, 37.7, 97.6, 2804, 1083, 33°55′53″N 84°22′07″W, 33.9315°N 84.3687°W, 33.9315 -84.3687, https://en.wikipedia.org/wiki/Sandy_Springs,_Georgia
+280, Jurupa Valley, California, 108393, 0, NA[ab], 42.9, 111.1, 2414, 932, 34°00′09″N 117°28′03″W, 34.0026°N 117.4676°W, 34.0026 -117.4676, https://en.wikipedia.org/wiki/Jurupa_Valley,_California
+281, Hillsboro, Oregon, 108389, 91611, +18.31%, 25.0, 64.7, 4207, 1624, 45°31′41″N 122°56′09″W, 45.5280°N 122.9357°W, 45.5280 -122.9357, https://en.wikipedia.org/wiki/Hillsboro,_Oregon
+282, Waterbury, Connecticut, 108093, 110366, −2.06%, 28.5, 73.8, 3799, 1467, 41°33′31″N 73°02′12″W, 41.5585°N 73.0367°W, 41.5585 -73.0367, https://en.wikipedia.org/wiki/Waterbury,_Connecticut
+283, Santa Maria, California, 107408, 99553, +7.89%, 22.8, 59.1, 4662, 1800, 34°56′00″N 120°26′38″W, 34.9332°N 120.4438°W, 34.9332 -120.4438, https://en.wikipedia.org/wiki/Santa_Maria,_California
+284, Boulder, Colorado, 107353, 97385, +10.24%, 24.8, 64.2, 4358, 1683, 40°01′37″N 105°15′07″W, 40.0270°N 105.2519°W, 40.0270 -105.2519, https://en.wikipedia.org/wiki/Boulder,_Colorado
+285, Greeley, Colorado, 107348, 92889, +15.57%, 47.8, 123.8, 2176, 840, 40°24′55″N 104°46′11″W, 40.4153°N 104.7697°W, 40.4153 -104.7697, https://en.wikipedia.org/wiki/Greeley,_Colorado
+286, Daly City, California, 107008, 101123, +5.82%, 7.6, 19.7, 14009, 5409, 37°42′03″N 122°27′54″W, 37.7009°N 122.4650°W, 37.7009 -122.4650, https://en.wikipedia.org/wiki/Daly_City,_California
+287, Meridian, Idaho, 106804, 75092, +42.23%, 29.8, 77.2, 3584, 1384, 43°36′51″N 116°23′56″W, 43.6142°N 116.3989°W, 43.6142 -116.3989, https://en.wikipedia.org/wiki/Meridian,_Idaho
+288, Lewisville, Texas, 106586, 95290, +11.85%, 36.7, 95.1, 2852, 1101, 33°02′48″N 96°58′54″W, 33.0466°N 96.9818°W, 33.0466 -96.9818, https://en.wikipedia.org/wiki/Lewisville,_Texas
+289, Davie[ac], Florida, 106558, 91992, +15.83%, 34.9, 90.4, 2919, 1127, 26°04′45″N 80°17′06″W, 26.0791°N 80.2850°W, 26.0791 -80.2850, https://en.wikipedia.org/wiki/Davie,_Florida
+290, West Covina, California, 106311, 106098, +0.20%, 16.0, 41.4, 6740, 2600, 34°03′21″N 117°54′36″W, 34.0559°N 117.9099°W, 34.0559 -117.9099, https://en.wikipedia.org/wiki/West_Covina,_California
+291, League City, Texas, 106244, 83560, +27.15%, 51.2, 132.6, 1992, 769, 29°29′24″N 95°06′33″W, 29.4901°N 95.1091°W, 29.4901 -95.1091, https://en.wikipedia.org/wiki/League_City,_Texas
+292, Tyler, Texas, 105729, 96900, +9.11%, 56.6, 146.6, 1852, 715, 32°19′02″N 95°18′21″W, 32.3173°N 95.3059°W, 32.3173 -95.3059, https://en.wikipedia.org/wiki/Tyler,_Texas
+293, Norwalk, California, 105120, 105549, −0.41%, 9.7, 25.1, 10946, 4226, 33°54′27″N 118°05′01″W, 33.9076°N 118.0835°W, 33.9076 -118.0835, https://en.wikipedia.org/wiki/Norwalk,_California
+294, San Mateo, California, 105025, 97207, +8.04%, 12.1, 31.3, 8592, 3317, 37°33′37″N 122°18′38″W, 37.5603°N 122.3106°W, 37.5603 -122.3106, https://en.wikipedia.org/wiki/San_Mateo,_California
+295, Green Bay, Wisconsin, 104879, 104057, +0.79%, 45.4, 117.6, 2316, 894, 44°31′15″N 87°59′03″W, 44.5207°N 87.9842°W, 44.5207 -87.9842, https://en.wikipedia.org/wiki/Green_Bay,_Wisconsin
+296, Wichita Falls, Texas, 104576, 104553, +0.02%, 72.2, 187.0, 1450, 560, 33°54′24″N 98°31′33″W, 33.9067°N 98.5259°W, 33.9067 -98.5259, https://en.wikipedia.org/wiki/Wichita_Falls,_Texas
+297, Sparks, Nevada, 104246, 90264, +15.49%, 35.9, 93.0, 2810, 1080, 39°33′16″N 119°44′08″W, 39.5544°N 119.7356°W, 39.5544 -119.7356, https://en.wikipedia.org/wiki/Sparks,_Nevada
+298, Lakewood[ad], New Jersey, 104157, 92843, +12.19%, 24.7, 64.0, 4079, 1575, 40°04′38″N 74°12′01″W, 40.0771°N 74.2004°W, 40.0771 -74.2004, https://en.wikipedia.org/wiki/Lakewood_Township,_New_Jersey
+299, Burbank, California, 103695, 103340, +0.34%, 17.4, 45.1, 6003, 2318, 34°11′24″N 118°19′35″W, 34.1901°N 118.3264°W, 34.1901 -118.3264, https://en.wikipedia.org/wiki/Burbank,_California
+300, Rialto, California, 103440, 99171, +4.30%, 22.3, 57.8, 4633, 1789, 34°06′42″N 117°23′18″W, 34.1118°N 117.3883°W, 34.1118 -117.3883, https://en.wikipedia.org/wiki/Rialto,_California
+301, Allen, Texas, 103383, 84246, +22.72%, 27.1, 70.2, 3715, 1434, 33°05′59″N 96°39′47″W, 33.0997°N 96.6631°W, 33.0997 -96.6631, https://en.wikipedia.org/wiki/Allen,_Texas
+302, El Cajon, California, 103241, 99478, +3.78%, 14.5, 37.6, 7156, 2763, 32°48′06″N 116°57′37″W, 32.8017°N 116.9604°W, 32.8017 -116.9604, https://en.wikipedia.org/wiki/El_Cajon,_California
+303, Las Cruces, New Mexico, 102926, 97618, +5.44%, 76.9, 199.2, 1323, 511, 32°19′35″N 106°47′23″W, 32.3264°N 106.7897°W, 32.3264 -106.7897, https://en.wikipedia.org/wiki/Las_Cruces,_New_Mexico
+304, Renton, Washington, 102153, 90927, +12.35%, 23.4, 60.6, 4314, 1666, 47°28′34″N 122°11′31″W, 47.4761°N 122.1920°W, 47.4761 -122.1920, https://en.wikipedia.org/wiki/Renton,_Washington
+305, Davenport, Iowa, 102085, 99685, +2.41%, 62.9, 162.9, 1631, 630, 41°33′15″N 90°36′14″W, 41.5541°N 90.6040°W, 41.5541 -90.6040, https://en.wikipedia.org/wiki/Davenport,_Iowa
+306, South Bend, Indiana, 101860, 101168, +0.68%, 41.4, 107.2, 2457, 949, 41°40′37″N 86°16′08″W, 41.6769°N 86.2690°W, 41.6769 -86.2690, https://en.wikipedia.org/wiki/South_Bend,_Indiana
+307, Vista, California, 101224, 93834, +7.88%, 18.7, 48.4, 5436, 2099, 33°11′22″N 117°14′19″W, 33.1895°N 117.2386°W, 33.1895 -117.2386, https://en.wikipedia.org/wiki/Vista,_California
+308, Tuscaloosa, Alabama, 101113, 90468, +11.77%, 71.7, 185.7, 1399, 540, 33°12′23″N 87°32′05″W, 33.2065°N 87.5346°W, 33.2065 -87.5346, https://en.wikipedia.org/wiki/Tuscaloosa,_Alabama
+309, Clinton[ae], Michigan, 100800, 96796, +4.14%, 28.1, 72.8, 3573, 1380, 42°35′25″N 82°55′01″W, 42.5903°N 82.9170°W, 42.5903 -82.9170, https://en.wikipedia.org/wiki/Clinton_Township,_Macomb_County,_Michigan
+310, Edison[ad], New Jersey, 100693, 99967, +0.73%, 30.1, 78.0, 3389, 1309, 40°30′14″N 74°20′58″W, 40.5040°N 74.3494°W, 40.5040 -74.3494, https://en.wikipedia.org/wiki/Edison,_New_Jersey
+311, Woodbridge[ad], New Jersey, 100450, 99585, +0.87%, 23.3, 60.3, 4351, 1680, 40°33′39″N 74°17′34″W, 40.5607°N 74.2927°W, 40.5607 -74.2927, https://en.wikipedia.org/wiki/Woodbridge_Township,_New_Jersey
+312, San Angelo, Texas, 100215, 93200, +7.53%, 59.9, 155.1, 1681, 649, 31°26′28″N 100°27′02″W, 31.4411°N 100.4505°W, 31.4411 -100.4505, https://en.wikipedia.org/wiki/San_Angelo,_Texas
+313, Kenosha, Wisconsin, 100164, 99218, +0.95%, 28.0, 72.5, 3577, 1381, 42°34′56″N 87°50′44″W, 42.5822°N 87.8456°W, 42.5822 -87.8456, https://en.wikipedia.org/wiki/Kenosha,_Wisconsin
+314, Vacaville, California, 100154, 92428, +8.36%, 29.0, 75.1, 3449, 1332, 38°21′14″N 121°58′22″W, 38.3539°N 121.9728°W, 38.3539 -121.9728, https://en.wikipedia.org/wiki/Vacaville,_California
