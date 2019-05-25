@@ -29,7 +29,7 @@ with open('mainData.csv', 'r') as f:
             #print(outString)
             if row1 == row2:
                 rank += 1
-                outString += mainData + ' ' + urlData
+                outString += mainData + ', ' + urlData
                 mainData = f.readline()
                 mainData = '{}'.format(mainData.strip())
                 urlData = g.readline()

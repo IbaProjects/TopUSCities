@@ -1,6 +1,6 @@
 #!./env/bin/python3.5
 import re
-header = "Rank, City, State, 2018 estimate, 2010 Census,Change[%], 2016 land area[sq mi], 2016 land area[km*km], 2016 population density[/sq mi], 2016 population density[km*km], coordinates[lat° \' \"N long° \' \"W], coordinates[lat°N long°W], coordinates[lat long],\n" #1st row list each title for each collumn of data set
+header = "Rank, City, State, 2018 estimate, 2010 Census,Change[%], 2016 land area[sq mi], 2016 land area[km*km], 2016 population density[/sq mi], 2016 population density[km*km], coordinates[lat° \' \"N long° \' \"W], coordinates[lat°N long°W], coordinates[lat long]\n" #1st row list each title for each collumn of data set
 outString = header
 with open("testData.csv") as f:
     data = f.readline()
@@ -28,6 +28,9 @@ with open("testData.csv") as f:
 
 outString = outString.replace(',,', ',')
 outString = outString.replace(' , ', ', ')
+outString = outString.replace('\n,', '')
+outString = outString.replace(', \n', '\n')
+outString = outString.rstrip(', ')
 f = open("testData.csv", 'w')
 f.write(str(outString))
 f.close()
