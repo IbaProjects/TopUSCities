@@ -21,6 +21,7 @@ outString = "" #define outString to hold data
 for link in links: #for loop through links table information to create data structure
     outString += '{}'.format(link.get_text())
     outString = outString.replace(',', '') # remove commasfrom strings
+    outString = outString.replace(' , ', ', ')
     outString += ", " #used to seperate value by comma for file type 
     #outString += "\n"
 #print(cities) #alternative method to use

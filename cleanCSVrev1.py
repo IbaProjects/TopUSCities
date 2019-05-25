@@ -1,6 +1,7 @@
 #!./env/bin/python3.5
 import re
-outString = "Rank, City, State, 2018 estimate, 2010 Census,Change[%], 2016 land area[sq mi], 2016 land area[km*km], 2016 population density[/sq mi], 2016 population density[km*km], location,\n" #1st row list each title for each collumn of data set
+header = "Rank, City, State, 2018 estimate, 2010 Census,Change[%], 2016 land area[sq mi], 2016 land area[km*km], 2016 population density[/sq mi], 2016 population density[km*km], coordinates[lat° \' \"N long° \' \"W], coordinates[lat°N long°W], coordinates[lat long],\n" #1st row list each title for each collumn of data set
+outString = header
 with open("testData.csv") as f:
     data = f.readline()
     data = data.replace(u'\ufeff', '') # removes BOM
@@ -26,6 +27,7 @@ with open("testData.csv") as f:
             n += 1
 
 outString = outString.replace(',,', ',')
+outString = outString.replace(' , ', ', ')
 f = open("testData.csv", 'w')
 f.write(str(outString))
 f.close()
