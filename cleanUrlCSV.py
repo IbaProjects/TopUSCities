@@ -9,6 +9,7 @@ with open("testData.csv") as f:
         result = testString.startswith('/wiki/')
         if result == True:
             outString += "https://en.wikipedia.org"
+            testString = HYPERLINK(testString)
             outString += testString
             outString += ", "
             outString += "\n"
