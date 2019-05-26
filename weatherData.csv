@@ -1,0 +1,315 @@
+elevation[meters], WeatherDataValidUntil, temperature[°F], temperatureTrend, windDirection, windSpeed, shortForecast
+17.0688, 2019-05-26T18:00:00-04:00, 89, None, W, 9 to 15 mph, Mostly Sunny then Chance Showers And Thunderstorms
+38.1, 2019-05-26T18:00:00-07:00, 61, None, SW, 5 to 10 mph, Rain Showers Likely
+178.00320000000002, 2019-05-26T18:00:00-05:00, 66, falling, NE, 5 mph, Rain Showers Likely
+17.9832, 2019-05-26T18:00:00-05:00, 90, falling, S, 5 to 10 mph, Mostly Sunny
+384.9624, 2019-05-26T18:00:00-07:00, 84, falling, SSW, 10 to 15 mph, Sunny
+29.8704, 2019-05-26T18:00:00-04:00, 90, None, W, 12 mph, Mostly Sunny then Chance Showers And Thunderstorms
+227.99040000000002, 2019-05-26T18:00:00-05:00, 90, None, SSE, 15 to 20 mph, Isolated Rain Showers
+124.0536, 2019-05-26T18:00:00-07:00, 60, None, SW, 5 to 10 mph, Rain Showers
+153.924, 2019-05-26T18:00:00-05:00, 90, None, S, 10 to 15 mph, Mostly Cloudy
+39.9288, 2019-05-26T18:00:00-07:00, 62, None, W, 9 to 13 mph, Showers And Thunderstorms Likely
+181.96560000000002, 2019-05-26T18:00:00-05:00, 90, None, SSE, 10 to 15 mph, Partly Sunny
+7.010400000000001, 2019-05-26T18:00:00-04:00, 97, None, SE, 5 to 9 mph, Sunny
+160.9344, 2019-05-26T18:00:00-05:00, 90, None, S, 15 mph, Mostly Cloudy
+238.9632, 2019-05-26T18:00:00-04:00, 83, None, W, 9 mph, Showers And Thunderstorms Likely
+0, 2019-05-26T18:00:00+00:00, 55, None, WNW, 31 mph, Chance Rain Showers
+199.9488, 2019-05-26T18:00:00-04:00, 96, None, WNW, 6 to 9 mph, Sunny
+221.89440000000002, 2019-05-26T18:00:00-04:00, 81, falling, WSW, 6 to 10 mph, Chance Showers And Thunderstorms
+32.004000000000005, 2019-05-26T18:00:00-07:00, 68, falling, N, 16 mph, Slight Chance Rain Showers
+1615.1352000000002, 2019-05-26T18:00:00-06:00, 81, falling, SE, 3 to 13 mph, Mostly Sunny then Chance Showers And Thunderstorms
+21.945600000000002, 2019-05-26T18:00:00-04:00, 91, None, W, 7 to 10 mph, Partly Sunny then Chance Showers And Thunderstorms
+0, 2019-05-26T18:00:00-04:00, 84, None, W, 12 to 17 mph, Mostly Sunny
+1190.8536000000001, 2019-05-26T18:00:00-06:00, 92, None, SW, 7 to 30 mph, Mostly Sunny then Areas Of Blowing Dust
+178.00320000000002, 2019-05-26T18:00:00-04:00, 74, falling, SSE, 1 to 5 mph, Chance Showers And Thunderstorms
+0, 2019-05-26T18:00:00-05:00, 93, None, SW, 5 to 10 mph, Sunny
+60.96, 2019-05-26T18:00:00-07:00, 73, None, N, 7 to 12 mph, Slight Chance Rain Showers then Slight Chance Showers And Thunderstorms
+92.964, 2019-05-26T18:00:00-05:00, 93, None, SW, 10 mph, Sunny
+370.0272, 2019-05-26T18:00:00-05:00, 84, None, S, 15 mph, Partly Sunny
+730.9104, 2019-05-26T18:00:00-07:00, 73, falling, S, 7 to 22 mph, Mostly Sunny then Chance Rain Showers
+182.88, 2019-05-26T18:00:00-04:00, 88, None, SW, 8 to 13 mph, Mostly Sunny then Chance Showers And Thunderstorms
+2.1336, 2019-05-26T18:00:00-04:00, 90, None, W, 7 to 10 mph, Partly Sunny then Scattered Showers And Thunderstorms
+217.93200000000002, 2019-05-26T18:00:00-05:00, 67, None, NE, 5 mph, Mostly Sunny
+1520.952, 2019-05-26T18:00:00-06:00, 84, falling, S, 10 to 30 mph, Mostly Sunny then Isolated T-storms
+808.9392, 2019-05-26T18:00:00-07:00, 82, None, SSW, 12 to 20 mph, Sunny
+91.1352, 2019-05-26T18:00:00-07:00, 60, None, ESE, 5 mph, Rain Showers
+405.9936, 2019-05-26T18:00:00-07:00, 86, falling, SSW, 15 mph, Sunny
+7.9248, 2019-05-26T18:00:00-07:00, 64, None, SSW, 9 to 16 mph, Chance Showers And Thunderstorms
+287.1216, 2019-05-26T18:00:00-04:00, 95, None, W, 5 to 10 mph, Sunny
+219.15120000000002, 2019-05-26T18:00:00-05:00, 81, None, S, 7 mph, Slight Chance Showers And Thunderstorms
+1950.1104, 2019-05-26T18:00:00-06:00, 74, None, SSE, 5 to 20 mph, Partly Sunny then Slight Chance Showers And Thunderstorms
+2.1336, 2019-05-26T18:00:00-04:00, 87, None, E, 15 mph, Mostly Sunny
+102.108, 2019-05-26T18:00:00-04:00, 94, None, W, 3 to 8 mph, Sunny
+359.05440000000004, 2019-05-26T18:00:00-05:00, 79, None, ESE, 7 mph, Partly Sunny then Slight Chance Showers And Thunderstorms
+28.956000000000003, 2019-05-26T18:00:00-07:00, 62, None, SW, 5 to 15 mph, Rain Showers Likely
+3.048, 2019-05-26T18:00:00-04:00, 90, None, N, 6 to 9 mph, Mostly Sunny
+13.1064, 2019-05-26T18:00:00-07:00, 60, falling, W, 13 to 18 mph, Chance Showers And Thunderstorms
+270.0528, 2019-05-26T18:00:00-05:00, 74, None, E, 0 to 5 mph, Sunny
+227.99040000000002, 2019-05-26T18:00:00-05:00, 87, None, S, 10 to 15 mph, Slight Chance Showers And Thunderstorms
+193.8528, 2019-05-26T18:00:00-05:00, 89, None, S, 15 mph, Mostly Cloudy
+7.010400000000001, 2019-05-26T18:00:00-04:00, 97, None, E, 6 mph, Sunny
+0.9144000000000001, 2019-05-26T18:00:00-05:00, 88, None, E, 5 to 10 mph, Sunny
+402.0312, 2019-05-26T18:00:00-05:00, 81, None, SSE, 9 to 15 mph, Chance Showers And Thunderstorms
+182.88, 2019-05-26T18:00:00-04:00, 74, None, NW, 7 mph, Chance Showers And Thunderstorms
+116.12880000000001, 2019-05-26T18:00:00-07:00, 66, None, W, 5 to 10 mph, Mostly Cloudy then Rain Showers
+1737.0552, 2019-05-26T18:00:00-06:00, 78, falling, SSE, 7 to 17 mph, Mostly Sunny then Chance Showers And Thunderstorms
+181.96560000000002, 2019-05-26T18:00:00-07:00, 59, None, SW, 5 to 10 mph, Rain Showers
+74.9808, 2019-05-26T06:00:00-10:00, 73, None, ENE, 13 mph, Scattered Rain Showers
+24.9936, 2019-05-26T18:00:00-07:00, 61, None, SW, 5 to 10 mph, Rain Showers
+269.1384, 2019-05-26T18:00:00-07:00, 60, None, SW, 5 to 10 mph, Rain Showers
+0, 2019-05-26T18:00:00-05:00, 85, None, SE, 18 mph, Mostly Sunny
+306.0192, 2019-05-26T18:00:00-04:00, 87, None, SW, 9 to 15 mph, Mostly Sunny then Slight Chance Showers And Thunderstorms
+2.1336, 2019-05-26T18:00:00-07:00, 64, None, WSW, 10 to 18 mph, Showers And Thunderstorms Likely
+726.9480000000001, 2019-05-26T18:00:00-07:00, 74, falling, SSW, 12 to 18 mph, Chance Rain Showers
+246.888, 2019-05-26T18:00:00-05:00, 74, None, E, 0 mph, Sunny
+163.9824, 2019-05-26T18:00:00-05:00, 84, None, SW, 5 to 9 mph, Showers And Thunderstorms Likely then Scattered Showers And Thunderstorms
+213.0552, 2019-05-26T18:00:00-04:00, 86, None, W, 9 mph, Mostly Cloudy then Showers And Thunderstorms Likely
+248.1072, 2019-05-26T18:00:00-04:00, 82, None, W, 9 mph, Showers And Thunderstorms Likely
+257.86080000000004, 2019-05-26T18:00:00-04:00, 94, None, W, 3 to 9 mph, Sunny
+473.0496, 2019-05-26T18:00:00-08:00, 52, None, N, 5 to 15 mph, Rain
+227.99040000000002, 2019-05-26T18:00:00-05:00, 89, None, S, 10 mph, Partly Sunny
+359.96880000000004, 2019-05-26T18:00:00-05:00, 78, None, ESE, 3 to 9 mph, Partly Sunny then Chance Showers And Thunderstorms
+24.0792, 2019-05-26T18:00:00-04:00, 94, None, E, 5 mph, Sunny
+25.908, 2019-05-26T18:00:00-07:00, 61, None, SW, 5 to 10 mph, Rain Showers
+36.8808, 2019-05-26T18:00:00-04:00, 92, None, W, 9 to 14 mph, Mostly Sunny then Scattered Showers And Thunderstorms
+182.88, 2019-05-26T18:00:00-04:00, 74, None, NW, 5 mph, Chance Showers And Thunderstorms
+121.92, 2019-05-26T18:00:00-04:00, 94, None, W, 6 mph, Sunny
+120.0912, 2019-05-26T18:00:00-07:00, 60, None, SW, 5 to 10 mph, Rain Showers
+0, 2019-05-26T18:00:00-04:00, 76, None, W, 5 to 10 mph, Slight Chance Showers And Thunderstorms
+25.908, 2019-05-26T18:00:00-04:00, 90, None, W, 9 to 15 mph, Mostly Sunny then Scattered Showers And Thunderstorms
+7.010400000000001, 2019-05-26T18:00:00-04:00, 94, None, ENE, 7 mph, Sunny
+135.9408, 2019-05-26T18:00:00-05:00, 98, None, SE, 21 mph, Slight Chance Rain Showers
+259.08000000000004, 2019-05-26T18:00:00-05:00, 75, None, NE, 0 to 5 mph, Mostly Sunny
+370.0272, 2019-05-26T18:00:00-07:00, 86, falling, SSW, 15 mph, Sunny
+184.0992, 2019-05-26T18:00:00-04:00, 68, None, W, 9 mph, Mostly Sunny
+979.0176, 2019-05-26T18:00:00-05:00, 80, None, SSE, 15 mph, Chance Showers And Thunderstorms
+608.076, 2019-05-26T18:00:00-07:00, 80, falling, SSW, 15 mph, Sunny
+1455.1152000000002, 2019-05-26T18:00:00-07:00, 53, None, W, 5 to 15 mph, Showers And Thunderstorms Likely
+327.0504, 2019-05-26T18:00:00-07:00, 84, falling, SSW, 10 to 15 mph, Sunny
+388.0104, 2019-05-26T18:00:00-07:00, 86, falling, SSW, 15 mph, Sunny
+273.1008, 2019-05-26T18:00:00-04:00, 93, None, W, 5 to 8 mph, Sunny
+641.9088, 2019-05-26T18:00:00-07:00, 73, falling, S, 10 to 17 mph, Chance Rain Showers
+3.9624, 2019-05-26T18:00:00-04:00, 89, None, NW, 8 mph, Mostly Sunny
+4.8768, 2019-05-26T18:00:00-04:00, 93, None, W, 7 mph, Mostly Sunny
+167.94480000000001, 2019-05-26T18:00:00-05:00, 90, None, S, 10 mph, Mostly Cloudy
+145.0848, 2019-05-26T18:00:00-05:00, 90, None, S, 15 mph, Mostly Cloudy
+2.1336, 2019-05-26T18:00:00-04:00, 87, None, E, 14 mph, Mostly Sunny
+9.144, 2019-05-26T18:00:00-07:00, 61, None, WNW, 10 to 17 mph, Showers And Thunderstorms Likely
+843.0768, 2019-05-26T18:00:00-06:00, 70, None, SE, 7 to 10 mph, Showers And Thunderstorms Likely
+56.083200000000005, 2019-05-26T18:00:00-04:00, 94, None, W, 6 to 9 mph, Mostly Sunny then Slight Chance Showers And Thunderstorms
+17.9832, 2019-05-26T18:00:00-05:00, 92, falling, S, 5 mph, Mostly Sunny
+562.0512, 2019-05-26T18:00:00-07:00, 70, None, NE, 13 to 21 mph, Rain Showers Likely
+270.0528, 2019-05-26T18:00:00-05:00, 79, falling, E, 5 mph, Mostly Sunny
+79.8576, 2019-05-26T18:00:00-07:00, 69, falling, N, 17 mph, Slight Chance Rain Showers
+363.01680000000005, 2019-05-26T18:00:00-07:00, 57, None, S, 5 to 10 mph, Rain Showers
+14.9352, 2019-05-26T18:00:00-07:00, 63, None, WNW, 9 mph, Showers And Thunderstorms Likely
+420.9288, 2019-05-26T18:00:00-07:00, 57, None, SW, 5 to 15 mph, Rain Showers
+487.0704, 2019-05-26T18:00:00-07:00, 55, None, SW, 10 to 20 mph, Rain Showers
+175.86960000000002, 2019-05-26T18:00:00-05:00, 95, None, W, 5 mph, Sunny
+9.144, 2019-05-26T18:00:00-07:00, 61, None, W, 5 to 15 mph, Rain Showers Likely
+75.8952, 2019-05-26T18:00:00-04:00, 97, None, W, 5 to 12 mph, Sunny
+523.0368, 2019-05-26T18:00:00-07:00, 56, None, S, 5 to 10 mph, Rain Showers
+143.8656, 2019-05-26T18:00:00-04:00, 74, None, W, 14 mph, Mostly Sunny
+509.016, 2019-05-26T18:00:00-07:00, 54, None, SSW, 5 to 10 mph, Rain Showers
+11.8872, 2019-05-26T18:00:00-07:00, 60, None, SW, 5 to 10 mph, Rain Showers Likely
+1300.8864, 2019-05-26T18:00:00-06:00, 73, None, SSE, 8 to 16 mph, Partly Sunny then Isolated Showers And Thunderstorms
+188.976, 2019-05-26T18:00:00-04:00, 73, None, NNW, 0 to 5 mph, Chance Showers And Thunderstorms
+1110.996, 2019-05-26T18:00:00-05:00, 76, None, S, 10 to 15 mph, Showers And Thunderstorms Likely
+46.0248, 2019-05-26T18:00:00-04:00, 90, None, W, 8 to 12 mph, Mostly Sunny then Scattered Showers And Thunderstorms
+213.9696, 2019-05-26T18:00:00-05:00, 73, None, NE, 5 mph, Rain Showers Likely
+74.9808, 2019-05-26T18:00:00-05:00, 97, None, W, 0 to 5 mph, Sunny
+277.9776, 2019-05-26T18:00:00-04:00, 78, None, W, 7 mph, Chance Showers And Thunderstorms
+120.0912, 2019-05-26T18:00:00-05:00, 91, None, SSW, 10 mph, Sunny
+206.9592, 2019-05-26T18:00:00-05:00, 94, None, WSW, 5 to 10 mph, Sunny
+95.0976, 2019-05-26T18:00:00-04:00, 100, None, NW, 5 to 8 mph, Sunny
+7.010400000000001, 2019-05-26T18:00:00-04:00, 87, None, E, 10 mph, Sunny
+160.9344, 2019-05-26T18:00:00-05:00, 89, None, SSE, 15 mph, Partly Sunny
+92.0496, 2019-05-26T18:00:00-04:00, 98, None, NW, 0 to 10 mph, Sunny
+25.908, 2019-05-26T18:00:00-04:00, 98, None, S, 5 mph, Sunny
+302.0568, 2019-05-26T18:00:00-05:00, 80, None, S, 8 mph, Slight Chance Showers And Thunderstorms
+363.93120000000005, 2019-05-26T18:00:00-07:00, 85, falling, SSW, 15 mph, Sunny
+181.96560000000002, 2019-05-26T18:00:00-05:00, 89, None, S, 15 mph, Mostly Cloudy
+7.9248, 2019-05-26T18:00:00-05:00, 94, None, SE, 5 to 10 mph, Sunny
+7.010400000000001, 2019-05-26T18:00:00-04:00, 94, None, E, 10 mph, Sunny
+74.0664, 2019-05-26T18:00:00-05:00, 91, None, S, 10 mph, Sunny
+213.0552, 2019-05-26T18:00:00-05:00, 89, None, S, 15 mph, Partly Sunny
+274.0152, 2019-05-26T18:00:00-04:00, 93, None, SW, 5 to 15 mph, Sunny
+152.0952, 2019-05-26T18:00:00-04:00, 85, None, W, 10 to 15 mph, Mostly Sunny
+7.9248, 2019-05-26T18:00:00-05:00, 93, None, SE, 21 mph, Mostly Sunny
+60.96, 2019-05-26T18:00:00-07:00, 72, None, N, 5 to 9 mph, Chance Rain Showers then Slight Chance Showers And Thunderstorms
+3.048, 2019-05-26T18:00:00-04:00, 86, None, E, 15 mph, Mostly Sunny
+448.05600000000004, 2019-05-26T18:00:00-05:00, 77, None, ESE, 5 to 10 mph, Sunny
+250.8504, 2019-05-26T18:00:00-07:00, 58, None, SW, 0 to 10 mph, Rain Showers
+242.0112, 2019-05-26T18:00:00-04:00, 94, None, W, 10 mph, Sunny
+29.8704, 2019-05-26T18:00:00-04:00, 88, None, W, 9 to 14 mph, Mostly Sunny then Slight Chance Rain Showers
+0.9144000000000001, 2019-05-26T18:00:00-04:00, 92, None, W, 8 mph, Sunny
+415.1376, 2019-05-26T18:00:00-07:00, 55, None, SW, 0 to 10 mph, Rain Showers
+57.912000000000006, 2019-05-26T18:00:00-07:00, 63, None, WSW, 3 to 14 mph, Chance Rain Showers
+67.9704, 2019-05-26T18:00:00-07:00, 60, None, SW, 5 to 10 mph, Rain Showers
+49.0728, 2019-05-26T18:00:00-07:00, 72, None, N, 12 mph, Mostly Sunny then Slight Chance Showers And Thunderstorms
+9.144, 2019-05-26T18:00:00-07:00, 63, None, SSW, 9 to 17 mph, Chance Showers And Thunderstorms
+14.020800000000001, 2019-05-26T18:00:00-07:00, 61, None, SW, 5 to 10 mph, Rain Showers
+3.048, 2019-05-26T18:00:00-04:00, 87, None, E, 14 mph, Mostly Sunny
+606.8568, 2019-05-26T18:00:00-07:00, 81, falling, SSW, 10 to 15 mph, Sunny
+121.92, 2019-05-26T18:00:00-07:00, 70, None, NNW, 7 to 12 mph, Partly Sunny then Slight Chance Showers And Thunderstorms
+281.94, 2019-05-26T18:00:00-07:00, 59, None, SW, 5 to 15 mph, Rain Showers
+104.8512, 2019-05-26T18:00:00-04:00, 94, None, W, 3 to 9 mph, Sunny
+392.8872, 2019-05-26T18:00:00-05:00, 84, None, SW, 15 mph, Scattered Showers And Thunderstorms
+1521.8664, 2019-05-26T18:00:00-06:00, 74, falling, E, 3 to 9 mph, Mostly Sunny then Chance Showers And Thunderstorms
+86.86800000000001, 2019-05-26T18:00:00-05:00, 93, None, SSW, 5 mph, Sunny
+75.8952, 2019-05-26T18:00:00-04:00, 90, None, W, 7 to 10 mph, Partly Sunny then Chance Showers And Thunderstorms
+9.144, 2019-05-26T18:00:00-07:00, 58, None, W, 17 to 21 mph, Showers And Thunderstorms Likely
+730.9104, 2019-05-26T18:00:00-07:00, 57, None, SW, 15 to 30 mph, Showers And Thunderstorms Likely
+1766.9256, 2019-05-26T18:00:00-06:00, 78, falling, ESE, 3 to 10 mph, Mostly Sunny then Slight Chance Showers And Thunderstorms
+0, 2019-05-26T18:00:00-05:00, 90, None, SW, 10 to 15 mph, Mostly Sunny
+793.0896, 2019-05-26T18:00:00-07:00, 56, None, SW, 15 to 30 mph, Rain Showers Likely
+20.1168, 2019-05-26T18:00:00-07:00, 57, None, WNW, 12 to 15 mph, Showers And Thunderstorms Likely
+60.0456, 2019-05-26T18:00:00-04:00, 87, None, W, 8 to 17 mph, Mostly Sunny
+3.048, 2019-05-26T18:00:00-04:00, 86, None, E, 15 mph, Mostly Sunny
+9.144, 2019-05-26T18:00:00-05:00, 88, falling, SE, 5 to 15 mph, Mostly Sunny
+28.041600000000003, 2019-05-26T18:00:00-07:00, 61, None, W, 10 to 15 mph, Showers And Thunderstorms Likely
+91.1352, 2019-05-26T18:00:00-04:00, 99, None, W, 0 to 5 mph, Sunny
+303.8856, 2019-05-26T18:00:00-05:00, 80, None, S, 7 mph, Slight Chance Showers And Thunderstorms
+264.8712, 2019-05-26T18:00:00-07:00, 59, None, SW, 5 to 15 mph, Rain Showers
+241.0968, 2019-05-26T18:00:00-07:00, 58, None, SW, 5 to 10 mph, Rain Showers
+260.9088, 2019-05-26T18:00:00-05:00, 90, None, SSE, 15 mph, Mostly Cloudy
+213.0552, 2019-05-26T18:00:00-05:00, 73, None, NE, 5 mph, Rain Showers Likely
+192.9384, 2019-05-26T18:00:00-05:00, 74, None, NNE, 5 mph, Rain Showers Likely
+73.152, 2019-05-26T18:00:00-07:00, 70, falling, NNE, 7 mph, Slight Chance Rain Showers
+227.99040000000002, 2019-05-26T18:00:00-05:00, 74, None, ENE, 5 mph, Chance Rain Showers then Mostly Cloudy
+3.048, 2019-05-26T18:00:00-04:00, 101, None, SW, 7 to 12 mph, Sunny
+29.8704, 2019-05-26T18:00:00-04:00, 89, None, W, 10 mph, Mostly Sunny then Scattered Showers And Thunderstorms
+28.956000000000003, 2019-05-26T18:00:00-07:00, 62, None, SW, 5 to 15 mph, Rain Showers Likely
+28.956000000000003, 2019-05-26T18:00:00-04:00, 85, None, W, 12 mph, Mostly Sunny
+35.9664, 2019-05-26T18:00:00-05:00, 95, None, SE, 21 mph, Mostly Sunny
+155.1432, 2019-05-26T18:00:00-05:00, 89, None, S, 15 mph, Partly Sunny
+121.92, 2019-05-26T18:00:00-04:00, 76, None, NW, 8 to 12 mph, Mostly Sunny
+844.9056, 2019-05-26T18:00:00-05:00, 86, None, S, 15 to 20 mph, Isolated Showers And Thunderstorms
+280.1112, 2019-05-26T18:00:00-07:00, 59, None, SW, 5 mph, Rain Showers
+0, 2019-05-26T18:00:00-05:00, 93, None, WSW, 10 mph, Sunny
+3.048, 2019-05-26T18:00:00-04:00, 87, None, E, 14 mph, Mostly Sunny
+244.1448, 2019-05-26T18:00:00-04:00, 83, None, W, 9 mph, Showers And Thunderstorms Likely
+60.0456, 2019-05-26T18:00:00-07:00, 60, None, SW, 5 to 10 mph, Rain Showers
+306.0192, 2019-05-26T18:00:00-05:00, 79, None, S, 8 mph, Slight Chance Showers And Thunderstorms
+45.110400000000006, 2019-05-26T18:00:00-07:00, 61, None, SW, 5 to 10 mph, Rain Showers
+1602.0288, 2019-05-26T18:00:00-06:00, 80, falling, E, 3 to 10 mph, Mostly Sunny then Chance Showers And Thunderstorms
+42.976800000000004, 2019-05-26T18:00:00-07:00, 65, None, S, 9 to 17 mph, Chance Showers And Thunderstorms
+196.9008, 2019-05-26T18:00:00-05:00, 90, None, S, 15 mph, Mostly Cloudy
+167.03040000000001, 2019-05-26T18:00:00-05:00, 91, None, SSE, 15 mph, Mostly Cloudy
+424.8912, 2019-05-26T18:00:00-07:00, 83, falling, SSW, 10 to 15 mph, Sunny
+157.8864, 2019-05-26T18:00:00-05:00, 90, None, S, 15 mph, Partly Sunny
+1295.0952, 2019-05-26T18:00:00-06:00, 72, None, S, 8 to 17 mph, Partly Sunny then Isolated Showers And Thunderstorms
+0.9144000000000001, 2019-05-26T18:00:00-04:00, 97, None, SW, 8 to 13 mph, Mostly Sunny
+174.04080000000002, 2019-05-26T18:00:00+00:00, 67, falling, ESE, 2 to 6 mph, Chance Showers And Thunderstorms
+0, 2019-05-26T18:00:00+00:00, 88, None, W, 8 mph, Sunny
+38.1, 2019-05-26T18:00:00-04:00, 98, None, SE, 3 to 7 mph, Sunny
+91.1352, 2019-05-26T18:00:00-07:00, 61, None, SSW, 5 to 10 mph, Showers And Thunderstorms
+3.048, 2019-05-26T18:00:00-04:00, 88, None, E, 14 mph, Mostly Sunny
+91.1352, 2019-05-26T18:00:00-04:00, 100, None, NW, 5 to 8 mph, Sunny
+235.9152, 2019-05-26T18:00:00-05:00, 76, None, NE, 5 mph, Partly Sunny
+182.88, 2019-05-26T18:00:00-04:00, 74, falling, SE, 0 to 5 mph, Chance Showers And Thunderstorms
+10.0584, 2019-05-26T18:00:00-04:00, 84, None, W, 7 to 12 mph, Mostly Sunny then Slight Chance Showers And Thunderstorms
+24.9936, 2019-05-26T18:00:00-04:00, 85, None, W, 8 to 12 mph, Mostly Sunny then Scattered Showers And Thunderstorms
+39.9288, 2019-05-26T18:00:00-07:00, 64, None, WSW, 8 to 14 mph, Showers And Thunderstorms Likely
+60.96, 2019-05-26T18:00:00-07:00, 69, None, NNE, 13 mph, Slight Chance Rain Showers
+14.9352, 2019-05-26T18:00:00-07:00, 62, None, W, 15 mph, Showers And Thunderstorms Likely
+3.9624, 2019-05-26T18:00:00-04:00, 92, None, W, 9 to 15 mph, Mostly Sunny then Scattered Showers And Thunderstorms
+217.01760000000002, 2019-05-26T18:00:00-05:00, 88, None, SSE, 15 mph, Partly Sunny
+267.0048, 2019-05-26T18:00:00-07:00, 59, None, WSW, 5 to 15 mph, Rain Showers Likely
+7.9248, 2019-05-26T18:00:00-05:00, 92, None, SE, 5 to 10 mph, Sunny
+214.88400000000001, 2019-05-26T18:00:00-04:00, 96, None, W, 5 to 10 mph, Sunny
+278.892, 2019-05-26T18:00:00-05:00, 81, None, S, 5 to 10 mph, Slight Chance Showers And Thunderstorms
+294.132, 2019-05-26T18:00:00-07:00, 58, None, SW, 5 to 15 mph, Rain Showers Likely
+273.1008, 2019-05-26T18:00:00-05:00, 70, falling, E, 3 to 8 mph, Partly Sunny then Chance Rain Showers
+338.93760000000003, 2019-05-26T18:00:00-05:00, 84, None, S, 16 mph, Partly Sunny
+237.1344, 2019-05-26T18:00:00-05:00, 81, None, S, 9 mph, Scattered Showers And Thunderstorms
+531.876, 2019-05-26T18:00:00-05:00, 86, None, S, 15 to 20 mph, Mostly Cloudy
+9.144, 2019-05-26T18:00:00-04:00, 97, None, SW, 9 mph, Sunny then Isolated Showers And Thunderstorms
+14.020800000000001, 2019-05-26T18:00:00-04:00, 88, None, W, 7 to 15 mph, Mostly Sunny then Slight Chance Rain Showers
+907.9992000000001, 2019-05-26T18:00:00-07:00, 56, None, S, 25 to 30 mph, Chance Rain Showers
+14.9352, 2019-05-26T18:00:00-05:00, 90, falling, SE, 10 to 15 mph, Mostly Sunny
+0.9144000000000001, 2019-05-26T18:00:00-07:00, 57, None, WSW, 10 to 20 mph, Chance Rain Showers
+231.95280000000002, 2019-05-26T18:00:00-04:00, 76, falling, SSW, 7 mph, Chance Showers And Thunderstorms
+29.8704, 2019-05-26T18:00:00-07:00, 58, None, W, 12 to 16 mph, Chance Showers And Thunderstorms
+91.1352, 2019-05-26T18:00:00-04:00, 87, None, W, 12 mph, Mostly Sunny then Chance Showers And Thunderstorms
+192.024, 2019-05-26T18:00:00-05:00, 90, None, S, 10 mph, Partly Sunny
+879.9576000000001, 2019-05-26T18:00:00-05:00, 86, None, S, 15 mph, Isolated Showers And Thunderstorms
+1698.9552, 2019-05-26T18:00:00-06:00, 79, falling, ENE, 5 to 9 mph, Mostly Sunny then Slight Chance Showers And Thunderstorms
+0.9144000000000001, 2019-05-26T18:00:00-04:00, 88, None, W, 9 to 15 mph, Mostly Sunny
+21.945600000000002, 2019-05-26T18:00:00-05:00, 90, None, SE, 10 mph, Mostly Sunny
+7.010400000000001, 2019-05-26T18:00:00-05:00, 90, None, SE, 10 mph, Mostly Sunny
+260.9088, 2019-05-26T18:00:00-04:00, 70, None, N, 5 mph, Chance Showers And Thunderstorms
+121.92, 2019-05-26T18:00:00-05:00, 87, None, SW, 9 to 14 mph, Scattered Showers And Thunderstorms
+317.9064, 2019-05-26T18:00:00-05:00, 73, None, NE, 3 mph, Sunny
+274.0152, 2019-05-26T18:00:00-05:00, 80, None, S, 5 to 8 mph, Slight Chance Showers And Thunderstorms
+10.972800000000001, 2019-05-26T18:00:00-07:00, 63, None, SW, 10 to 20 mph, Chance Rain Showers
+1400.8608000000002, 2019-05-26T18:00:00-06:00, 72, None, SSE, 6 to 15 mph, Partly Sunny then Isolated Showers And Thunderstorms
+14.9352, 2019-05-26T18:00:00-04:00, 94, falling, NNE, 5 to 8 mph, Sunny
+91.1352, 2019-05-26T18:00:00-05:00, 92, falling, S, 10 to 15 mph, Mostly Sunny
+1389.8880000000001, 2019-05-26T18:00:00-06:00, 70, falling, S, 8 to 17 mph, Partly Sunny then Isolated Showers And Thunderstorms
+71.0184, 2019-05-26T18:00:00-07:00, 60, None, SW, 5 to 10 mph, Rain Showers
+89.91600000000001, 2019-05-26T18:00:00-07:00, 61, None, SW, 5 to 10 mph, Rain Showers
+365.1504, 2019-05-26T18:00:00-07:00, 57, None, SW, 5 to 15 mph, Rain Showers
+313.944, 2019-05-26T18:00:00-07:00, 56, None, SW, 10 to 15 mph, Rain Showers
+182.88, 2019-05-26T18:00:00-05:00, 79, None, WSW, 7 mph, Scattered Showers And Thunderstorms
+9.144, 2019-05-26T18:00:00-04:00, 88, None, E, 10 to 15 mph, Sunny
+0.9144000000000001, 2019-05-26T18:00:00-07:00, 60, None, SW, 5 to 10 mph, Rain Showers
+1627.0224, 2019-05-26T18:00:00-06:00, 79, falling, ENE, 3 to 9 mph, Mostly Sunny then Chance Showers And Thunderstorms
+9.144, 2019-05-26T18:00:00-04:00, 100, None, W, 9 mph, Sunny
+2.1336, 2019-05-26T18:00:00-04:00, 87, None, E, 14 mph, Mostly Sunny
+86.86800000000001, 2019-05-26T18:00:00-04:00, 84, None, W, 10 to 15 mph, Sunny then Slight Chance Showers And Thunderstorms
+239.8776, 2019-05-26T18:00:00-04:00, 93, None, W, 5 to 9 mph, Sunny
+28.956000000000003, 2019-05-26T18:00:00-07:00, 62, None, SW, 5 to 10 mph, Rain Showers
+103.9368, 2019-05-26T18:00:00-07:00, 61, None, ESE, 5 mph, Rain Showers
+3.9624, 2019-05-26T18:00:00-04:00, 87, None, E, 15 mph, Mostly Sunny
+1457.8584, 2019-05-26T18:00:00-06:00, 82, None, SE, 5 to 20 mph, Partly Sunny then Slight Chance Showers And Thunderstorms
+249.936, 2019-05-26T18:00:00-05:00, 72, None, NE, 5 mph, Rain Showers Likely
+39.9288, 2019-05-26T18:00:00-04:00, 86, None, W, 8 to 14 mph, Mostly Sunny
+47.8536, 2019-05-26T18:00:00-07:00, 62, None, W, 12 to 21 mph, Showers And Thunderstorms Likely
+6.096, 2019-05-26T18:00:00-04:00, 87, None, E, 14 mph, Mostly Sunny
+209.0928, 2019-05-26T18:00:00-05:00, 77, None, W, 5 mph, Rain Showers Likely then Slight Chance Showers And Thunderstorms
+60.0456, 2019-05-26T18:00:00-07:00, 67, falling, NW, 9 to 15 mph, Slight Chance Rain Showers
+32.9184, 2019-05-26T18:00:00-07:00, 60, None, W, 5 to 15 mph, Rain Showers Likely
+1766.0112000000001, 2019-05-26T18:00:00-06:00, 78, falling, SSE, 5 to 16 mph, Mostly Sunny then Slight Chance Showers And Thunderstorms
+56.083200000000005, 2019-05-26T18:00:00-04:00, 96, None, E, 7 mph, Sunny
+121.0056, 2019-05-26T18:00:00-07:00, 71, None, NNW, 3 to 10 mph, Chance Rain Showers then Slight Chance Showers And Thunderstorms
+0.9144000000000001, 2019-05-26T18:00:00-07:00, 60, None, W, 10 to 18 mph, Chance Showers And Thunderstorms
+997.9152, 2019-05-26T18:00:00-06:00, 70, None, NE, 8 to 16 mph, Partly Sunny then Scattered Severe T-storms
+29.8704, 2019-05-26T18:00:00-07:00, 62, None, WSW, 5 to 15 mph, Rain Showers Likely
+213.0552, 2019-05-26T18:00:00-05:00, 87, None, S, 10 to 15 mph, Slight Chance Showers And Thunderstorms
+319.1256, 2019-05-26T18:00:00-04:00, 95, None, W, 5 to 10 mph, Sunny
+235.9152, 2019-05-26T18:00:00-07:00, 59, None, SW, 5 to 10 mph, Rain Showers
+60.96, 2019-05-26T18:00:00-07:00, 73, None, N, 3 to 10 mph, Mostly Sunny
+91.1352, 2019-05-26T18:00:00-04:00, 85, None, W, 8 to 13 mph, Mostly Sunny
+74.9808, 2019-05-26T18:00:00-07:00, 60, None, W, 5 to 15 mph, Rain Showers
+1633.1184, 2019-05-26T18:00:00-06:00, 77, falling, ENE, 3 to 8 mph, Mostly Sunny then Chance Showers And Thunderstorms
+1476.1464, 2019-05-26T18:00:00-06:00, 78, falling, ESE, 5 to 12 mph, Mostly Sunny then Chance Showers And Thunderstorms
+60.0456, 2019-05-26T18:00:00-07:00, 57, None, WNW, 18 to 25 mph, Chance Showers And Thunderstorms
+790.0416, 2019-05-26T18:00:00-06:00, 72, None, SE, 6 to 9 mph, Showers And Thunderstorms Likely
+138.9888, 2019-05-26T18:00:00-05:00, 90, None, S, 15 mph, Partly Sunny
+3.048, 2019-05-26T18:00:00-04:00, 87, None, E, 14 mph, Mostly Sunny
+132.8928, 2019-05-26T18:00:00-07:00, 60, None, SW, 5 to 10 mph, Rain Showers
+7.010400000000001, 2019-05-26T18:00:00-05:00, 87, falling, SE, 5 to 15 mph, Mostly Sunny
+164.8968, 2019-05-26T18:00:00-05:00, 89, None, S, 10 mph, Mostly Sunny
+29.8704, 2019-05-26T18:00:00-07:00, 62, None, SW, 5 to 10 mph, Rain Showers
+10.972800000000001, 2019-05-26T18:00:00-07:00, 60, falling, WNW, 15 to 18 mph, Showers And Thunderstorms Likely
+177.08880000000002, 2019-05-26T18:00:00-05:00, 69, falling, NE, 7 mph, Mostly Sunny
+295.0464, 2019-05-26T18:00:00-05:00, 86, None, S, 17 mph, Partly Sunny
+1360.0176000000001, 2019-05-26T18:00:00-07:00, 56, None, W, 5 to 15 mph, Showers And Thunderstorms Likely
+29.8704, 2019-05-26T18:00:00-04:00, 88, None, W, 12 mph, Mostly Sunny then Chance Showers And Thunderstorms
+177.08880000000002, 2019-05-26T18:00:00-07:00, 60, None, SSW, 5 to 10 mph, Rain Showers
+381, 2019-05-26T18:00:00-07:00, 57, None, SW, 5 to 10 mph, Rain Showers
+199.9488, 2019-05-26T18:00:00-05:00, 90, None, S, 15 mph, Partly Sunny
+153.924, 2019-05-26T18:00:00-07:00, 60, None, SW, 5 to 10 mph, Rain Showers
+1204.8744000000002, 2019-05-26T18:00:00-06:00, 90, None, SW, 8 to 32 mph, Sunny then Areas Of Blowing Dust
+60.96, 2019-05-26T18:00:00-07:00, 70, falling, N, 8 mph, Slight Chance Rain Showers
+196.9008, 2019-05-26T18:00:00-05:00, 76, None, N, 5 mph, Scattered Rain Showers then Mostly Cloudy
+0, 2019-05-26T18:00:00-04:00, 73, None, W, 5 to 10 mph, Chance Showers And Thunderstorms
+121.0056, 2019-05-26T18:00:00-07:00, 60, None, SW, 5 to 10 mph, Rain Showers
+84.12480000000001, 2019-05-26T18:00:00-05:00, 97, None, W, 0 to 5 mph, Sunny
+174.04080000000002, 2019-05-26T18:00:00+00:00, 65, falling, ESE, 5 mph, Chance Showers And Thunderstorms
+22.86, 2019-05-26T18:00:00-04:00, 89, None, W, 10 mph, Mostly Sunny then Chance Showers And Thunderstorms
+15.8496, 2019-05-26T18:00:00-04:00, 91, None, W, 10 mph, Mostly Sunny then Chance Showers And Thunderstorms
+563.88, 2019-05-26T18:00:00-05:00, 88, None, S, 15 to 20 mph, Mostly Cloudy
+202.9968, 2019-05-26T18:00:00-05:00, 68, None, NE, 5 to 10 mph, Partly Sunny
+59.1312, 2019-05-26T18:00:00-07:00, 64, None, SW, 9 to 21 mph, Chance Rain Showers
