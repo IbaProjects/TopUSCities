@@ -1,16 +1,15 @@
-#!./env/bin/python3.7
 import csv
 outString = ""
-reader1 = csv.reader(open('./data/wikiData.csv', 'r')) #acess csv file
+reader1 = csv.reader(open('./data/wikiData.csv', 'r', encoding='utf-8')) #acess csv file
 rank = 0 # used as counter since know 314 TOP US Cities previous wikitable parse
-reader2 = csv.reader(open('./data/zipCodes.csv', 'r')) #access the second file with url data
+reader2 = csv.reader(open('./data/zipCodes.csv', 'r', encoding='utf-8')) #access the second file with url data
 
-with open('./data/wikiData.csv', 'r') as f:
+with open('./data/wikiData.csv', 'r', encoding='utf-8') as f:
     mainData = f.readline() #read 1st line in mainData.cvs
     #mainData = '{}'.format(mainData.strip()) #reads and formats first line into string from mainData csv file
     mainData = '{}'.format(mainData.strip()) # formats 2nd line into string
 
-    with open('./data/zipCodes.csv', 'r') as g: #to begin parse
+    with open('./data/zipCodes.csv', 'r', encoding='utf-8') as g: #to begin parse
         urlData = g.readline() #read 1st line in urlData.csv
         #urlData = '{}'.format(urlData.strip())
         urlData = '{}'.format(urlData.strip()) #format 2nd line to string
@@ -34,7 +33,7 @@ with open('./data/wikiData.csv', 'r') as f:
 
 f.close()
 g.close()
-f = open("./data/wikiDataWithZipCodes.csv", 'w')
+f = open("./data/wikiDataWithZipCodes.csv", 'w', encoding='utf-8')
 f.write(str(outString))
 f.close()
     

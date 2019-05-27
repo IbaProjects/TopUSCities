@@ -7,10 +7,10 @@ This scrapper collects data on US Top Cites from wikipedia and formats into CSV 
 ```bash
 git clone https://github.com/IbaProjects/TopUSCities.git
 cd TopUSCities
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 
-## Usage
+## Usage MacOS/Linux/Windows(replace python with py.exe)
 Go to 'scraper' directory and run python command to generate wikiDataWithZipCodes.csv file in /scraper/data directory. Program parses US Top Cities wikipedia data table then parse each individual city website to collect zip codes.
 ```bash
 cd scraper

@@ -1,4 +1,3 @@
-#!./env/bin/python3.7
 #this program collect all the url link from Top US Cities wiki page and write 1 collumn of hyperlink to file
 import requests
 from bs4 import BeautifulSoup
@@ -25,6 +24,6 @@ for link in links: #for loop through links table information to create data stru
 #print(cities) #alternative method to use
 #for states in outString:
 
-f = open('testData.csv','w') #create csv file to write to 
+f = open('testData.csv','w', encoding='utf-8') #create csv file to write to 
 f.write(str(outString)) #write data of interest to file created.
 f.close()
