@@ -5,6 +5,8 @@ This scrapper collects data on US Top Cites from wikipedia and formats into CSV 
 
 
 ```bash
+git clone https://github.com/IbaProjects/TopUSCities.git
+cd TopUSCities
 pip install -r requirements.txt
 ```
 
@@ -29,9 +31,9 @@ This little piece of python code make it easy to combine two .csv data files.
 ```bash
 python appendCSV.py 'FILE_1.csv' 'FILE_2.csv'
 ```
-This allows to easily combine weatherData.csv to mainDataWithZipCodes.csv by running the command:
+This allows to easily combine weatherData.csv to mainDataWithZipCodes.csv by running the command from scraper directory:
 ```bash
-python appendCSV.py wikiDataWithZipCodes.csv weatherData.csv
+python appendCSV.py data/wikiDataWithZipCodes.csv data/weatherData.csv
 ```
 
 NOTE: both .csv files (i.e. FILE_1.csv and FILE_2.csv) must have the same number of rows to produce a clean .csv data file. Running command will generate combinedData.csv file in current working directory.  
