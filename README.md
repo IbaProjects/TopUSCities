@@ -1,7 +1,7 @@
 # Top US Cities Scrapper
 This scrapper collects data on US Top Cites from wikipedia and formats into CSV file type. The program parses wiki page on Top US Cities and writes table info  into .csv file. Each city website link is then parsed to collect zip code information. Optionally, there is python script that uses noaa_sdk to parse city weather data forecast and can be appended to the data set.
 
-## Installation
+## Installation MacOS/Linux/Windows(replace python with py.exe)
 
 
 ```bash
