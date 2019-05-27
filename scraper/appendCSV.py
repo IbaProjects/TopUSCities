@@ -23,6 +23,6 @@ with open(FILE_1, 'r') as f:
 #print(outString)
 f.close
 g.close
-h = open('newCSV.csv','w') #save csv formatted string to newCSV.csv file 
+h = open('combinedData.csv','w') #save csv formatted string to newCSV.csv file 
 h.write(str(outString))
 h.close

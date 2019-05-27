@@ -1,18 +1,17 @@
-#!./env/bin/python3.5
+#!../env/bin/python3.7
 #this program parses each city individual wiki site to retrieve zip code data
 import re
 import requests
 from bs4 import BeautifulSoup
 import csv
 wiki = "https://en.wikipedia.org/wiki/"
-element = csv.reader(open("mainData.csv", 'r'))
+element = csv.reader(open("./data/wikiData.csv", 'r'))
 city = next(element)[1] # call to skip header row
 header = 'Zip Codes\n'
 outString = header 
 cnt = 1
-with open("mainDataWithURL.csv") as f:
-    data = True 
-    while cnt <= 314:
+with open("./data/mainDataWithURL.csv") as f: 
+    while (cnt <= 314):
         try:
             data = f.readline()
             dataString = '{}'.format(data.strip())
@@ -35,13 +34,16 @@ with open("mainDataWithURL.csv") as f:
             print (outString)
             cnt += 1
             print(cnt) #print for feedback should loop 314 times
+        except KeyboardInterrupt:
+            raise
         except:
             #print('error')
             outString += city + " error: parse didn't find zip codes\n"
             cnt +=1
             pass
 
+f.close()
 outString = re.sub(r'\[\w+\]', '', outString) # removes footnotes boxes to clean csv file
-f = open("zipCodeData.csv", 'w')
+f = open("./data/zipCodes.csv", 'w')
 f.write(str(outString))
 f.close()

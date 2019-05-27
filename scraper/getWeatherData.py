@@ -1,4 +1,4 @@
-#!./env/bin/python3.5
+#!../env/bin/python3.7
 from noaa_sdk import noaa
 import re
 import csv
@@ -6,7 +6,7 @@ import sys
 cnt = 1 
 header = "elevation[meters], windDirection, temperature[°F], isDaytime, detailedForecast, shortForecast, windSpeed, startTime, number, endTime, name, temperatureTrend, " 
 outString = ''
-parameters = csv.reader(open('mainData.csv', 'r')) #get long and lat parameters from mainData filewindDir
+parameters = csv.reader(open('./data/wikiData.csv', 'r')) #get long and lat parameters from mainData filewindDir
 parameter = next(parameters)[12] #row=0, col=12, note this is the header row
 
 while(cnt<=314):
@@ -54,7 +54,7 @@ while(cnt<=314):
         pass
 h = "windDirection, temperature[°F], isDaytime, detailedForecast, shortForecast, windSpeed, startTime, number, endTime, name, temperatureTrend" # use to attach 13 extra header info for weather of different times of day
 outString = header + h + ', ' + h + ', ' + h + ', ' + h + ', ' + h + ', ' + h + ', ' + h + ', ' + h + ', ' + h + ', ' + h + ', ' + h + ', ' + h + '\n' + outString #long line due to 12 titles 
-with open('weatherData.csv', 'w') as f: #write to json file to operate on
+with open('./data/weatherData.csv', 'w') as f: #write to json file to operate on
     f.write(str(outString))
     f.close()
 
