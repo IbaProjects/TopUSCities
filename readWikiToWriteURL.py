@@ -1,4 +1,5 @@
-#!./env/bin/python3.5
+#!./env/bin/python3.7
+#this program collect all the url link from Top US Cities wiki page and write 1 collumn of hyperlink to file
 import requests
 from bs4 import BeautifulSoup
 

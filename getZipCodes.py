@@ -42,6 +42,6 @@ with open("mainDataWithURL.csv") as f:
             pass
 
 outString = re.sub(r'\[\w+\]', '', outString) # removes footnotes boxes to clean csv file
-f = open("testData.csv", 'w')
+f = open("zipCodeData.csv", 'w')
 f.write(str(outString))
 f.close()

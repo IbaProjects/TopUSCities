@@ -1,4 +1,4 @@
-#!./env/bin/python3.5
+#!./env/bin/python3.7
 import requests
 from bs4 import BeautifulSoup
 
@@ -27,7 +27,7 @@ for link in links: #for loop through links table information to create data stru
 #print(cities) #alternative method to use
 #for states in outString:
     
-f = open('testData.csv','w') #create csv file to write to 
+f = open('wikiData.csv','w') #create csv file to write to 
 f.write(str(outString)) #write data of interest to file created.
 f.close()
 

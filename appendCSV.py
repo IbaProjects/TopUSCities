@@ -1,4 +1,4 @@
-#!./env/bin/python3.5
+#!./env/bin/python3.7
 # this program append two csv files in respective order i.e. FILE_1, FILE_2
 # this program also assumed both csv file have mathching row by col 
 import sys
@@ -7,22 +7,22 @@ import csv
 FILE_1 = sys.argv[1] #first csv file passed to program via command line 
 FILE_2 = sys.argv[2] #second csv file passed 
 
-outString = ''
-with open(FILE_1, 'r') as f:
+outString = '' #used to construct string into formated csv file type
+with open(FILE_1, 'r') as f: 
     with open(FILE_2,  'r') as g:
-        reader1 = csv.reader(f)
-        reader2 = csv.reader(g)
-        r1 = f.readline().replace('\n', '') 
-        r2 = g.readline().replace('\n', '')
-        while r1: 
-            outString += str(r1) + ', ' + str(r2) + '\n'
-            r1 = f.readline().replace('\n', '') 
-            r2 = g.readline().replace('\n', '')
+        reader1 = csv.reader(f) #set reader1 equal to first line of FILE_1 csv file argument passed
+        reader2 = csv.reader(g) #set reader2 equal to first line of FILE_2
+        r1 = f.readline().replace('\n', '') # remove new line at end of string
+        r2 = g.readline().replace('\n', '') # remove new line ad end of string from variable
+        while r1: #run while each file line is read until end of file is reached
+            outString += str(r1) + ', ' + str(r2) + '\n' # append file 2 to file 1 and add new line at end of formated string
+            r1 = f.readline().replace('\n', '') #read next line in file 1 
+            r2 = g.readline().replace('\n', '') #read next line in file 2 befor looping again
              
 
 #print(outString)
 f.close
 g.close
-h = open('newCSV.csv','w')
+h = open('newCSV.csv','w') #save csv formatted string to newCSV.csv file 
 h.write(str(outString))
 h.close
