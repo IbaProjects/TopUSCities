@@ -8,7 +8,7 @@ This scrapper collects data on US Top Cites from
 
 ```bash
 git clone https://github.com/IbaProjects/TopUSCities.git
-cd TopUSCities
+cd TopUSCities/
 python -m pip install -r requirements.txt
 ```
 
