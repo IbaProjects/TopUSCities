@@ -1,7 +1,7 @@
 import csv
 outString = ""
 reader1 = csv.reader(open('./data/wikiData.csv', 'r')) #acess csv file
-rank = 1 # used as counter since know 314 TOP US Cities previous wikitable parse
+rank = 0 # used as counter since know 314 TOP US Cities previous wikitable parse
 row1 = next(reader1)[1] #cycle to next row=0, col=1
 row1 = next(reader1)[1] # row=1, col=1
 row1 = row1[:3] # get first three character of row=1, col=1 of mainData to compare for filtering

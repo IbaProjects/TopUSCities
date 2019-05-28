@@ -11,7 +11,7 @@ python -m pip install -r requirements.txt
 ```
 
 ## Usage MacOS/Linux/Windows(replace python with py.exe)
-Go to 'scraper' directory and run python command to generate file in /scraper/data directory. Program parses US Top Cities wikipedia data table then parse each individual city website to collect zip codes.
+Go to 'scraper' directory and run python command to generate csv file in /scraper/data directory. Program parses US Top Cities wikipedia data table then parse each individual city website to collect zip codes.
 ```bash
 cd scraper/
 python scraper.py

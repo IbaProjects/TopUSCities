@@ -31,7 +31,10 @@ with open("./data/urlData.csv", 'r', encoding='utf-8') as f:
                 #outString += city + ", "
                 outString += '{}'.format(zipCodes.get_text()).replace('\n', ', ') #use replace to keep in row format
                 outString = outString.replace(',', ' ')
-                outString += "\n"
+  #              outString = re.sub(r'[^\d\d\d\w\w]+[a-zA-Z\(\)]+((?!error).)*$', '', outString) # regular expression to delete all words except XXXXX-XXXXX, XXXXXX patterns
+   #             outString = re.sub(r'\[\d+\]+', ' ', outString)#remove footnotes, clean zipt data
+    #            outString = re.sub(r'(?<=\d\d\d[a-z0-9][a-z0-9])(?=\d\d\d\w\w)' , ' ', outString) #add space after repead 5 digits
+                outString += '\n'
                 print (outString)
                 cnt += 1
                 print(cnt) #print for feedback should loop 314 times
@@ -42,12 +45,14 @@ with open("./data/urlData.csv", 'r', encoding='utf-8') as f:
             except:            
                 #print('error')
                 outString += str(city) + " error: parse didn't find zip codes\n"
-                #print('error:', sys.exc_info()[0])
+                print('error:', sys.exc_info()[0])
                 cnt += 1
                 pass
 
+outString = re.sub(r'[^\d\d\d\w\w]+[a-zA-Z\(\)]+((?!error).)*$', '', outString) # regular expression to delete all words except XXXXX-XXXXX, XXXXXX patterns
+outString = re.sub(r'\[\d+\]+', ' ', outString)#remove footnotes, clean zipt data
+outString = re.sub(r'(?<=\d\d\d[a-z0-9][a-z0-9])(?=\d\d\d\w\w)' , ' ', outString) #add space after repead 5 digits
 f.close()
-outString = re.sub(r'\[\w+\]', '', outString) # removes footnotes boxes to clean csv file
 f = open("./data/zipCodes.csv", 'w', encoding='utf-8')
 f.write(str(outString))
 f.close()
