@@ -24,6 +24,6 @@ for link in links: #for loop through links table information to create data stru
 #print(cities) #alternative method to use
 #for states in outString:
 
-f = open('testData.csv','w', encoding='utf-8') #create csv file to write to 
+f = open('./data/urlData.csv','w', encoding='utf-8') #create csv file to write to 
 f.write(str(outString)) #write data of interest to file created.
 f.close()

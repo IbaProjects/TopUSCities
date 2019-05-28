@@ -1,7 +1,7 @@
 header = "wikipedia url\n"
 testString = ""
 outString = header 
-with open("testData.csv") as f:
+with open("./data/urlData.csv", 'r', encoding='utf-8') as f:
     data = f.readline()
     while data:
         testString = '{}'.format(data.strip())
@@ -16,6 +16,6 @@ with open("testData.csv") as f:
             testString = ""
             data = f.readline()
 
-f = open("testData.csv", 'w')
+f = open("./data/urlData.csv", 'w', encoding='utf-8')
 f.write(str(outString))
 f.close()
