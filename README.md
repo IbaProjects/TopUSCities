@@ -1,8 +1,10 @@
 # Top US Cities Scrapper
-This scrapper collects data on US Top Cites from wikipedia and formats into CSV file type. The program parses wiki page on Top US Cities and writes table info  into .csv file. Each city website link is then parsed to collect zip code information. Optionally, there is python script that uses noaa_sdk to parse city weather data forecast and can be appended to the data set.
+This scrapper collects data on US Top Cites from
+[Wikipedia] and formats into CSV file type. The program parses wiki page on Top US Cities and writes table info  into .csv file. Each city website link is then parsed to collect zip code information. Optionally, there is python script that uses [noaa_sdk] to parse city weather data forecast and can be appended to the data set.
 
+[Wikipedia]:https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population
 ## Installation MacOS/Linux/Windows(replace python with py.exe)
-
+[noaa_sdk]: https://github.com/paulokuong/noaa
 
 ```bash
 git clone https://github.com/IbaProjects/TopUSCities.git
@@ -30,7 +32,7 @@ NOTE: Once program start, terminal will print 3 different number as feedback its
 This little piece of python code make it easy to combine two .csv data files.
 
 ```bash
-python appendCSV.py 'FILE_1.csv' 'FILE_2.csv'
+python appendCSV.py 'FILE_1.csv' 'FILE_2.csv' 'FILE_NAME=optional'
 ```
 This allows to easily combine weatherData.csv to mainDataWithZipCodes.csv by running the command from scraper directory:
 ```bash
