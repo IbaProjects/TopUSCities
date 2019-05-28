@@ -12,7 +12,7 @@ with open("./data/urlData.csv", 'r', encoding='utf-8') as f:
     with open("./data/wikiData.csv", 'r', encoding='utf-8') as g:
         element = csv.reader(g)
         city = next(element)[1] # call to skip header row
-        data = f.readline()
+        #data = f.readline()
         while (cnt <= 314):
             try:
                 data = f.readline()
@@ -49,9 +49,9 @@ with open("./data/urlData.csv", 'r', encoding='utf-8') as f:
                 cnt += 1
                 pass
 
-outString = re.sub(r'[^\d\d\d\w\w]+[a-zA-Z\(\)]+((?!error).)*$', '', outString) # regular expression to delete all words except XXXXX-XXXXX, XXXXXX patterns
-outString = re.sub(r'\[\d+\]+', ' ', outString)#remove footnotes, clean zipt data
-outString = re.sub(r'(?<=\d\d\d[a-z0-9][a-z0-9])(?=\d\d\d\w\w)' , ' ', outString) #add space after repead 5 digits
+#outString = re.sub(r'[^\d\d\d\w\w]+[a-zA-Z\(\)]+((?!error).)*$', '', outString) # regular expression to delete all words except XXXXX-XXXXX, XXXXXX patterns
+outString = re.sub(r'\[\w+\]+', ' ', outString)#remove footnotes, clean zipt data
+#outString = re.sub(r'(?<=\d\d\d[a-z0-9][a-z0-9])(?=\d\d\d\w\w)' , ' ', outString) #add space after repead 5 digits
 f.close()
 f = open("./data/zipCodes.csv", 'w', encoding='utf-8')
 f.write(str(outString))
