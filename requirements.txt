@@ -1,7 +1,7 @@
 beautifulsoup4==4.7.1
 certifi==2019.3.9
 chardet==3.0.4
-httplib2==0.10.3
+httplib2==0.18.0
 idna==2.8
 lxml==4.3.3
 noaa-sdk==0.1.17
